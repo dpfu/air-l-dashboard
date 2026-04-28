@@ -1,0 +1,413 @@
+{
+  "refreshed_at": "2026-04-27T23:12:30Z",
+  "scope": "call_for_papers",
+  "processed": 178,
+  "changed_deadlines": 59,
+  "failures": [],
+  "deadline_counts": {
+    "2026-05-20": 3,
+    "none": 96,
+    "2026-06-15": 4,
+    "2026-09-15": 2,
+    "2026-04-30": 11,
+    "2026-05-04": 2,
+    "2026-05-24": 1,
+    "2026-05-02": 1,
+    "2026-05-17": 1,
+    "2026-06-01": 1,
+    "2026-04-23": 1,
+    "2026-05-15": 2,
+    "2026-04-26": 1,
+    "2026-04-17": 1,
+    "2026-04-27": 1,
+    "2026-04-14": 1,
+    "2026-05-01": 4,
+    "2026-08-03": 1,
+    "2026-04-01": 2,
+    "2026-04-10": 1,
+    "2026-03-30": 2,
+    "2026-03-31": 1,
+    "2026-03-15": 5,
+    "2026-06-30": 1,
+    "2026-03-22": 2,
+    "2026-03-09": 2,
+    "2026-03-13": 1,
+    "2026-07-10": 1,
+    "2026-03-01": 3,
+    "2026-03-28": 1,
+    "2026-02-28": 1,
+    "2026-02-27": 2,
+    "2026-07-31": 1,
+    "2026-02-24": 1,
+    "2026-02-22": 1,
+    "2026-02-17": 1,
+    "2026-02-16": 1,
+    "2026-02-05": 1,
+    "2026-01-31": 1,
+    "2026-01-20": 1,
+    "2026-01-26": 1,
+    "2026-01-09": 2,
+    "2026-01-10": 2,
+    "2026-01-15": 2,
+    "2026-01-18": 1,
+    "2026-01-12": 1,
+    "2026-01-11": 1,
+    "2026-03-24": 1
+  },
+  "changes": [
+    {
+      "id": "195884",
+      "from": null,
+      "to": "2026-09-15",
+      "subject": "[Air-L] CFP: Histories of publishing on media, for History of Media Studies"
+    },
+    {
+      "id": "195876",
+      "from": "2026-04-30",
+      "to": null,
+      "subject": "[Air-L] 4S Panel - CFA: Taking Back Technopower: STS and strategic interventions for the fight against technofascism"
+    },
+    {
+      "id": "195875",
+      "from": null,
+      "to": "2026-05-24",
+      "subject": "[Air-L] Call for papers: AI Hype Hope and Humanity 2026"
+    },
+    {
+      "id": "195869",
+      "from": null,
+      "to": "2026-05-02",
+      "subject": "[Air-L] CFP ICA 2026 Oceania Hub"
+    },
+    {
+      "id": "195868",
+      "from": null,
+      "to": "2026-05-17",
+      "subject": "[Air-L] CFS | After Virtual Reality: Extending Immersive Narrative Symposium"
+    },
+    {
+      "id": "195863",
+      "from": null,
+      "to": "2026-06-01",
+      "subject": "[Air-L] CfP for Data for Policy 2026 (DfP’26): Governance of/with AI: Implications for Data, Infrastructure, and Tech Sovereignty"
+    },
+    {
+      "id": "195858",
+      "from": "2026-04-30",
+      "to": null,
+      "subject": "[Air-L] 4S Toronto 2026 CfA: #248 Remaking the State"
+    },
+    {
+      "id": "195850",
+      "from": null,
+      "to": "2026-05-20",
+      "subject": "[Air-L] Call for Papers – Special Issue on AI, Algorithmic Media, and Digital Governance (Global Media and China)"
+    },
+    {
+      "id": "195848",
+      "from": "2026-04-30",
+      "to": "2026-04-23",
+      "subject": "[Air-L] Reminder: CFP - International Conference on Innovation in Rural Regions"
+    },
+    {
+      "id": "195842",
+      "from": null,
+      "to": "2026-04-26",
+      "subject": "[Air-L] Deadline for abstracts extended: Intimate Technologies of Reproductive Health - Interdisciplinary Perspectives (edited volume)"
+    },
+    {
+      "id": "195840",
+      "from": null,
+      "to": "2026-04-17",
+      "subject": "[Air-L] SMARTCOMP 2026, Final Call for Posters, Demos, and Work-in-Progress (WIP) Contributions (Deadline 17th April 2026 is approaching!)"
+    },
+    {
+      "id": "195824",
+      "from": "2026-05-07",
+      "to": "2026-04-14",
+      "subject": "[Air-L] CFP: EXTENDED DEADLINE 14 April - UMAP4Good at UMAP 2026 - First International Workshop on User Modeling, Personalization, and Adaptive Systems for Sustainability and Soci…"
+    },
+    {
+      "id": "195815",
+      "from": "2026-04-06",
+      "to": "2026-04-30",
+      "subject": "[Air-L] CFP: \"Phantom Media: Theorizing the Technoscientific (Retro)Futures of Elusive Media Technologies\" (at 4S)"
+    },
+    {
+      "id": "195814",
+      "from": "2026-06-26",
+      "to": "2026-08-03",
+      "subject": "[Air-L] 10th Workshop on Online Abuse and Harms (WOAH) @EMNLP: 1st CFP + Mentorship Programme"
+    },
+    {
+      "id": "195809",
+      "from": "2026-01-06",
+      "to": null,
+      "subject": "[Air-L] Call for papers: harmful policing and digitalisation"
+    },
+    {
+      "id": "195807",
+      "from": null,
+      "to": "2026-04-30",
+      "subject": "[Air-L] Call for Contributions: SEASON 2026 (Hamburg, 15-17 September 2026)"
+    },
+    {
+      "id": "195795",
+      "from": null,
+      "to": "2026-04-10",
+      "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Research Papers"
+    },
+    {
+      "id": "195779",
+      "from": "2026-04-23",
+      "to": null,
+      "subject": "[Air-L] NordiCHI 2026 - Final Call for Submissions"
+    },
+    {
+      "id": "195778",
+      "from": null,
+      "to": "2026-05-20",
+      "subject": "[Air-L] Call for Papers – Special Issue on AI, Algorithmic Media, and Digital Governance (Global Media and China)"
+    },
+    {
+      "id": "195771",
+      "from": null,
+      "to": "2026-03-30",
+      "subject": "[Air-L] CfA: Eurocrim 2026 (Warsaw) Roundtable on Digital Methods"
+    },
+    {
+      "id": "195758",
+      "from": "2026-04-28",
+      "to": null,
+      "subject": "[Air-L] Fwd: CFP: UMAP4Good at UMAP 2026 - First International Workshop on User Modeling, Personalization, and Adaptive Systems for Sustainability and Social Good"
+    },
+    {
+      "id": "195749",
+      "from": null,
+      "to": "2026-05-15",
+      "subject": "[Air-L] CfP: Instant Messaging as Political Communication Infrastructure – ECREA 2026 Pre-conference (Brno, 7 Sept)"
+    },
+    {
+      "id": "195745",
+      "from": null,
+      "to": "2026-03-30",
+      "subject": "[Air-L] CfP Conference: \"Utopias and dystopias of the digital society\""
+    },
+    {
+      "id": "195740",
+      "from": "2026-01-05",
+      "to": "2026-06-15",
+      "subject": "[Air-L] Call for Papers: Dark Sides and Criminal Uses of Digital and Intelligent Technologies (HICSS-60)"
+    },
+    {
+      "id": "195739",
+      "from": "2026-08-17",
+      "to": "2026-06-15",
+      "subject": "[Air-L] Call for Papers: Esports at HICSS 60"
+    },
+    {
+      "id": "195734",
+      "from": "2026-08-17",
+      "to": "2026-06-15",
+      "subject": "[Air-L] CfP: HICSS Games & Gaming"
+    },
+    {
+      "id": "195725",
+      "from": null,
+      "to": "2026-04-30",
+      "subject": "[Air-L] 4S Call for Abstracts: Techno-Magical Futures & Histories"
+    },
+    {
+      "id": "195722",
+      "from": null,
+      "to": "2026-03-15",
+      "subject": "[Air-L] CFP: Unconference submissions close 15 March!"
+    },
+    {
+      "id": "195719",
+      "from": null,
+      "to": "2026-06-30",
+      "subject": "[Air-L] CFP: Algorithmic Images and Information Urgency – Contemporary Photojournalism Challenges (EMP Journal – Q1 Scopus)"
+    },
+    {
+      "id": "195713",
+      "from": null,
+      "to": "2026-03-22",
+      "subject": "[Air-L] IEEE SMARTCOMP 2026: Call for Posters, Demos, and Work-in-Progress (WIP) (Submission Deadline: 22nd March 2026)"
+    },
+    {
+      "id": "195691",
+      "from": "2026-03-06",
+      "to": null,
+      "subject": "[Air-L] Final call for papers"
+    },
+    {
+      "id": "195685",
+      "from": null,
+      "to": "2026-03-09",
+      "subject": "[Air-L] CFP - EASST 2026, Krakow: Conceptualising \"Waste\" in the age of Digital Technologies and AI"
+    },
+    {
+      "id": "195683",
+      "from": null,
+      "to": "2026-03-13",
+      "subject": "[Air-L] Final call for poster presentations for SMSociety 2026 in Glasgow"
+    },
+    {
+      "id": "195679",
+      "from": null,
+      "to": "2026-04-30",
+      "subject": "[Air-L] CFP for 4s Toronto: AI as a performative phenomenon"
+    },
+    {
+      "id": "195671",
+      "from": "2026-04-04",
+      "to": "2026-07-10",
+      "subject": "[Air-L] Call, 4S, Toronto, Open Panel: Worker-led Techno-futures"
+    },
+    {
+      "id": "195647",
+      "from": null,
+      "to": "2026-03-15",
+      "subject": "[Air-L] CFP: NMWP Unconference Deadline EXTENDED to 15 Mar"
+    },
+    {
+      "id": "195642",
+      "from": null,
+      "to": "2026-03-01",
+      "subject": "[Air-L] #AoIR2026 Call for Proposals - deadline reminder"
+    },
+    {
+      "id": "195640",
+      "from": null,
+      "to": "2026-03-28",
+      "subject": "[Air-L] Call For Paper - Hybrid Media Worlds"
+    },
+    {
+      "id": "195619",
+      "from": null,
+      "to": "2026-02-28",
+      "subject": "[Air-L] CFP: Meaningful XR 2026"
+    },
+    {
+      "id": "195545",
+      "from": null,
+      "to": "2026-02-24",
+      "subject": "[Air-L] AOIR 2026 Panel Proposal on Digital Criminology - Call for Extended Abstracts"
+    },
+    {
+      "id": "195515",
+      "from": null,
+      "to": "2026-04-01",
+      "subject": "[Air-L] Cfp New paths and future trajectories in digital (dis)connection studies"
+    },
+    {
+      "id": "195466",
+      "from": null,
+      "to": "2026-04-30",
+      "subject": "[Air-L] Call for Papers – IndabaX Nigeria 2026 (AI/ML Research Submissions)"
+    },
+    {
+      "id": "195451",
+      "from": null,
+      "to": "2026-02-17",
+      "subject": "[Air-L] Cfp: Digital Methods Summer School '26 - Univ. Amsterdam"
+    },
+    {
+      "id": "195441",
+      "from": null,
+      "to": "2026-02-16",
+      "subject": "[Air-L] IEEE SMARTCOMP 2026: Final Call for Research Track Papers and Industry Track Papers (Deadline Extended: 16th February 2026)"
+    },
+    {
+      "id": "195430",
+      "from": "2026-10-03",
+      "to": null,
+      "subject": "[Air-L] NordiCHI 2026 - 2nd Call for Submissions"
+    },
+    {
+      "id": "195420",
+      "from": null,
+      "to": "2026-03-15",
+      "subject": "[Air-L] CFP for Teaching Authentic Thinking in the Age of AI: Theory, Pedagogy, and Practice"
+    },
+    {
+      "id": "195416",
+      "from": null,
+      "to": "2026-02-05",
+      "subject": "[Air-L] CFP: CHI’26 Workshop CHIdeology: Disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies"
+    },
+    {
+      "id": "195412",
+      "from": null,
+      "to": "2026-09-15",
+      "subject": "[Air-L] Call for Papers: AI Regulation in Asia – Emerging Pathways, Divergent Models, and Global Implications (Special Issue with Computer Law & Security Review)"
+    },
+    {
+      "id": "195409",
+      "from": null,
+      "to": "2026-01-31",
+      "subject": "[Air-L] CfP closing soon - ICA26 preconference ‘Practicing Trust: Media, Machines and Methods’"
+    },
+    {
+      "id": "195407",
+      "from": null,
+      "to": "2026-03-15",
+      "subject": "[Air-L] CFP Preconference ICA: Decolonizing the Visual: Community, Memory, and Resistance"
+    },
+    {
+      "id": "195387",
+      "from": null,
+      "to": "2026-02-27",
+      "subject": "[Air-L] CFP: The Landscape of Generative AI in Australia (MIA; Abstracts due 27 Feb)"
+    },
+    {
+      "id": "195379",
+      "from": null,
+      "to": "2026-01-20",
+      "subject": "[Air-L] Final call for papers"
+    },
+    {
+      "id": "195373",
+      "from": null,
+      "to": "2026-01-26",
+      "subject": "[Air-L] GIG-ARTS 2026 Dublin - Deadline Extension"
+    },
+    {
+      "id": "195370",
+      "from": null,
+      "to": "2026-01-09",
+      "subject": "[Air-L] Reminder: Call for Abstracts - Digital Criminology (deadline in 9 days)"
+    },
+    {
+      "id": "195348",
+      "from": null,
+      "to": "2026-01-12",
+      "subject": "[Air-L] Deadline reminder: Abstract submissions for GIG-ARTS Dublin 2026 (19 January 2026)"
+    },
+    {
+      "id": "195344",
+      "from": null,
+      "to": "2026-03-01",
+      "subject": "[Air-L] [AoIR HQ] Warm Welcomes, Heartfelt Thanks, CFP and updates"
+    },
+    {
+      "id": "195342",
+      "from": null,
+      "to": "2026-01-11",
+      "subject": "[Air-L] Reminder - Call for abstracts edited volume \"Cyber Events\" (deadline 11 January)"
+    },
+    {
+      "id": "195337",
+      "from": null,
+      "to": "2026-03-01",
+      "subject": "[Air-L] #AoIR2026 Regeneration Call for Proposals!"
+    },
+    {
+      "id": "195328",
+      "from": "2026-01-19",
+      "to": null,
+      "subject": "[Air-L] REMINDER: CFP - Global Institutional Perspectives on GenAI & Cultural Industries"
+    }
+  ]
+}

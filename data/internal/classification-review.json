@@ -1,1 +1,2784 @@
-[]
+{
+  "reviewed_at": "2026-04-27T22:59:07Z",
+  "source": "subject-only reclassification after heuristic refinement",
+  "total_posts": 588,
+  "changed_records": 460,
+  "old_counts": {
+    "event": 98,
+    "other": 276,
+    "call_for_papers": 146,
+    "publication": 31,
+    "job": 37
+  },
+  "new_counts": {
+    "event": 106,
+    "other": 229,
+    "call_for_papers": 178,
+    "publication": 34,
+    "job": 41
+  },
+  "changes": [
+    {
+      "id": "195908",
+      "subject": "[Air-L] Gender & Tech Talk Series – May 5, 2026, 10:00am EDT – Possible AI Futures",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195906",
+      "subject": "[Air-L] ARPANET resurrection update and possible significances?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195905",
+      "subject": "[Air-L] Call for Papers – Special Issue on AI, Algorithmic Media, and Digital Governance (Global Media and China)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195904",
+      "subject": "[Air-L] Book launch: The Many Faces of Data Access: Legal and Policy Implications for Research",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195903",
+      "subject": "[Air-L] Building a Feminist Research Career in Anti-Feminist Times - 10 June at King's College London",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195900",
+      "subject": "[Air-L] ARPANET resurrection update and possible significances?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195899",
+      "subject": "[Air-L] ARPANET resurrection update and possible significances?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195896",
+      "subject": "[Air-L] 4S Open Panel: Technopolitics of Knowledge Mobilization in Datafied Societies",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195895",
+      "subject": "[Air-L] Programme Announced: 10th GIG-ARTS Conference, Dublin, 14–15 May 2026",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195894",
+      "subject": "[Air-L] ARPANET resurrection update and possible significances?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195892",
+      "subject": "[Air-L] CFP special issue on mobile disconnection and online events",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195891",
+      "subject": "[Air-L] Invitation to report launch \"Data Frictions and Inclusive Digital Skills\"",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195889",
+      "subject": "[Air-L] Hype Literacy Toolkit",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195888",
+      "subject": "[Air-L] CfP: Boundaries, boundary concepts, and datafication (Digital Culture & Society)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195887",
+      "subject": "[Air-L] CfA 4S Toronto: Technological Frontiers of Body & Land",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195886",
+      "subject": "[Air-L] CfP: HICSS Communication, Digital Conversation, and Media Technologies minitrack (due June 15, 2026; conference January 2027)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195885",
+      "subject": "[Air-L] Mapping Culture using Complex Networks: Entangling Science and the Humanities",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195884",
+      "subject": "[Air-L] CFP: Histories of publishing on media, for History of Media Studies",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195883",
+      "subject": "[Air-L] Call for Abstracts - Future Directions for Critical Data Center Studies - 4S Meeting Toronto",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195882",
+      "subject": "[Air-L] DeepLearn 2026: early registration April 25",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195880",
+      "subject": "[Air-L] Reminder - CFP RESET – “Content creators”. Capturing the economic, social, and material realities of creation on digital platforms – Proposal Deadline: May 4, 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195879",
+      "subject": "[Air-L] 28 April: “How Government Control of Media Influences Large Language Models” by Prof. Margaret E. Roberts",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195878",
+      "subject": "[Air-L] Special issue of JRAM on podcasting and elections",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195877",
+      "subject": "[Air-L] cfp 4s panel The Normal Vices and Violences of Data",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195876",
+      "subject": "[Air-L] 4S Panel - CFA: Taking Back Technopower: STS and strategic interventions for the fight against technofascism",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195875",
+      "subject": "[Air-L] Call for papers: AI Hype Hope and Humanity 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195874",
+      "subject": "[Air-L] New open access book: Postdigital Intimacies: Relational lives in the networked public-private (UCL Press)",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195873",
+      "subject": "[Air-L] New open access book: Postdigital Intimacies: Relational lives in the networked public-private (UCL Press)",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195872",
+      "subject": "[Air-L] ISOC LIVE - What’s On & What’s New - Apr 21 2026",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195871",
+      "subject": "[Air-L] Two PhDs positions on Persuasive AI Futures - University of St. Gallen",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195870",
+      "subject": "[Air-L] Workshop on the politics of GenAI governance",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195869",
+      "subject": "[Air-L] CFP ICA 2026 Oceania Hub",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195868",
+      "subject": "[Air-L] CFS | After Virtual Reality: Extending Immersive Narrative Symposium",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195867",
+      "subject": "[Air-L] 10 more days to apply: “Synthetic Social Media – Studying Platform-Embedded AI” (22–25 September 2026, CRC Media of Cooperation, University of Siegen)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195866",
+      "subject": "[Air-L] PhD in Feminist Software Design: Fully Funded, Uni of Amsterdam, April 28",
+      "from": "other",
+      "to": "job"
+    },
+    {
+      "id": "195865",
+      "subject": "[Air-L] VIDEO: Censorship and Freedom of Expression Panel at Cambridge Disinformation Summit",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195864",
+      "subject": "[Air-L] New Book Announcement: The 'Socially Networked' Newsroom: Journalists and their Discourses of Digital Communication",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195863",
+      "subject": "[Air-L] CfP for Data for Policy 2026 (DfP’26): Governance of/with AI: Implications for Data, Infrastructure, and Tech Sovereignty",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195862",
+      "subject": "[Air-L] New Special Issue on NMS: Contextual Complexities of Violence on Digital Platforms",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195861",
+      "subject": "[Air-L] Workshop: Beyond the Ban? Regulating Platform Design for Minors (April 21)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195860",
+      "subject": "[Air-L] New Series launched: The Politics of Data and AI",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195859",
+      "subject": "[Air-L] New Book: Digital Modernity: Why We Need to Think Historically About the Digital Age",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195857",
+      "subject": "[Air-L] Conference “Un/Making Boundaries: Seams, Borders, and Fences in Sensor Media Environments”, 16-17 April, Uni Siegen (DE)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195856",
+      "subject": "[Air-L] ISOC LIVE - What's On & What's New",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195855",
+      "subject": "[Air-L] Webinar: Doing Digital Platform Research with Australian Internet Observatory Tuesday 21 April",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195854",
+      "subject": "[Air-L] Conference Info – Digital Statecraft and Political Economy in China",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195853",
+      "subject": "[Air-L] My new book \"Social Media as Fragile State\"",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195851",
+      "subject": "[Air-L] ISOC LIVE - What's On & What's New",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195850",
+      "subject": "[Air-L] Call for Papers – Special Issue on AI, Algorithmic Media, and Digital Governance (Global Media and China)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195849",
+      "subject": "[Air-L] Fun bit from the NYT reveal into Satoshi’s identity",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195848",
+      "subject": "[Air-L] Reminder: CFP - International Conference on Innovation in Rural Regions",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195847",
+      "subject": "[Air-L] Fun bit from the NYT reveal into Satoshi’s identity",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195846",
+      "subject": "[Air-L] Job announcement: Assistant Professor (General Faculty) in Media Studies at the University of Virginia",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195845",
+      "subject": "[Air-L] PhD position call in Digital Participation in War",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195844",
+      "subject": "[Air-L] CFP: Measuring Media Use and Effects: Computational Opportunities and Challenges",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195843",
+      "subject": "[Air-L] Call for Chapters: The Routledge International Handbook of Social Engineering and Crime",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195842",
+      "subject": "[Air-L] Deadline for abstracts extended: Intimate Technologies of Reproductive Health - Interdisciplinary Perspectives (edited volume)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195840",
+      "subject": "[Air-L] SMARTCOMP 2026, Final Call for Posters, Demos, and Work-in-Progress (WIP) Contributions (Deadline 17th April 2026 is approaching!)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195833",
+      "subject": "[Air-L] New book: TikTok and Youth Cultures",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195832",
+      "subject": "[Air-L] CFP: AI & Culture — SWPACA 2026 Summer Salon Virtual — Deadline April 27, 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195831",
+      "subject": "[Air-L] Monday 12 April 11:00 SAST |ACEPS | GES SDAAI Speaker Series",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195830",
+      "subject": "[Air-L] Invitation – Ian Milligan (University of Waterloo), Lecture | 27 April 2026, 2–4 pm (CEST)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195829",
+      "subject": "[Air-L] Planetary AI Spring Seminar Series: Dr. Rafael Grohmann (April 14)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195827",
+      "subject": "[Air-L] Call for Abstracts - 3rd Workshop on Frictional Design in Hybrid Human-AI Systems | Jul 7, Brussels @ HHAI26",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195826",
+      "subject": "[Air-L] New Book Annoucement",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195825",
+      "subject": "[Air-L] LaborTech Call for Award Nominations--Book, Grad Student Paper, Social Justice",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195824",
+      "subject": "[Air-L] CFP: EXTENDED DEADLINE 14 April - UMAP4Good at UMAP 2026 - First International Workshop on User Modeling, Personalization, and Adaptive Systems for Sustainability and Soci…",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195823",
+      "subject": "[Air-L] Academic positions in Barcelona (Creative Industries, Technology & Society)",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195822",
+      "subject": "[Air-L] New Special Issue: Towards polycentricity? The quest for legitimacy and trust in digital governance (iCS)",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195821",
+      "subject": "[Air-L] Call for Papers",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195820",
+      "subject": "[Air-L] Special Issue Published - Digital Resilience Within a Hypermediated Polycrisis [MaC]",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195817",
+      "subject": "[Air-L] CFP - 4S Open Panel #227: Computing Machinery Supply Chains Across Space, Time, and Method",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195816",
+      "subject": "[Air-L] Inviting submissions to 4S open panel on Mobile AI",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195814",
+      "subject": "[Air-L] 10th Workshop on Online Abuse and Harms (WOAH) @EMNLP: 1st CFP + Mentorship Programme",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195813",
+      "subject": "[Air-L] [Hybrid book launch on April 8] The Transsion Approach + Silicon Elsewhere",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195812",
+      "subject": "[Air-L] Book announcement: Digital Solidarity Economy in Latin America",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195810",
+      "subject": "[Air-L] New Historical X/Twitter Access Point Approved",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195809",
+      "subject": "[Air-L] Call for papers: harmful policing and digitalisation",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195808",
+      "subject": "[Air-L] CFP: Conspiracy Theories in the Wake of Disaster",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195807",
+      "subject": "[Air-L] Call for Contributions: SEASON 2026 (Hamburg, 15-17 September 2026)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195806",
+      "subject": "[Air-L] Join us Apr. 15 at 2pm ET! Webinar on AI Influencers and the Future of the Creator Economy",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195805",
+      "subject": "[Air-L] CFP: The Hybrid Subject: Navigating Human-AI Communication, Shenzhen, China",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195804",
+      "subject": "[Air-L] New book: Hot Connections: Why Sexual Platforms Matter by Jenny Sundén, Susanna Paasonen & Katrin Tiidenberg",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195803",
+      "subject": "[Air-L] AI-BRIDGES Symposium: Institutional Data, Open Knowledge & AI — May 28–29, London (free)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195802",
+      "subject": "[Air-L] Panel on Censorship and Freedom of Expression at the Cambridge Disinformation Summit",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195801",
+      "subject": "[Air-L] 2025 Internet Society Annual report (summary)",
+      "from": "other",
+      "to": "publication"
+    },
+    {
+      "id": "195800",
+      "subject": "[Air-L] Influencer Diplomacy: a one-day symposium hosted by IERLab",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195798",
+      "subject": "[Air-L] [AoIR HQ] Legacy Lecture Series Announcement - A Roundtable on Methods",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195797",
+      "subject": "[Air-L] Reminder: CFA: ECREA 2026 pre-conference on digital disconnection. Deadline April 1st",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195796",
+      "subject": "[Air-L] Defending Researchers: My Declaration in CITR v. Rubio",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195795",
+      "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Research Papers",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195794",
+      "subject": "[Air-L] M 3/30/26 & 4/6/26 & open @WorldUnivAndSch #WUaSNewsAndQA & #WUaSWeeklyBusinessMeeting Agenda & News",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195793",
+      "subject": "[Air-L] ANU School of Sociology x ANU Computational Culture Lab seminar on 'Climate’s Computational Infrastructures', Prof Michael Richardson (UNSW) and Prof Adrian Mackenzie (ANU…",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195792",
+      "subject": "[Air-L] APRALO Policy Forum – IDN Policies and Implementation",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195789",
+      "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Third Call for Papers (Research Track)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195787",
+      "subject": "[Air-L] New open access book: Gender and Digital Media (2026, Routledge)",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195785",
+      "subject": "[Air-L] CFP: ASIS&T 2026 Panel on Generative AI, Disinformation, and the Global Information Ecosystem",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195784",
+      "subject": "[Air-L] WEBINAR APR 15 – The Data Center Frontier",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195783",
+      "subject": "[Air-L] Report Launch on Youth Financial Well-being in Digital Economy - April 1",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195781",
+      "subject": "[Air-L] Paula Bialski joins CaMP reading group tomorrow",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195780",
+      "subject": "[Air-L] [FlashLab seminar] \"Environment & Digital Technologies\" series with Jen Liu (Univ. of Toronto): \"Ghosting the Coast: Infrastructural Retreat in Southeast Louisiana\" - (Apr…",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195779",
+      "subject": "[Air-L] NordiCHI 2026 - Final Call for Submissions",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195778",
+      "subject": "[Air-L] Call for Papers – Special Issue on AI, Algorithmic Media, and Digital Governance (Global Media and China)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195777",
+      "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Second Call for Workshop Proposals",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195776",
+      "subject": "[Air-L] New essay article: Over the Quantum Cliff",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195775",
+      "subject": "[Air-L] 75th E-seminar // Campbell Thomson — \"Memeing the Great Reset: Circulating post-COVID conspiracies in the UK Freedom Movement\" (30 Mar – 12 Apr 2026)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195774",
+      "subject": "[Air-L] Final reminder - PhD studentship (2026-), 'Artificial Inequality: AI and its Impact on the UK Creative Industries', University of Manchester",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195773",
+      "subject": "[Air-L] Call for Participants: AI, Academic Labor, and Productivity",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195771",
+      "subject": "[Air-L] CfA: Eurocrim 2026 (Warsaw) Roundtable on Digital Methods",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195770",
+      "subject": "[Air-L] CfP Synthetic Social Media: Studying Platform-Embedded AI 22-25 September 2026, CRC Media of Cooperation, University of Siegen",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195769",
+      "subject": "[Air-L] 4s open panel The normal vices and violences of data",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195768",
+      "subject": "[Air-L] [Collaboration] Open Research Platform for Multi-Agent LLM Deliberation",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195767",
+      "subject": "[Air-L] [Collaboration] Open Research Platform for Multi-Agent LLM Deliberation",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195766",
+      "subject": "[Air-L] 4S 2026 CfA: Open Panel on ontologies of (ac)counting with and beyond data",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195765",
+      "subject": "[Air-L] RECORDING - FCC - 30th Anniversary of the 96 Act Webinar – What Did We Learn?",
+      "from": "event",
+      "to": "other"
+    },
+    {
+      "id": "195764",
+      "subject": "[Air-L] Workshop on the future of LLMs",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195763",
+      "subject": "[Air-L] CFP: Algorithmic Accountability and Ethics – Media, Technology & Governance",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195762",
+      "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Journal First Papers",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195760",
+      "subject": "[Air-L] Three postdoc positions open",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195759",
+      "subject": "[Air-L] [AoIR HQ] Reminder: Members-Only Talk with Dr. Steve Jones — Next Week!",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195758",
+      "subject": "[Air-L] Fwd: CFP: UMAP4Good at UMAP 2026 - First International Workshop on User Modeling, Personalization, and Adaptive Systems for Sustainability and Social Good",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195757",
+      "subject": "[Air-L] Call for Applications: Assistant Managing Editor (JCEA, 2026–2028)",
+      "from": "other",
+      "to": "job"
+    },
+    {
+      "id": "195756",
+      "subject": "[Air-L] Reminder: CCSN book event - Global South Creator Cultures, 30th March",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195755",
+      "subject": "[Air-L] AIces 2026: regular registration March 27",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195754",
+      "subject": "[Air-L] RECORDING - NextGen at ICANN85 Presentations",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195753",
+      "subject": "[Air-L] 4S Open Panel: Reworking TechnoPower: Everyday Digital Practices in Marginalized Worlds",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195752",
+      "subject": "[Air-L] Many, Many Machine Agencies: Call for Participation in 4S Open Panel and Edited Book",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195751",
+      "subject": "[Air-L] IEEE SmartComp 2026 PhD Forum Call for Contributions",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195750",
+      "subject": "[Air-L] Many, Many Machine Agencies: Call for Participation in 4S Open Panel and Edited Book",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195749",
+      "subject": "[Air-L] CfP: Instant Messaging as Political Communication Infrastructure – ECREA 2026 Pre-conference (Brno, 7 Sept)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195748",
+      "subject": "[Air-L] 4S Call: Housing, property, and technoscientific capitalism",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195747",
+      "subject": "[Air-L] PhD position call in Digital Participation in War",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195746",
+      "subject": "[Air-L] Modeling and Analyzing User Behavior and Decision-Making in Social Networks - University of Manchester",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195745",
+      "subject": "[Air-L] CfP Conference: \"Utopias and dystopias of the digital society\"",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195744",
+      "subject": "[Air-L] Vacancy: Postdoctoral Researcher in Open AI for Social Sciences & Humanities (UvA)",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195743",
+      "subject": "[Air-L] 3rd WIP-Workshop in Digital Sociology (online)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195742",
+      "subject": "[Air-L] International Society for Humor Studies Annual Conference @ Niterói, UFF",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195741",
+      "subject": "[Air-L] ISOC LIVE ICYMI",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195740",
+      "subject": "[Air-L] Call for Papers: Dark Sides and Criminal Uses of Digital and Intelligent Technologies (HICSS-60)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195739",
+      "subject": "[Air-L] Call for Papers: Esports at HICSS 60",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195738",
+      "subject": "[Air-L] Can we make the Internet quantum-resistant? | Free University of Manchester Online Seminar",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195737",
+      "subject": "[Air-L] Reminder - Postdoc positions in platform work",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195736",
+      "subject": "[Air-L] Call for Contributions: Intimate Technologies of Reproductive Health - Interdisciplinary Perspectives (working title)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195735",
+      "subject": "[Air-L] *Wednesday!* - Big Data & Society S'26 Colloquium - Governing Digital Infrastructures",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195734",
+      "subject": "[Air-L] CfP: HICSS Games & Gaming",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195733",
+      "subject": "[Air-L] CFP: MisD2026 Workshop on Misinformation Detection (ICWSM 2026)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195732",
+      "subject": "[Air-L] Applications Open: Nordic Nerds 2026 Reading and Mentorship Group",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195731",
+      "subject": "[Air-L] Fwd: 4S Toronto - Code, Bodies, and Territories - Submit your abstracts by April 30",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195730",
+      "subject": "[Air-L] Paula Bialski on Middletech",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195727",
+      "subject": "[Air-L] RECORDING - ICANN 85 - GNSO: ISPCP Outreach Session",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195726",
+      "subject": "[Air-L] CFP RESET – “Content creators”. Capturing the economic, social, and material realities of creation on digital platforms – Proposal Deadline: May 4, 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195725",
+      "subject": "[Air-L] 4S Call for Abstracts: Techno-Magical Futures & Histories",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195724",
+      "subject": "[Air-L] Gender & Tech Talk Series – March 26, 10:00am EDT – Immigration and Techno-authoritarianism",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195723",
+      "subject": "[Air-L] REMINDER - CFP Preconference ICA: Decolonizing the Visual: Community, Memory, and Resistance",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195722",
+      "subject": "[Air-L] CFP: Unconference submissions close 15 March!",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195720",
+      "subject": "[Air-L] Open position: Postdoc on AI in welfare",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195719",
+      "subject": "[Air-L] CFP: Algorithmic Images and Information Urgency – Contemporary Photojournalism Challenges (EMP Journal – Q1 Scopus)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195718",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195716",
+      "subject": "[Air-L] Call for Chapter Proposals - Handbook Gray Zones",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195715",
+      "subject": "[Air-L] CFP: CySoc 2026 Workshop at ICWSM — Human–AI Relationships & Cyber Social Threats",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195714",
+      "subject": "[Air-L] RECORDING - ICANN 85 – WSIS+20 Lessons Learned & Next Steps",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195713",
+      "subject": "[Air-L] IEEE SMARTCOMP 2026: Call for Posters, Demos, and Work-in-Progress (WIP) (Submission Deadline: 22nd March 2026)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195712",
+      "subject": "[Air-L] Critical Business Model Studies: Open Panel @ 4S 2026 Toronto",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195711",
+      "subject": "[Air-L] Tracker, AI & Worker Mobilization in Arts, Culture and Media",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195710",
+      "subject": "[Air-L] Call for applications — Wikipedia Residency at Konvent (Barcelona, August 2026)",
+      "from": "other",
+      "to": "job"
+    },
+    {
+      "id": "195709",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195708",
+      "subject": "[Air-L] Funded PhD in the creator economy at Aarhus University (Blake Hallinan)",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195707",
+      "subject": "[Air-L] Digital Investigations Lab – Launch Event at King's College London – 24 March",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195706",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195705",
+      "subject": "[Air-L] Targeted: Corporations and the Police Surveillance Economy, book talk and discussion w/ Kelly Gates, April 22nd 5pm UK time",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195704",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195702",
+      "subject": "[Air-L] Targeted: Corporations and the Police Surveillance Economy, book talk and discussion w/ Kelly Gates, April 22nd 5pm UK time",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195701",
+      "subject": "[Air-L] Survey on the Role of Web Archiving in Research Practices",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195700",
+      "subject": "[Air-L] 2 PhD positions on themes related to Digital Society, Infrastructure, Legacies",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195699",
+      "subject": "[Air-L] Creative Approaches to Qualitative Research Summer School at the University of Manchester (6–8 July)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195698",
+      "subject": "[Air-L] Call for Participants: AI and News in UK",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195697",
+      "subject": "[Air-L] DeepLearn 2026: early registration March 29",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195696",
+      "subject": "[Air-L] Discussion of ChatGPT and other AIs and their uses",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195695",
+      "subject": "[Air-L] Discussion of ChatGPT and other AIs and their uses",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195692",
+      "subject": "[Air-L] Discussion of ChatGPT and other AIs and their uses",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195691",
+      "subject": "[Air-L] Final call for papers",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195690",
+      "subject": "[Air-L] PhD Position [Fully Funded]: Human-Centred AI for Programming Environments",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195689",
+      "subject": "[Air-L] Digital Methods Summer School at the University of Manchester",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195688",
+      "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Third Call for Research Papers",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195687",
+      "subject": "[Air-L] [AoIR HQ] Register for AoIR Legacy Talk Series",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195686",
+      "subject": "[Air-L] Webinar March 10! High-impact assignment that motivates students",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195685",
+      "subject": "[Air-L] CFP - EASST 2026, Krakow: Conceptualising \"Waste\" in the age of Digital Technologies and AI",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195683",
+      "subject": "[Air-L] Final call for poster presentations for SMSociety 2026 in Glasgow",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195682",
+      "subject": "[Air-L] Call for Abstract (4S 2026): Technopolitics of Knowledge Mobilization in Datafied Societies",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195681",
+      "subject": "[Air-L] Call for studies for a meta-analysis (Deepfake vs. authentic video effects)",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195680",
+      "subject": "[Air-L] Gender and Technology: An Introduction; now available in the United States",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195679",
+      "subject": "[Air-L] CFP for 4s Toronto: AI as a performative phenomenon",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195678",
+      "subject": "[Air-L] Last call for registration to The Digital Conference (KCL) for paper presenters: 8th March",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195677",
+      "subject": "[Air-L] New open access titles in Science Technology and Society",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195675",
+      "subject": "[Air-L] Join us for our first CCSN book event of 2026! Global South Creator Cultures",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195673",
+      "subject": "[Air-L] Fwd: Towards Mapping and Defining Critical Hype Studies: Multi-author-position paper 🦄",
+      "from": "job",
+      "to": "other"
+    },
+    {
+      "id": "195672",
+      "subject": "[Air-L] IEEE SMARTCOMP 2026 Workshops – Submission Deadline: March 9th, 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195671",
+      "subject": "[Air-L] Call, 4S, Toronto, Open Panel: Worker-led Techno-futures",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195669",
+      "subject": "[Air-L] Tomorrow, Online Talk with Nick Srnicek, Silicon Empires",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195668",
+      "subject": "[Air-L] Postdoctoral positions in platform work research",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195667",
+      "subject": "[Air-L] SWING School on Internet Governance - 3 Onsite Spots Still Available (Register by 13 March 2026)",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195666",
+      "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Second Call for Papers (Industry Track)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195665",
+      "subject": "[Air-L] CFP: Sounding Things: Props, Material Culture, and Accessories in Popular Music",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195662",
+      "subject": "[Air-L] New article: Extraction-by-design in baby-tracking apps (open access)",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195661",
+      "subject": "[Air-L] Critical Political Economy and Southern Approaches to AI: A Dialogue",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195660",
+      "subject": "[Air-L] ECREA pre-con Harmful Visuals in Vienna",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195658",
+      "subject": "[Air-L] [Reminder] Online Symposium on Influencer Diplomacy: Applications closing soon [16 March 2026]",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195657",
+      "subject": "[Air-L] Applications now open for AusSTS Awards & Prizes 🏆",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195656",
+      "subject": "[Air-L] Techno-politics of Interoperability - Big Data & Society S'26 Colloquium",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195655",
+      "subject": "[Air-L] RECORDING – IS3C Webinar – The Post-Quantum Cryptography transition. Tackling a huge challenge",
+      "from": "event",
+      "to": "other"
+    },
+    {
+      "id": "195654",
+      "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): First Call for Fast Abstracts and Project Highlights",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195652",
+      "subject": "[Air-L] AoIR 2026 Mexico reminder",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195651",
+      "subject": "[Air-L] (Deadline repost) Special Issue Call for Papers: Contemporary craft work and digital craft economies",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195650",
+      "subject": "[Air-L] CfA: “A field in formation: What do we mean by ‘critical’ and ‘AI’ in Critical AI Studies?” [EASST2026]",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195649",
+      "subject": "[Air-L] RECORDING - APRALO Policy Forum Webinar on Multilingual Domain Names",
+      "from": "event",
+      "to": "other"
+    },
+    {
+      "id": "195648",
+      "subject": "[Air-L] 39th IEEE International Symposium on Computer-Based Medical Systems (CBMS): Last Mile for Contributions",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195646",
+      "subject": "[Air-L] 27 February \"How the Far Right and Social Media Mobilize Working-Class Emotions\" by Rosana Pinheiro-Machado",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195645",
+      "subject": "[Air-L] Call for the I Latin American Forum for Intelligence Studies (inteLA)",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195644",
+      "subject": "[Air-L] RECORDING – IGF DC Webinar: Global Discussion on the Future of Digital Health",
+      "from": "event",
+      "to": "other"
+    },
+    {
+      "id": "195643",
+      "subject": "[Air-L] Postdoc in Empirical Computational Ethics (100%, E13, 3 years) at Goethe University Frankfurt",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195642",
+      "subject": "[Air-L] #AoIR2026 Call for Proposals - deadline reminder",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195640",
+      "subject": "[Air-L] Call For Paper - Hybrid Media Worlds",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195638",
+      "subject": "[Air-L] Today - Public Lecture on 'Inclusive Futures? Radical Ethics & Transformative Justice for Responsible AI'",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195637",
+      "subject": "[Air-L] RECORDING - JUN 12 2025 – IGF DC Global Webinar – Future of Multi-stakeholder Governance",
+      "from": "event",
+      "to": "other"
+    },
+    {
+      "id": "195635",
+      "subject": "[Air-L] TODAY 6pm ET - ISOC-DC 'Secret Life of Data' Book Talk",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195634",
+      "subject": "[Air-L] AoIR panel participant on Technology, Violence, and Harm",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195633",
+      "subject": "[Air-L] RECORDING - JUN 12 2025 – IGF DC Global Webinar – Future of Multi-stakeholder Governance",
+      "from": "event",
+      "to": "other"
+    },
+    {
+      "id": "195632",
+      "subject": "[Air-L] New Book and Book Launch event - The Web of knowledge (Polity)",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195631",
+      "subject": "[Air-L] PhD studentship (2026-), 'Artificial Inequality: AI and its Impact on the UK Creative Industries', University of Manchester",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195630",
+      "subject": "[Air-L] Webinar: Strengthening Gender, Equity and Rights in the East Mediterranean National Digital Health Strategies",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195629",
+      "subject": "[Air-L] Event Invitation | How to Demystify AI | 17 March 2026",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195628",
+      "subject": "[Air-L] Silicon Empires. Book Talk with Nick Srnicek, March 4",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195627",
+      "subject": "[Air-L] New Book and Book Launch event - The Web of knowledge (Polity)",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195626",
+      "subject": "[Air-L] Call-for Papers for an Online Conference and Publication",
+      "from": "publication",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195625",
+      "subject": "[Air-L] The Internet Ecosystem book",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195624",
+      "subject": "[Air-L] Job Ad: Lecturer I / Lecturer II in General Education and BA/MA Programmes (Hong Kong Baptist University)",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195622",
+      "subject": "[Air-L] CFP: Journal of Community Informatics",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195621",
+      "subject": "[Air-L] Call for abstract - H.17. Prison Education for Democracy. Tensions and Contradictions of a Transformative Space",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195620",
+      "subject": "[Air-L] SWING School on Internet Governance | Application DL: 27 February 2026",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195619",
+      "subject": "[Air-L] CFP: Meaningful XR 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195618",
+      "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Workshop Proposals",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195617",
+      "subject": "[Air-L] Internet Histories Seeking Book Reviewers",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195616",
+      "subject": "[Air-L] Information & Culture seeking book reviewers",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195615",
+      "subject": "[Air-L] 2 year appt. in AI and Information Literacies",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195614",
+      "subject": "[Air-L] 27 February \"How the Far Right and Social Media Mobilize Working-Class Emotions\" by Rosana Pinheiro-Machado",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195613",
+      "subject": "[Air-L] 39th IEEE International Symposium on Computer-Based Medical Systems (CBMS): Last Call for Contributions",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195612",
+      "subject": "[Air-L] Join our \"Workshop on workshopping\" if you're in the Netherlands next week!",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195611",
+      "subject": "[Air-L] RECORDINGS - State of the Internet 2026",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195610",
+      "subject": "[Air-L] DIGITOX March 17 on digital disconnection and wellbeing + more seminars/conferences",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195604",
+      "subject": "[Air-L] Call for Papers: Online Symposium on Influencer Diplomacy [24 April 2026]",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195555",
+      "subject": "[Air-L] The World According to Military Targeting, online book talk and discussion with Erik Reichborn-Kjennerud, 25th Feb 3-5pm CET",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195608",
+      "subject": "[Air-L] [EXT] invite: Governance by Data Infrastructure at the University of Amsterdam (27 March)",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195578",
+      "subject": "[Air-L] [EXT] invite: Governance by Data Infrastructure at the University of Amsterdam (27 March)",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195566",
+      "subject": "[Air-L] [EXT] Call for Digital Sovereignty Visiting Fellow at United Nations University - CRIS",
+      "from": "other",
+      "to": "job"
+    },
+    {
+      "id": "195557",
+      "subject": "[Air-L] [EXT] Call for Digital Sovereignty Visiting Fellow at United Nations University - CRIS",
+      "from": "other",
+      "to": "job"
+    },
+    {
+      "id": "195554",
+      "subject": "[Air-L] 6 fully funded PhD studentships in CreativeAI at the University of Manchester",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195553",
+      "subject": "[Air-L] CFP: Special issue on mobile disconnection, abstracts deadline July 31",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195551",
+      "subject": "[Air-L] Call for Book Chapters : Media, Journalism, and Collective Memory in Africa: Centring Epistemologies, Power and Culture",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195550",
+      "subject": "[Air-L] Invitation to participate in the Futures of Digital Democracy Survey (FDDS)",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195549",
+      "subject": "[Air-L] AI Justice Public Lecture - Professor Sanjay Sharma on Inclusive AI - 25 Feb at 17:00",
+      "from": "job",
+      "to": "event"
+    },
+    {
+      "id": "195548",
+      "subject": "[Air-L] CfP: Journal Issue on Contemporary craft work and digital craft economies",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195547",
+      "subject": "[Air-L] CfP Session on Emerging Methods and Approaches for Researching Internet Infrastructures, RGS-IBG 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195546",
+      "subject": "[Air-L] AoIR Mexico City: Technological imaginaries and futures panel participants needed",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195545",
+      "subject": "[Air-L] AOIR 2026 Panel Proposal on Digital Criminology - Call for Extended Abstracts",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195543",
+      "subject": "[Air-L] Research process seminar. Ethnography of Algorithms. 17th Feb at 2pm on Zoom.",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195542",
+      "subject": "[Air-L] Call for Panelists for Regenerating Trans Technologies Panel",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195541",
+      "subject": "[Air-L] CFP: Digital Platforms and Digital Labor in East Asia and Beyond — Special Issue, Journal of Contemporary Eastern Asia",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195540",
+      "subject": "[Air-L] Call for Digital Sovereignty Visiting Fellow at United Nations University - CRIS",
+      "from": "other",
+      "to": "job"
+    },
+    {
+      "id": "195539",
+      "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Second Call for Papers (Research Track)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195538",
+      "subject": "[Air-L] AIces 2026: early registration February 21st",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195537",
+      "subject": "[Air-L] First Monday - Archiving Articles",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195536",
+      "subject": "[Air-L] First Monday - Archiving Articles",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195535",
+      "subject": "[Air-L] Reframing Impact: AI Summit 2026, interview series (AI Now!)",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195534",
+      "subject": "[Air-L] Call for book proposal - Hybrid media world",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195533",
+      "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): First Call for Workshop Proposals",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195532",
+      "subject": "[Air-L] Publication: Repairing AI",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195531",
+      "subject": "[Air-L] CFS - Call for Submissions: AI in environmental governance – possibilities and risks",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195530",
+      "subject": "[Air-L] New journal for Creator and Influencer Studies",
+      "from": "other",
+      "to": "publication"
+    },
+    {
+      "id": "195529",
+      "subject": "[Air-L] Online Talk \"The Quantum Ecology: Ideas for Innovative Policymaking and the Governance of Quantum Information Technologies\"",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195528",
+      "subject": "[Air-L] First Monday - Online session to discuss saving it?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195526",
+      "subject": "[Air-L] Archives with Brazilian media?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195525",
+      "subject": "[Air-L] NEW DEADLINE: 27 February | SWING – School on Internet Governance 20-24 April 2026 @ Bruges",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195523",
+      "subject": "[Air-L] First Monday - Online session to discuss saving it? [EXTERNAL]",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195522",
+      "subject": "[Air-L] Workshop on Workshopping at Utrecht University",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195520",
+      "subject": "[Air-L] FW: Internet Histories Seeking Book Reviewers",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195519",
+      "subject": "[Air-L] Registration Open for The Digital Conference 2026 at KCL, 23-26 June 2026",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195518",
+      "subject": "[Air-L] First Monday - Online session to discuss saving it? [EXTERNAL]",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195517",
+      "subject": "[Air-L] AoIR 2026 panel on Global fediverse experiences",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195516",
+      "subject": "[Air-L] First Monday - Online session to discuss saving it?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195515",
+      "subject": "[Air-L] Cfp New paths and future trajectories in digital (dis)connection studies",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195514",
+      "subject": "[Air-L] First Monday - Online session to discuss saving it? [EXTERNAL]",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195513",
+      "subject": "[Air-L] FW: Internet Histories Seeking Book Reviewers",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195512",
+      "subject": "[Air-L] ACEPS|UJ|11 February| 16:00-17:30 SAST| Prof Étienne Brown",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195509",
+      "subject": "[Air-L] First Monday - Online session to discuss saving it?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195508",
+      "subject": "[Air-L] First Monday - Online session to discuss saving it?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195507",
+      "subject": "[Air-L] Internet Histories Seeking Book Reviewers",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195505",
+      "subject": "[Air-L] First Monday - Online session to discuss saving it?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195504",
+      "subject": "[Air-L] External Examiner sought for MA in Digital Media and Global Cultures at Queen Mary, University of London",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195503",
+      "subject": "[Air-L] Fwd: First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195500",
+      "subject": "[Air-L] Symposium: Branding AI, Munich: March 2, 2026",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195499",
+      "subject": "[Air-L] Fwd: First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195498",
+      "subject": "[Air-L] Fwd: First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195497",
+      "subject": "[Air-L] Call for Proposals - AusSTS 2026 \"Antipodean Interruptions\", 9-11 November 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195496",
+      "subject": "[Air-L] News sites are locking out the Internet Archive to stop AI crawling. Is the ‘open web’ closing?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195495",
+      "subject": "[Air-L] Fwd: First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195493",
+      "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Second Call for Research Papers (2nd Round)",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195492",
+      "subject": "[Air-L] New Routledge Book Series: Cultural Analytics, AI and the Digital Futures",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195491",
+      "subject": "[Air-L] Fwd: First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195490",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195489",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195486",
+      "subject": "[Air-L] News sites are locking out the Internet Archive to stop AI crawling. Is the ‘open web’ closing?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195485",
+      "subject": "[Air-L] RECORDING: Applying the DTSP Safe Framework to Hosting, Registries, and Registrars: From Compliance to Operational Maturity",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195484",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195483",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195481",
+      "subject": "[Air-L] State of the Net 2026 - Full livestream schedule",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195479",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195478",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195476",
+      "subject": "[Air-L] News sites are locking out the Internet Archive to stop AI crawling. Is the ‘open web’ closing?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195474",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195471",
+      "subject": "[Air-L] First Monday shutting down after 30 years",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195470",
+      "subject": "[Air-L] CFP - “SLOP” and “NOSTALGIA” – DLC Presents “Current Keywords in Digital Literary Culture”",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195468",
+      "subject": "[Air-L] RECORDING - The Secret Life of Data: Navigating Hype and Uncertainty in the Age of Algorithmic Surveillanceh",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195467",
+      "subject": "[Air-L] Digital Solidarity Economies, Special Issue, Internet Policy Review",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195466",
+      "subject": "[Air-L] Call for Papers – IndabaX Nigeria 2026 (AI/ML Research Submissions)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195464",
+      "subject": "[Air-L] Gender & Tech Talk Series – February 24, 10:00am EST – Digital Transformation",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195463",
+      "subject": "[Air-L] Twitter-X Access Survey",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195462",
+      "subject": "[Air-L] Call for Contributions: SEASON 2026 (Hamburg, 15-17 September 2026)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195461",
+      "subject": "[Air-L] Programme and registration: Undone Computer Science, Luxembourg + hybride, 23-25 March 2026",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195460",
+      "subject": "[Air-L] invite: Governance by Data Infrastructure at the University of Amsterdam (27 March)",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195458",
+      "subject": "[Air-L] News sites are locking out the Internet Archive to stop AI crawling. Is the ‘open web’ closing?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195457",
+      "subject": "[Air-L] ICCA award call",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195455",
+      "subject": "[Air-L] Call for Papers on Decoloniality - International Journal of Cultural Studies",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195454",
+      "subject": "[Air-L] International Society for Humor Studies 2026 Conference (at UFF, Brazil)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195453",
+      "subject": "[Air-L] Call for Chapters: Athletes in AI Mediatization",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195452",
+      "subject": "[Air-L] LAST CALL for AI researchers to move to the UK all expense paid | The University of Manchester",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195451",
+      "subject": "[Air-L] Cfp: Digital Methods Summer School '26 - Univ. Amsterdam",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195450",
+      "subject": "[Air-L] CFP - Digital Communication and Social Practices under Algorithms: Challenges and Opportunities. BiD, Issue 57",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195448",
+      "subject": "[Air-L] [AoIR HQ] CFP Association of Internet Researchers (AoIR) Flashpoint Symposium)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195447",
+      "subject": "[Air-L] Call for Participation: Games and Sustainability (CGSA Pre-conference)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195446",
+      "subject": "[Air-L] Critical AI Policy Virtual Fellowship 2026",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195445",
+      "subject": "[Air-L] 13 February Book Launch \"Twitter Activism and the Current Uprising in Iran\"",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195444",
+      "subject": "[Air-L] RECORDING - CITI: Into the Next Digital Generation: Lessons from Yesterday, Predictions for Tomorrow",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195443",
+      "subject": "[Air-L] Call for Papers: Special Issue on “Co-Producing Environmental Publics” — Communication and the Public",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195442",
+      "subject": "[Air-L] Invitation: Hertie School Digital Governance Research Colloquium, Spring 2026",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195441",
+      "subject": "[Air-L] IEEE SMARTCOMP 2026: Final Call for Research Track Papers and Industry Track Papers (Deadline Extended: 16th February 2026)",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195440",
+      "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): First Call for Replications and Negative Results",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195439",
+      "subject": "[Air-L] Applied Rhetoric Symposium deadline extended - Submission site now LIVE!",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195438",
+      "subject": "[Air-L] Inquiry: PhD Opportunities Starting in the Next Year (Data Science / Internet Research)",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195436",
+      "subject": "[Air-L] PhD & Postdoctoral Jobs University of Zurich",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195435",
+      "subject": "[Air-L] The Annual ACM Conference on Intelligent User Interfaces (IUI 2026): Call for Participation",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195434",
+      "subject": "[Air-L] Big Data Discourses | International Journal of Communication Special Section",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195433",
+      "subject": "[Air-L] Springer Special Issue: Trust in AI vs Human Experts: Cognitive, Social, and Emotional Perspectives",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195432",
+      "subject": "[Air-L] SWING – School on Internet Governance 20-24 April 2026 @ Bruges (Belgium)",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195431",
+      "subject": "[Air-L] The Social Codes of Tech Workers, Book Talk with Robert Dorschel",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195430",
+      "subject": "[Air-L] NordiCHI 2026 - 2nd Call for Submissions",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195429",
+      "subject": "[Air-L] The 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026): Last Combo Call for Workshop Papers",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195428",
+      "subject": "[Air-L] UKRI is inviting AI researchers to the UK | The University of Manchester",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195427",
+      "subject": "[Air-L] PhD position in the Doctoral Network \"RePIM – Revisioning Public Interest Media\" // University of Zurich",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195425",
+      "subject": "[Air-L] Registrations Now Open! See Innovation in Action: Computational Methods Lab Showcase, February 16, 2026",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195424",
+      "subject": "[Air-L] CFP for Teaching Authentic Thinking in the Age of AI: Theory, Pedagogy, and Practice",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195423",
+      "subject": "[Air-L] [AoIR HQ] Membership Dues Increase 15 February 2026; Lock In Savings Now!",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195422",
+      "subject": "[Air-L] Proposal for panel",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195421",
+      "subject": "[Air-L] Explore how Software Defined Radios expose & detect radio‑frequency vulnerabilities across 5G, autonomous systems & critical infrastructure",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195420",
+      "subject": "[Air-L] CFP for Teaching Authentic Thinking in the Age of AI: Theory, Pedagogy, and Practice",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195419",
+      "subject": "[Air-L] Two UPenn Postdoctoral Openings for Information Ecosystem Studies",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195418",
+      "subject": "[Air-L] New open access book: Understanding China Through Digital Anthropology (UCL Press)",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195417",
+      "subject": "[Air-L] Today, Online Book Talk, Silicon Elsewhere: Nairobi, Global China and Techno-Capital",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195416",
+      "subject": "[Air-L] CFP: CHI’26 Workshop CHIdeology: Disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195415",
+      "subject": "[Air-L] Correction: Deadline in 5 days: ICA 2026 pre-conference “Whose Protest Counts?”",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195414",
+      "subject": "[Air-L] AIces 2026: early registration February 3",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195413",
+      "subject": "[Air-L] DigiMig Webinar Series \"Digital Inclusion and Migration\"",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195412",
+      "subject": "[Air-L] Call for Papers: AI Regulation in Asia – Emerging Pathways, Divergent Models, and Global Implications (Special Issue with Computer Law & Security Review)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195411",
+      "subject": "[Air-L] Call for EURid Youth Committee and YOUthDIG fully-funded travel grants",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195410",
+      "subject": "[Air-L] Event Invitation | How Can We Protect Independent Technology Research in an Age of Political Constraints? | 18 February 2026",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195409",
+      "subject": "[Air-L] CfP closing soon - ICA26 preconference ‘Practicing Trust: Media, Machines and Methods’",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195408",
+      "subject": "[Air-L] Researchers studying LLM output and/or GEO?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195407",
+      "subject": "[Air-L] CFP Preconference ICA: Decolonizing the Visual: Community, Memory, and Resistance",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195406",
+      "subject": "[Air-L] Researchers studying LLM output and/or GEO?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195405",
+      "subject": "[Air-L] The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026): Call for Participation",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195404",
+      "subject": "[Air-L] UKRI is inviting AI researchers to the UK | The University of Manchester",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195403",
+      "subject": "[Air-L] Call for Papers - Creator Futures: Reorganizing Media and Journalism Work - Special Issue of Journalism and Media",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195402",
+      "subject": "[Air-L] hypestudies 🔮 cooperate with Techpolicy.press 🚀",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195401",
+      "subject": "[Air-L] EDMO BELUX 2.0 Call for Contributions",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195400",
+      "subject": "[Air-L] UKRI is inviting AI researchers to the UK | The University of Manchester",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195399",
+      "subject": "[Air-L] New book: The Sage Handbook of Chinese Digital Media and Communication",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195398",
+      "subject": "[Air-L] AoIR 2026 - Fishbowl on Ai and Global Antiblackness",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195397",
+      "subject": "[Air-L] Final call for papers",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195396",
+      "subject": "[Air-L] WEBCAST JAN 23 – Into the Next Digital Generation: Lessons from Yesterday, Predictions for Tomorrow",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195395",
+      "subject": "[Air-L] DEADLINE EXTENDED: CFP - Turning Points in Media Studies: The Long 1990s in Global Internet Histories",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195394",
+      "subject": "[Air-L] Three weeks to submit to ICA 2026 Pre-Conference \"Rethinking Global Discourses of Racial Inequality\"",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195393",
+      "subject": "[Air-L] AoIR 2026 - Fishbowl on Ai and Global Antiblackness",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195391",
+      "subject": "[Air-L] AOIR 2026 panel on violence, platforms and discourse",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195389",
+      "subject": "[Air-L] AIces 2026 – International School on the Cognitive, Ethical & Societal Dimensions of AI",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195388",
+      "subject": "[Air-L] Research Position - Global Education & NGOs (ERC Project)",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195387",
+      "subject": "[Air-L] CFP: The Landscape of Generative AI in Australia (MIA; Abstracts due 27 Feb)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195386",
+      "subject": "[Air-L] Final call for papers",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195384",
+      "subject": "[Air-L] Third Issue of Esoteric Gaming released!",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195383",
+      "subject": "[Air-L] Last Call for ICA Mobile Comm Preconference Submissions",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195382",
+      "subject": "[Air-L] Invitation | City St George's, U of London | MCCI Connect: A Seminar Series Bridging Research, Innovation, Education, and Professional Practice",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195381",
+      "subject": "[Air-L] Call for Proposals — All Things in Moderation (ATiM) 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195380",
+      "subject": "[Air-L] Final call for papers",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195379",
+      "subject": "[Air-L] Final call for papers",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195378",
+      "subject": "[Air-L] PhD position in AI and Law @ KIT",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195377",
+      "subject": "[Air-L] MA in Digital Media and Society, Media and Public Engagement (15 MAR Deadline)",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195376",
+      "subject": "[Air-L] Deadline extended: ICA 2026 pre-conference “Whose Protest Counts? Power and Exclusion in Online Activism”",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195375",
+      "subject": "[Air-L] CfP session on “Uneven and Contested Geographies of Data Centers”",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195374",
+      "subject": "[Air-L] Call for Papers reminder: Textures of Digital Entertainment",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195373",
+      "subject": "[Air-L] GIG-ARTS 2026 Dublin - Deadline Extension",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195372",
+      "subject": "[Air-L] Governing AI Search: New AI Forensics Policy Report",
+      "from": "other",
+      "to": "publication"
+    },
+    {
+      "id": "195371",
+      "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): First Call for Journal First Papers",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195370",
+      "subject": "[Air-L] Reminder: Call for Abstracts - Digital Criminology (deadline in 9 days)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195369",
+      "subject": "[Air-L] New Reports on Extended Reality Research - The Social Grammars of Virtuality",
+      "from": "other",
+      "to": "publication"
+    },
+    {
+      "id": "195368",
+      "subject": "[Air-L] CFP: #SSN2026 - Surveillance & Society Conference",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195367",
+      "subject": "[Air-L] [AoIR HQ] Submissions Now Open for AoIR2026 | Mexico City, October 14-17",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195366",
+      "subject": "[Air-L] ANTAGONISTS: algorithmic resistances exhibition (Sao Paulo, Brazil)",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195365",
+      "subject": "[Air-L] 20 January Online Lecture by Gergely Gosztonyi \"From a Borderless Network to a Regulated Sphere\"",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195364",
+      "subject": "[Air-L] LAST CALL FOR PAPERS: 14th International Workshop on Behavior Change Support Systems – BCSS 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195363",
+      "subject": "[Air-L] 6th Mobile Studies Congress - Go Mobile, Stay Connected",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195362",
+      "subject": "[Air-L] The World According to Military Targeting, online book talk and discussion with Erik Reichborn-Kjennerud, 25th Feb 3-5pm CET",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195361",
+      "subject": "[Air-L] Gender & Tech Talk Series – January 27, 11:00am EST – Dis/Misinformation and Political Extremism",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195360",
+      "subject": "[Air-L] ICA 2026 Preconference, 3 June, Global Disruptions: Platforms, Power and Contested Communication",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195359",
+      "subject": "[Air-L] Communication and Change, Articles published in 2025",
+      "from": "publication",
+      "to": "publication"
+    },
+    {
+      "id": "195358",
+      "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): First Call for Industry Track Papers",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195357",
+      "subject": "[Air-L] Autumn School \"Social Foundations of Cryptography\", London, UK, September 2026",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195356",
+      "subject": "[Air-L] Call for applications: Emerging Scholars Program at the Milton Wolf Seminar in Vienna, Austria-- April 13-15, 2026",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195355",
+      "subject": "[Air-L] Critical AI and Digital Majority Centres seminar - forgot to include the link, sorry!",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195354",
+      "subject": "[Air-L] CrAIC and Digital Majority Centre Seminars - If AI is so great, why am I tired all the time?",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195352",
+      "subject": "[Air-L] Call for Papers: Special Issue on “Co-Producing Environmental Publics” — Communication and the Public",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195351",
+      "subject": "[Air-L] [CfP Reminder] INDL-NA Symposium on Labor and AI @ Yale",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195350",
+      "subject": "[Air-L] CFP: Digital Platforms and Digital Labor in East Asia and Beyond — Special Issue, Journal of Contemporary Eastern Asia",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195349",
+      "subject": "[Air-L] Hiring a Tenure Track Assistant Professor of Digital Media",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195348",
+      "subject": "[Air-L] Deadline reminder: Abstract submissions for GIG-ARTS Dublin 2026 (19 January 2026)",
+      "from": "other",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195347",
+      "subject": "[Air-L] CfP Topical Collection \"Untangling the Quantum Ecology\" in Digital Society journal",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195346",
+      "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): First Call for Project Showcases",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195345",
+      "subject": "[Air-L] REMINDER: Blueprints for a good digital society: funding opportunity",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195344",
+      "subject": "[Air-L] [AoIR HQ] Warm Welcomes, Heartfelt Thanks, CFP and updates",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195343",
+      "subject": "[Air-L] 39th IEEE International Symposium on Computer-Based Medical Systems (CBMS): Fifth Call for Contributions",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195342",
+      "subject": "[Air-L] Reminder - Call for abstracts edited volume \"Cyber Events\" (deadline 11 January)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195340",
+      "subject": "[Air-L] Deadline Approaching: CFP - Turning Points in Media Studies: The Long 1990s in Global Internet Histories, edited volume",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195339",
+      "subject": "[Air-L] ROBLOX WORKSHOP - birds of a feather",
+      "from": "event",
+      "to": "event"
+    },
+    {
+      "id": "195338",
+      "subject": "[Air-L] [Job] Assistant Teaching Professor - Technical Communication (Social Media Management concentration) - Arizona State University",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195337",
+      "subject": "[Air-L] #AoIR2026 Regeneration Call for Proposals!",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195336",
+      "subject": "[Air-L] Interest in intersection of social media and health -- recommended resources?",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195335",
+      "subject": "[Air-L] PGR Scholarships School of Media and Communication University of Leeds",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195334",
+      "subject": "[Air-L] The 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026): First Combo Call for Workshop Papers",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195333",
+      "subject": "[Air-L] Online policy panel 'The Geopolitics of Tech: Europe in an Era of Realignments?' (16 Jan)",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195332",
+      "subject": "[Air-L] CfP for the Special Issue “Imperialism, Information, Communication and Culture in the Age of Digitalisation”",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195330",
+      "subject": "[Air-L] JoSSIT 9 on “Networked Creativity: Musicking in the Social Media Era”, Out Now in Open Access",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195329",
+      "subject": "[Air-L] CFP & Update: International Conference on Social Media & Society (#SMSociety), Glasgow UK July 13-15, 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195328",
+      "subject": "[Air-L] REMINDER: CFP - Global Institutional Perspectives on GenAI & Cultural Industries",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195327",
+      "subject": "[Air-L] SAGE Handbook of Digital Labour is out!",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195326",
+      "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): First Call for Research Papers (2nd Round)",
+      "from": "event",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195323",
+      "subject": "[Air-L] DIGITOX Digital (dis)connection: Jan 20 Panel on theory and method in disconnection studies + More seminars",
+      "from": "other",
+      "to": "event"
+    },
+    {
+      "id": "195322",
+      "subject": "[Air-L] Reminder: three postdoc positions on AI & Society in Manchester",
+      "from": "job",
+      "to": "job"
+    },
+    {
+      "id": "195321",
+      "subject": "[Air-L] Book Talk, Silicon Elsewhere, with Andrea Pollio, Jan 27",
+      "from": "other",
+      "to": "other"
+    },
+    {
+      "id": "195320",
+      "subject": "[Air-L] The 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026): Last Call for Demos & DC & T",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195319",
+      "subject": "[Air-L] Fw: [ICT4S] First call for contributions: LIMITS 2026",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195318",
+      "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): First Call for Papers (Indusrey Track)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195317",
+      "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): First Call for Papers (Research Track)",
+      "from": "call_for_papers",
+      "to": "call_for_papers"
+    },
+    {
+      "id": "195316",
+      "subject": "[Air-L] ICA Mobile Communication division preconference",
+      "from": "other",
+      "to": "event"
+    }
+  ],
+  "category_changed_records": 79,
+  "metadata_refreshed_records": 460
+}

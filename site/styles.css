@@ -1,10 +1,509 @@
-body { font-family: Arial, sans-serif; margin: 0; background: #f5f7f8; color: #1a1a1a; }
-header, footer { background: #073b3a; color: white; padding: 1rem 1.2rem; }
-a { color: #77d6c8; }
-.controls { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: .6rem; padding: 1rem; background: #e7eeef; }
-.controls input, .controls select { padding: .5rem; }
-#results { padding: 1rem; display: grid; gap: .8rem; }
-.card { background: white; padding: .9rem; border-radius: 8px; box-shadow: 0 1px 2px rgba(0,0,0,.08); }
-.meta { font-size: .9rem; color: #444; }
-.tags { margin-top: .4rem; }
-.tag { display: inline-block; background: #edf7f6; border: 1px solid #bde7e2; border-radius: 999px; padding: .1rem .5rem; margin-right: .3rem; font-size: .8rem; }
+:root {
+  --bg: #f6f6ef;
+  --ink: #111;
+  --muted: #6b6b6b;
+  --line: #e0dfd1;
+  --accent: #2f6f73;
+  --accent-dark: #1f4f52;
+  --panel: #fffff5;
+  --tag: #ecead8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 13px;
+  line-height: 1.28;
+}
+
+a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 30px;
+  padding: 5px 8px;
+  background: var(--accent);
+  color: var(--ink);
+  border-bottom: 1px solid var(--accent-dark);
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  min-width: 0;
+  font-weight: 700;
+}
+
+.topbar a,
+.topbar nav {
+  color: var(--ink);
+}
+
+nav,
+footer,
+.result-head,
+.meta {
+  color: var(--muted);
+}
+
+nav {
+  display: flex;
+  gap: 10px;
+  white-space: nowrap;
+}
+
+.controls {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 8px;
+  background: #f1f1df;
+  border-bottom: 1px solid var(--line);
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.controls #search {
+  flex: 1 0 420px;
+}
+
+.controls select {
+  flex: 0 0 150px;
+}
+
+.controls #sortBy {
+  flex-basis: 96px;
+}
+
+input,
+select,
+button {
+  min-height: 26px;
+  border: 1px solid #c9c8b8;
+  background: var(--panel);
+  color: var(--ink);
+  font: inherit;
+}
+
+input[type="checkbox"] {
+  accent-color: var(--accent);
+}
+
+input:focus,
+select:focus,
+button:focus {
+  outline: 1px solid var(--accent-dark);
+  outline-offset: 0;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 3px 6px;
+}
+
+button,
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 3px 7px;
+  white-space: nowrap;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:hover,
+button.active {
+  border-color: var(--accent-dark);
+  background: #edf6f3;
+  color: var(--ink);
+}
+
+.toggle {
+  border: 1px solid #c9c8b8;
+  background: var(--panel);
+}
+
+.toggle input {
+  width: auto;
+  min-height: auto;
+  margin: 0;
+}
+
+.month-panel,
+.deadline-panel {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 8px;
+  background: #f1f1df;
+  border-bottom: 1px solid var(--line);
+  font-size: 12px;
+}
+
+.month-panel[hidden],
+.deadline-panel[hidden] {
+  display: none;
+}
+
+.month-head,
+.deadline-head,
+.month-actions,
+.month-options {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.month-head,
+.deadline-head {
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.month-head strong,
+.deadline-head strong {
+  color: var(--ink);
+}
+
+.month-options {
+  flex: 1 1 auto;
+  flex-wrap: wrap;
+}
+
+.month-choice {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 24px;
+  padding: 2px 6px;
+  border: 1px solid #c9c8b8;
+  background: var(--panel);
+  cursor: pointer;
+}
+
+.month-choice.active {
+  border-color: var(--accent-dark);
+  background: #edf6f3;
+}
+
+.month-choice input {
+  width: auto;
+  min-height: auto;
+  margin: 0;
+}
+
+.month-count {
+  color: var(--muted);
+}
+
+.deadline-panel {
+  align-items: flex-start;
+}
+
+.deadline-head {
+  min-height: 24px;
+}
+
+.deadline-calendar {
+  display: flex;
+  align-items: flex-start;
+  gap: 7px;
+  overflow-x: auto;
+  padding-bottom: 2px;
+}
+
+.deadline-month {
+  flex: 0 0 auto;
+  width: 154px;
+  padding: 3px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+}
+
+.deadline-month-title {
+  margin-bottom: 3px;
+  color: var(--accent-dark);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.deadline-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 20px);
+  grid-auto-rows: 18px;
+  gap: 1px;
+}
+
+.weekday,
+.day {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 18px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1;
+}
+
+.weekday {
+  color: var(--accent-dark);
+  font-weight: 700;
+}
+
+.day.has-deadline {
+  position: relative;
+  border: 1px solid var(--accent-dark);
+  background: #edf6f3;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.day.has-deadline.selected {
+  background: var(--accent);
+  color: var(--ink);
+}
+
+.day-count {
+  position: absolute;
+  right: 1px;
+  bottom: 1px;
+  font-size: 8px;
+  line-height: 1;
+}
+
+.blank {
+  visibility: hidden;
+}
+
+main {
+  padding: 0 8px 8px;
+}
+
+.about {
+  max-width: 760px;
+  padding: 18px 12px 32px;
+}
+
+.about h1 {
+  margin: 0 0 12px;
+  font-size: 18px;
+}
+
+.about p {
+  margin: 0 0 10px;
+}
+
+.about p:last-child {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.dashboard {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 5px 0 4px 24px;
+  border-bottom: 1px solid var(--line);
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.metric {
+  display: inline-grid;
+  grid-template-columns: auto minmax(2ch, auto) 52px;
+  align-items: center;
+  gap: 5px;
+  min-height: 25px;
+  padding: 2px 6px;
+}
+
+.metric-label {
+  color: var(--accent-dark);
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+.metric-count {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.spark {
+  display: flex;
+  align-items: flex-end;
+  gap: 1px;
+  width: 52px;
+  height: 16px;
+}
+
+.spark span {
+  flex: 1 1 2px;
+  min-width: 2px;
+  background: #d8d7c9;
+}
+
+.spark span.active {
+  background: var(--accent-dark);
+}
+
+.result-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 6px 0 4px 24px;
+  font-size: 12px;
+  border-bottom: 1px solid var(--line);
+  background: transparent;
+}
+
+.results {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: result;
+}
+
+.row {
+  position: relative;
+  padding: 5px 6px 5px 32px;
+  border-bottom: 1px solid var(--line);
+  cursor: pointer;
+  background: transparent;
+}
+
+.thread-child {
+  margin-left: 24px;
+  background: #fbfbef;
+}
+
+.row::before {
+  position: absolute;
+  left: 0;
+  width: 24px;
+  text-align: right;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.row:not(.thread-child)::before {
+  counter-increment: result;
+  content: counter(result) ".";
+}
+
+.thread-child::before {
+  content: "◦";
+}
+
+.row:hover {
+  background: #edf6f3;
+}
+
+.row:focus {
+  outline: 1px solid var(--accent-dark);
+  outline-offset: -1px;
+  background: #edf6f3;
+}
+
+.title-line {
+  display: block;
+  min-width: 0;
+}
+
+.title {
+  color: var(--ink);
+  font-size: 13px;
+  line-height: 1.25;
+}
+
+.category {
+  display: inline-block;
+  min-width: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--accent-dark);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  margin-right: 5px;
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 2px;
+  font-size: 11px;
+}
+
+.snippet {
+  margin-left: 2px;
+}
+
+.deadline {
+  color: #744577;
+  background: transparent;
+  padding: 0 3px;
+}
+
+.thread-count {
+  color: var(--accent-dark);
+}
+
+footer {
+  display: flex;
+  gap: 8px;
+  padding: 12px 8px 24px 32px;
+  font-size: 11px;
+}
+
+@media (max-width: 880px) {
+  .controls {
+    overflow-x: auto;
+  }
+
+  .month-panel {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .deadline-panel {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .controls #search {
+    flex-basis: 220px;
+  }
+
+  .controls select {
+    flex: 0 0 104px;
+  }
+}

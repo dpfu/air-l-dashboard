@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: ["main", "work"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: astral-sh/setup-uv@v5
+      - name: Install deps
+        run: uv sync --frozen
+      - name: Python tests
+        run: uv run pytest -q
+      - name: JavaScript syntax check
+        run: node --check site/app.js
+      - name: Public artifact privacy scan
+        run: |
+          if rg -n "[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}" data/public site/data site/feeds; then
+            echo "Email address-like value found in public artifacts."
+            exit 1
+          fi

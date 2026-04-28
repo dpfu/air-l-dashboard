@@ -5,8 +5,10 @@ from datetime import datetime
 from pathlib import Path
 
 from scripts.utils import now_iso, read_ndjson, write_json
+from scripts.utils import load_json
 
 PUBLIC_NDJSON = Path("data/public/posts.ndjson")
+THREAD_INDEX = Path("data/public/thread-index.json")
 PUBLIC_DIR = Path("data/public")
 SITE_DATA_DIR = Path("site/data")
 
@@ -52,6 +54,7 @@ def run() -> None:
     write_json(SITE_DATA_DIR / "search-index.json", search_index)
     write_json(SITE_DATA_DIR / "facets.json", {k: dict(v) for k, v in facets.items()})
     write_json(SITE_DATA_DIR / "stats.json", stats)
+    write_json(SITE_DATA_DIR / "thread-index.json", load_json(THREAD_INDEX, default={"source": "air-l", "by_id": {}, "threads": {}}))
 
 
 if __name__ == "__main__":

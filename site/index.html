@@ -4,35 +4,67 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AoIR Air-L Public Index</title>
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="styles.css?v=20260428-deadlines" />
 </head>
 <body>
-  <header>
-    <h1>AoIR Air-L Public Research Index</h1>
-    <p>Minimal metadata only. No full-text mirror, no names, no email addresses.</p>
+  <header class="topbar">
+    <a class="brand" href="index.html">Air-L Index</a>
+    <nav aria-label="About">
+      <a href="about.html">About</a>
+    </nav>
   </header>
 
   <section class="controls">
-    <input id="search" type="search" placeholder="Search subject/snippet..." />
-    <select id="categoryFilter"><option value="">All categories</option></select>
-    <input id="tagFilter" type="text" placeholder="Filter by tag (e.g. cfp)" />
-    <label><input id="deadlineOnly" type="checkbox" /> only with deadline</label>
+    <input id="search" type="search" placeholder="search subjects" autocomplete="off" />
     <select id="sortBy">
-      <option value="newest">Newest first</option>
-      <option value="deadline">Deadline first</option>
+      <option value="newest">newest</option>
+      <option value="deadline">deadline</option>
     </select>
+    <label class="toggle"><input id="deadlineOnly" type="checkbox" /> deadline</label>
+    <button type="button" id="deadlineToggle" aria-controls="deadlinePanel" aria-expanded="false">calendar</button>
+    <label class="toggle"><input id="showThreads" type="checkbox" /> threads</label>
+    <button type="button" id="monthToggle" aria-controls="monthPanel" aria-expanded="false">months</button>
+    <button type="button" id="clearFilters">clear</button>
   </section>
 
-  <main id="results"></main>
+  <section id="deadlinePanel" class="deadline-panel" hidden>
+    <div class="deadline-head">
+      <strong>CfP deadlines</strong>
+      <span id="deadlineSummary">loading</span>
+    </div>
+    <div id="deadlineCalendar" class="deadline-calendar"></div>
+  </section>
+
+  <section id="monthPanel" class="month-panel" hidden>
+    <div class="month-head">
+      <strong>Months</strong>
+      <span id="monthSummary">loading</span>
+    </div>
+    <div id="monthOptions" class="month-options"></div>
+    <div class="month-actions">
+      <button type="button" id="monthDefault">latest + prev</button>
+      <button type="button" id="monthAll">all</button>
+      <button type="button" id="monthNone">none</button>
+    </div>
+  </section>
+
+  <main>
+    <section id="dashboard" class="dashboard" aria-label="Category overview"></section>
+    <div class="result-head">
+      <span id="resultCount">0 results</span>
+      <span id="activeFilters"></span>
+    </div>
+    <ol id="results" class="results"></ol>
+  </main>
 
   <footer>
-    <a href="feeds/all.xml">RSS all</a> |
-    <a href="legal/impressum.html">Impressum</a> |
-    <a href="legal/privacy.html">Privacy</a> |
+    <a href="feeds/all.xml">RSS all</a>
+    <a href="legal/impressum.html">Impressum</a>
+    <a href="legal/privacy.html">Privacy</a>
     <a href="legal/opt-out.html">Opt-out</a>
   </footer>
 
-  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
-  <script src="app.js"></script>
+  <script src="vendor/fuse.min.js"></script>
+  <script src="app.js?v=20260428-deadlines"></script>
 </body>
 </html>

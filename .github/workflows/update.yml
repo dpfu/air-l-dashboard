@@ -16,20 +16,29 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - uses: astral-sh/setup-uv@v5
       - name: Install deps
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+        run: uv sync --frozen
       - name: Scrape current month
-        run: python -m scripts.scrape
+        run: uv run python -m scripts.scrape
       - name: Build public JSON and feeds
+        env:
+          SITE_BASE_URL: https://dpfu.github.io/air-l-dashboard
         run: |
-          python -m scripts.build_public_data
-          python -m scripts.build_feeds
+          uv run python -m scripts.build_public_data
+          uv run python -m scripts.build_feeds
+      - name: Test generated artifacts
+        run: |
+          uv run pytest -q
+          node --check site/app.js
+          if rg -n "[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}" data/public site/data site/feeds; then
+            echo "Email address-like value found in public artifacts."
+            exit 1
+          fi
       - name: Commit generated data
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Daniel Pfurtscheller"
+          git config user.email "daniel.pfurtscheller@uibk.ac.at"
           git add data/public data/internal site/data site/feeds
           git diff --cached --quiet || git commit -m "chore: update Air-L index data"
           git push

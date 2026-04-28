@@ -1,0 +1,20 @@
+[project]
+name = "air-l-dashboard"
+version = "0.1.0"
+description = "Static, data-minimizing metadata index for the public AoIR Air-L Pipermail archive."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "beautifulsoup4==4.12.3",
+  "dateparser==1.2.0",
+  "python-dateutil==2.9.0.post0",
+  "requests==2.32.3",
+]
+
+[dependency-groups]
+dev = [
+  "pytest==8.3.2",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
