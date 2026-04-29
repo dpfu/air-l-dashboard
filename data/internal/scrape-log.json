@@ -1,33 +1,15 @@
 {
-  "indexed_at": "2026-04-27T22:40:27Z",
+  "indexed_at": "2026-04-29T06:38:15Z",
   "months": [
     {
-      "month": "2026-January",
+      "month": "2026-April",
       "status": 200,
-      "new": 126,
-      "processed": 126,
-      "total_found": 126,
+      "new": 12,
+      "processed": 12,
+      "total_found": 114,
       "thread_status": 200,
-      "thread_entries": 126
-    },
-    {
-      "month": "2026-February",
-      "status": 200,
-      "new": 213,
-      "processed": 213,
-      "total_found": 213,
-      "thread_status": 200,
-      "thread_entries": 213
-    },
-    {
-      "month": "2026-March",
-      "status": 200,
-      "new": 147,
-      "processed": 147,
-      "total_found": 147,
-      "thread_status": 200,
-      "thread_entries": 147
+      "thread_entries": 114
     }
   ],
-  "new_posts": 486
+  "new_posts": 12
 }

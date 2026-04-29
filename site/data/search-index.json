@@ -1,5 +1,185 @@
 [
   {
+    "id": "195920",
+    "subject": "[Air-L] ARPANET resurrection update and possible significances?",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai.",
+    "category": "other",
+    "tags": [
+      "ai"
+    ],
+    "date": "2026-04-29T06:12:16Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195920.html"
+  },
+  {
+    "id": "195919",
+    "subject": "[Air-L] query on publishers agreements for AI-related licensing",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, phd.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "phd"
+    ],
+    "date": "2026-04-28T23:45:25Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195919.html"
+  },
+  {
+    "id": "195918",
+    "subject": "[Air-L] Call for Papers: \"Platformed Mormonism\"",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, faculty, journal, phd, platforms, special_issue.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "faculty",
+      "journal",
+      "phd",
+      "platforms",
+      "special_issue"
+    ],
+    "date": "2026-04-28T21:56:30Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195918.html"
+  },
+  {
+    "id": "195917",
+    "subject": "[Air-L] Invitation to Book Launch: Critical Political Economy and Southern Approaches to AI: A Dialogue",
+    "snippet": "Metadata-only summary: Events. Tags: ai, book, event.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "book",
+      "event"
+    ],
+    "date": "2026-04-28T11:43:02Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195917.html"
+  },
+  {
+    "id": "195916",
+    "subject": "[Air-L] Two fully-funded PhD positions - Communicative AI - University St. Gallen (Switzerland)",
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, job, phd.",
+    "category": "job",
+    "tags": [
+      "ai",
+      "job",
+      "phd"
+    ],
+    "date": "2026-04-28T11:26:31Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195916.html"
+  },
+  {
+    "id": "195915",
+    "subject": "[Air-L] Postdoctoral Research Associate on AIDEMOCRACY",
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, job, method, phd, platforms, postdoc.",
+    "category": "job",
+    "tags": [
+      "ai",
+      "job",
+      "method",
+      "phd",
+      "platforms",
+      "postdoc",
+      "teaching"
+    ],
+    "date": "2026-04-28T10:56:06Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195915.html"
+  },
+  {
+    "id": "195914",
+    "subject": "[Air-L] 4S 2026 CfA: Open Panel on ontologies of (ac)counting with and beyond data",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, method. Deadline: 2026-04-30.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "method"
+    ],
+    "date": "2026-04-28T10:49:59Z",
+    "deadline": "2026-04-30",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195914.html"
+  },
+  {
+    "id": "195913",
+    "subject": "[Air-L] Webinar: Colonialism in the digital age - The fight for a livable future",
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, open_access.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "open_access"
+    ],
+    "date": "2026-04-28T09:44:20Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195913.html"
+  },
+  {
+    "id": "195912",
+    "subject": "[Air-L] 10th Workshop on Online Abuse and Harms (WOAH) @EMNLP: 2nd CFP",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, method, workshop. Deadline: 2026-08-03.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "method",
+      "workshop"
+    ],
+    "date": "2026-04-28T09:29:12Z",
+    "deadline": "2026-08-03",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195912.html"
+  },
+  {
+    "id": "195911",
+    "subject": "[Air-L] ISOC LIVE - What's On & What's New",
+    "snippet": "Metadata-only summary: Events. Tags: event, internet_governance, platforms, social_media.",
+    "category": "event",
+    "tags": [
+      "event",
+      "internet_governance",
+      "platforms",
+      "social_media"
+    ],
+    "date": "2026-04-28T08:50:13Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195911.html"
+  },
+  {
+    "id": "195910",
+    "subject": "[Air-L] Postdoc position in Computational Methods and Digital Social Policy in Germany",
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job, method, phd, postdoc. Deadline: 2026-05-13.",
+    "category": "job",
+    "tags": [
+      "ai",
+      "deadline",
+      "job",
+      "method",
+      "phd",
+      "postdoc",
+      "social_media"
+    ],
+    "date": "2026-04-28T05:49:20Z",
+    "deadline": "2026-05-13",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195910.html"
+  },
+  {
+    "id": "195909",
+    "subject": "[Air-L] 4S Toronto 2026 Panel #236: Communities of Critique (Deadline: April 30)",
+    "snippet": "Metadata-only summary: Events. Tags: ai, deadline, event, method, phd. Deadline: 2026-04-30.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "deadline",
+      "event",
+      "method",
+      "phd"
+    ],
+    "date": "2026-04-27T22:53:57Z",
+    "deadline": "2026-04-30",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195909.html"
+  },
+  {
     "id": "195908",
     "subject": "[Air-L] Gender & Tech Talk Series – May 5, 2026, 10:00am EDT – Possible AI Futures",
     "snippet": "Metadata-only summary: Events. Tags: ai, event.",
