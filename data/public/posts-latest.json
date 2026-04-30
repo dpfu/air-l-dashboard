@@ -1,5 +1,56 @@
 [
   {
+    "id": "195923",
+    "source": "air-l",
+    "subject": "[Air-L] 4S 2026 Toronto CfA: \"Does Generative AI Flip the Script? A Look at Power and Use in Everyday Sociotechnical Practice\"",
+    "date": "2026-04-29T08:41:48Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195923.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "deadline",
+      "postdoc"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, deadline, postdoc. Deadline: 2026-04-30.",
+    "deadline": "2026-04-30",
+    "event_date": null,
+    "indexed_at": "2026-04-30T06:42:47Z"
+  },
+  {
+    "id": "195922",
+    "source": "air-l",
+    "subject": "[Air-L] REMINDER - Invitation: Webinar on LGBTQ+ Digital Resistance in Hungary (5th May 2026)",
+    "date": "2026-04-29T08:15:17Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195922.html",
+    "category": "event",
+    "tags": [
+      "book",
+      "event",
+      "fellowship",
+      "phd",
+      "platforms",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: book, event, fellowship, phd, platforms, social_media.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-04-30T06:42:44Z"
+  },
+  {
+    "id": "195921",
+    "source": "air-l",
+    "subject": "[Air-L] ARPANET resurrection update and possible significances?",
+    "date": "2026-04-29T07:30:03Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-April/195921.html",
+    "category": "other",
+    "tags": [],
+    "snippet": "Metadata-only summary: OTHER.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-04-30T06:42:43Z"
+  },
+  {
     "id": "195920",
     "source": "air-l",
     "subject": "[Air-L] ARPANET resurrection update and possible significances?",
@@ -7779,56 +7830,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:42:52Z"
-  },
-  {
-    "id": "195418",
-    "source": "air-l",
-    "subject": "[Air-L] New open access book: Understanding China Through Digital Anthropology (UCL Press)",
-    "date": "2026-01-27T14:00:05Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195418.html",
-    "category": "publication",
-    "tags": [
-      "book",
-      "open_access",
-      "publication"
-    ],
-    "snippet": "Metadata-only summary: Publication. Tags: book, open_access, publication.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:42:51Z"
-  },
-  {
-    "id": "195417",
-    "source": "air-l",
-    "subject": "[Air-L] Today, Online Book Talk, Silicon Elsewhere: Nairobi, Global China and Techno-Capital",
-    "date": "2026-01-27T13:43:10Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195417.html",
-    "category": "other",
-    "tags": [
-      "book"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: book.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:42:49Z"
-  },
-  {
-    "id": "195416",
-    "source": "air-l",
-    "subject": "[Air-L] CFP: CHI’26 Workshop CHIdeology: Disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies",
-    "date": "2026-01-27T09:23:08Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195416.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp",
-      "conference",
-      "deadline",
-      "method",
-      "workshop"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, deadline, method, workshop. Deadline: 2026-02-05.",
-    "deadline": "2026-02-05",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:42:48Z"
   }
 ]
