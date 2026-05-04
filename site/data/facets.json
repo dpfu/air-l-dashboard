@@ -1,8 +1,8 @@
 {
   "categories": {
+    "other": 233,
     "call_for_papers": 183,
     "event": 111,
-    "other": 232,
     "job": 44,
     "publication": 34
   },
@@ -33,6 +33,6 @@
     "book_review": 6
   },
   "years": {
-    "2026": 604
+    "2026": 605
   }
 }

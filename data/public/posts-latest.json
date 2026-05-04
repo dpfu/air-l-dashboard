@@ -1,5 +1,18 @@
 [
   {
+    "id": "195929",
+    "source": "air-l",
+    "subject": "[Air-L] ARPANET resurrection update and possible significances?",
+    "date": "2026-05-04T05:07:32Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195929.html",
+    "category": "other",
+    "tags": [],
+    "snippet": "Metadata-only summary: OTHER.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-04T07:24:23Z"
+  },
+  {
     "id": "195928",
     "source": "air-l",
     "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Third Call for Papers (Industry Track)",
@@ -7813,24 +7826,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:42:55Z"
-  },
-  {
-    "id": "195420",
-    "source": "air-l",
-    "subject": "[Air-L] CFP for Teaching Authentic Thinking in the Age of AI: Theory, Pedagogy, and Practice",
-    "date": "2026-01-27T14:27:22Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195420.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "deadline",
-      "phd",
-      "teaching"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, deadline, phd, teaching. Deadline: 2026-03-15.",
-    "deadline": "2026-03-15",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:42:53Z"
   }
 ]
