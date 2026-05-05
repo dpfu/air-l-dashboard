@@ -1,5 +1,58 @@
 [
   {
+    "id": "195932",
+    "source": "air-l",
+    "subject": "[Air-L] AIES 2026 invites PC members!",
+    "date": "2026-05-04T15:14:43Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195932.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "conference"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, conference.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-05T06:28:40Z"
+  },
+  {
+    "id": "195931",
+    "source": "air-l",
+    "subject": "[Air-L] INNOVADE-Webinar: What Digital Futures Do We (Not) Want? Results from the Futures of Digital Democracy Survey",
+    "date": "2026-05-04T14:32:15Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195931.html",
+    "category": "event",
+    "tags": [
+      "event",
+      "method",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: event, method, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-05T06:28:38Z"
+  },
+  {
+    "id": "195930",
+    "source": "air-l",
+    "subject": "[Air-L] FINAL REMINDER - TOMORROW - Invitation: Webinar on LGBTQ+ Digital Resistance in Hungary (5th May 2026)",
+    "date": "2026-05-04T10:20:44Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195930.html",
+    "category": "event",
+    "tags": [
+      "book",
+      "event",
+      "fellowship",
+      "phd",
+      "platforms",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: book, event, fellowship, phd, platforms, social_media.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-05T06:28:37Z"
+  },
+  {
     "id": "195929",
     "source": "air-l",
     "subject": "[Air-L] ARPANET resurrection update and possible significances?",
@@ -7783,48 +7836,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:42:59Z"
-  },
-  {
-    "id": "195423",
-    "source": "air-l",
-    "subject": "[Air-L] [AoIR HQ] Membership Dues Increase 15 February 2026; Lock In Savings Now!",
-    "date": "2026-01-27T19:50:14Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195423.html",
-    "category": "other",
-    "tags": [
-      "deadline"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: deadline. Deadline: 2026-02-15.",
-    "deadline": "2026-02-15",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:42:57Z"
-  },
-  {
-    "id": "195422",
-    "source": "air-l",
-    "subject": "[Air-L] Proposal for panel",
-    "date": "2026-01-27T16:44:43Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195422.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:42:56Z"
-  },
-  {
-    "id": "195421",
-    "source": "air-l",
-    "subject": "[Air-L] Explore how Software Defined Radios expose & detect radio‑frequency vulnerabilities across 5G, autonomous systems & critical infrastructure",
-    "date": "2026-01-27T16:41:58Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195421.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:42:55Z"
   }
 ]
