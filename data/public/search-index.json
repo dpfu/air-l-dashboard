@@ -1,5 +1,96 @@
 [
   {
+    "id": "195938",
+    "subject": "[Air-L] ​ISOC LIVE - What's On & What's New",
+    "snippet": "Metadata-only summary: Events. Tags: ai, book, event, internet_governance, platforms, workshop.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "book",
+      "event",
+      "internet_governance",
+      "platforms",
+      "workshop"
+    ],
+    "date": "2026-05-05T19:38:44Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195938.html"
+  },
+  {
+    "id": "195937",
+    "subject": "[Air-L] Deadline extended: Submit to SEASON 2026 until 10th May",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, cfp, conference, deadline, method. Deadline: 2026-05-10.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "deadline",
+      "method"
+    ],
+    "date": "2026-05-05T15:43:49Z",
+    "deadline": "2026-05-10",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195937.html"
+  },
+  {
+    "id": "195936",
+    "subject": "[Air-L] Book launch webinar May 21st: Platforms and the Planet: Big Tech, Digital Platforms and Environmental Responsibility",
+    "snippet": "Metadata-only summary: Events. Tags: ai, book, event, faculty, phd, platforms.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "book",
+      "event",
+      "faculty",
+      "phd",
+      "platforms"
+    ],
+    "date": "2026-05-05T13:02:23Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195936.html"
+  },
+  {
+    "id": "195935",
+    "subject": "[Air-L] CfP – Dossier: Regulating Digital Platforms in Political Communication",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, platforms.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "platforms"
+    ],
+    "date": "2026-05-05T12:52:22Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195935.html"
+  },
+  {
+    "id": "195934",
+    "subject": "[Air-L] New Book on Digital Nationalism and Affective Governance",
+    "snippet": "Metadata-only summary: Publication. Tags: book, platforms, publication.",
+    "category": "publication",
+    "tags": [
+      "book",
+      "platforms",
+      "publication"
+    ],
+    "date": "2026-05-05T06:44:24Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195934.html"
+  },
+  {
+    "id": "195933",
+    "subject": "[Air-L] New Book on Digital Nationalism, Propaganda, and Affective Governance in China",
+    "snippet": "Metadata-only summary: Publication. Tags: book, platforms, publication.",
+    "category": "publication",
+    "tags": [
+      "book",
+      "platforms",
+      "publication"
+    ],
+    "date": "2026-05-05T06:40:05Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195933.html"
+  },
+  {
     "id": "195932",
     "subject": "[Air-L] AIES 2026 invites PC members!",
     "snippet": "Metadata-only summary: OTHER. Tags: ai, conference.",

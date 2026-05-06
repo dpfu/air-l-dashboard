@@ -1,38 +1,38 @@
 {
   "categories": {
-    "other": 234,
-    "event": 113,
-    "call_for_papers": 183,
-    "job": 44,
-    "publication": 34
+    "event": 115,
+    "other": 235,
+    "call_for_papers": 184,
+    "publication": 36,
+    "job": 44
   },
   "tags": {
-    "ai": 153,
-    "conference": 115,
-    "event": 113,
-    "method": 78,
-    "platforms": 67,
-    "book": 69,
+    "ai": 156,
+    "book": 73,
+    "event": 115,
+    "internet_governance": 7,
+    "platforms": 72,
+    "workshop": 33,
+    "cfp": 185,
+    "conference": 116,
+    "deadline": 148,
+    "method": 79,
+    "faculty": 22,
+    "phd": 48,
+    "publication": 36,
     "fellowship": 8,
-    "phd": 47,
     "social_media": 35,
-    "cfp": 183,
-    "deadline": 147,
     "postdoc": 9,
-    "faculty": 21,
     "journal": 28,
     "special_issue": 33,
     "job": 44,
     "teaching": 8,
     "open_access": 12,
-    "workshop": 32,
-    "internet_governance": 6,
     "digital_culture": 7,
-    "publication": 34,
     "dataset": 3,
     "book_review": 6
   },
   "years": {
-    "2026": 608
+    "2026": 614
   }
 }

@@ -1,5 +1,114 @@
 [
   {
+    "id": "195938",
+    "source": "air-l",
+    "subject": "[Air-L] ​ISOC LIVE - What's On & What's New",
+    "date": "2026-05-05T19:38:44Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195938.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "book",
+      "event",
+      "internet_governance",
+      "platforms",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, book, event, internet_governance, platforms, workshop.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-06T06:45:53Z"
+  },
+  {
+    "id": "195937",
+    "source": "air-l",
+    "subject": "[Air-L] Deadline extended: Submit to SEASON 2026 until 10th May",
+    "date": "2026-05-05T15:43:49Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195937.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "deadline",
+      "method"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, cfp, conference, deadline, method. Deadline: 2026-05-10.",
+    "deadline": "2026-05-10",
+    "event_date": null,
+    "indexed_at": "2026-05-06T06:45:52Z"
+  },
+  {
+    "id": "195936",
+    "source": "air-l",
+    "subject": "[Air-L] Book launch webinar May 21st: Platforms and the Planet: Big Tech, Digital Platforms and Environmental Responsibility",
+    "date": "2026-05-05T13:02:23Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195936.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "book",
+      "event",
+      "faculty",
+      "phd",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, book, event, faculty, phd, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-06T06:45:49Z"
+  },
+  {
+    "id": "195935",
+    "source": "air-l",
+    "subject": "[Air-L] CfP – Dossier: Regulating Digital Platforms in Political Communication",
+    "date": "2026-05-05T12:52:22Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195935.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-06T06:45:48Z"
+  },
+  {
+    "id": "195934",
+    "source": "air-l",
+    "subject": "[Air-L] New Book on Digital Nationalism and Affective Governance",
+    "date": "2026-05-05T06:44:24Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195934.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "platforms",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, platforms, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-06T06:45:47Z"
+  },
+  {
+    "id": "195933",
+    "source": "air-l",
+    "subject": "[Air-L] New Book on Digital Nationalism, Propaganda, and Affective Governance in China",
+    "date": "2026-05-05T06:40:05Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195933.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "platforms",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, platforms, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-06T06:45:46Z"
+  },
+  {
     "id": "195932",
     "source": "air-l",
     "subject": "[Air-L] AIES 2026 invites PC members!",
@@ -7740,101 +7849,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:43:07Z"
-  },
-  {
-    "id": "195429",
-    "source": "air-l",
-    "subject": "[Air-L] The 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026): Last Combo Call for Workshop Papers",
-    "date": "2026-01-28T11:55:41Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195429.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "conference",
-      "workshop"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, workshop.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:06Z"
-  },
-  {
-    "id": "195428",
-    "source": "air-l",
-    "subject": "[Air-L] UKRI is inviting AI researchers to the UK | The University of Manchester",
-    "date": "2026-01-28T11:03:21Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195428.html",
-    "category": "other",
-    "tags": [
-      "ai"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: ai.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:04Z"
-  },
-  {
-    "id": "195427",
-    "source": "air-l",
-    "subject": "[Air-L] PhD position in the Doctoral Network \"RePIM – Revisioning Public Interest Media\" // University of Zurich",
-    "date": "2026-01-28T10:43:21Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195427.html",
-    "category": "job",
-    "tags": [
-      "job",
-      "phd"
-    ],
-    "snippet": "Metadata-only summary: JOBS. Tags: job, phd.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:03Z"
-  },
-  {
-    "id": "195426",
-    "source": "air-l",
-    "subject": "[Air-L] The Digital Democracy Score (DDS) launched: A Tool for Measuring Digital Democracy",
-    "date": "2026-01-28T08:45:16Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195426.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:02Z"
-  },
-  {
-    "id": "195425",
-    "source": "air-l",
-    "subject": "[Air-L] Registrations Now Open! See Innovation in Action: Computational Methods Lab Showcase, February 16, 2026",
-    "date": "2026-01-27T22:40:45Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195425.html",
-    "category": "other",
-    "tags": [
-      "deadline",
-      "method"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: deadline, method. Deadline: 2026-02-16.",
-    "deadline": "2026-02-16",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:00Z"
-  },
-  {
-    "id": "195424",
-    "source": "air-l",
-    "subject": "[Air-L] CFP for Teaching Authentic Thinking in the Age of AI: Theory, Pedagogy, and Practice",
-    "date": "2026-01-27T20:42:16Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195424.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "phd",
-      "teaching"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, phd, teaching.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:42:59Z"
   }
 ]
