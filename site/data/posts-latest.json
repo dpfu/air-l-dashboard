@@ -1,5 +1,158 @@
 [
   {
+    "id": "195947",
+    "source": "air-l",
+    "subject": "[Air-L] Invitation to attend (online): Talk by Chris Salter (ZHdK): “Sensing Immersion: Video passthrough, bodily technologies and sense coupling in co-extensive reality” (19 May,…",
+    "date": "2026-05-07T07:12:35Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195947.html",
+    "category": "event",
+    "tags": [
+      "event"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: event.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-07T07:18:53Z"
+  },
+  {
+    "id": "195946",
+    "source": "air-l",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Workshop Proposals",
+    "date": "2026-05-07T06:59:41Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195946.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "journal",
+      "method",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, journal, method, workshop.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-07T07:18:52Z"
+  },
+  {
+    "id": "195945",
+    "source": "air-l",
+    "subject": "[Air-L] ARPANET resurrection update and possible significances?",
+    "date": "2026-05-06T18:27:56Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195945.html",
+    "category": "other",
+    "tags": [],
+    "snippet": "Metadata-only summary: OTHER.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-07T07:18:51Z"
+  },
+  {
+    "id": "195944",
+    "source": "air-l",
+    "subject": "[Air-L] Invitation to attend (online): Talk by Chris Salter (ZHdK): “Sensing Immersion: Video passthrough, bodily technologies and sense coupling in co-extensive reality” (19 May,…",
+    "date": "2026-05-06T16:15:51Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195944.html",
+    "category": "event",
+    "tags": [
+      "event",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: event, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-07T07:18:50Z"
+  },
+  {
+    "id": "195943",
+    "source": "air-l",
+    "subject": "[Air-L] CFP | \"The Betting Epidemic: Gambling, Financialization, and Digital Platforms\" | Revista Alceu, Brazil",
+    "date": "2026-05-06T14:34:52Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195943.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "journal",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, journal, platforms. Deadline: 2026-06-30.",
+    "deadline": "2026-06-30",
+    "event_date": null,
+    "indexed_at": "2026-05-07T07:18:49Z"
+  },
+  {
+    "id": "195942",
+    "source": "air-l",
+    "subject": "[Air-L] Job announcement: Three Lecturers in Digital Media and Culture at the University of Manchester",
+    "date": "2026-05-06T14:28:07Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195942.html",
+    "category": "job",
+    "tags": [
+      "job",
+      "special_issue",
+      "teaching"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: job, special_issue, teaching.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-07T07:18:47Z"
+  },
+  {
+    "id": "195941",
+    "source": "air-l",
+    "subject": "[Air-L] Digital Methods Summer School at The University of Manchester",
+    "date": "2026-05-06T09:59:56Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195941.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "method",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, method, special_issue.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-07T07:18:46Z"
+  },
+  {
+    "id": "195940",
+    "source": "air-l",
+    "subject": "[Air-L] The Annual ACM Conference on Intelligent User Interfaces (IUI 2026): Call for Participation",
+    "date": "2026-05-06T07:29:18Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195940.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "conference",
+      "deadline",
+      "event",
+      "method"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, conference, deadline, event, method. Deadline: 2026-06-30.",
+    "deadline": "2026-06-30",
+    "event_date": null,
+    "indexed_at": "2026-05-07T07:18:45Z"
+  },
+  {
+    "id": "195939",
+    "source": "air-l",
+    "subject": "[Air-L] New Book on Digital Nationalism, Propaganda, and Affective Governance in China",
+    "date": "2026-05-06T06:51:08Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195939.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "platforms",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, platforms, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-07T07:18:42Z"
+  },
+  {
     "id": "195938",
     "source": "air-l",
     "subject": "[Air-L] ​ISOC LIVE - What's On & What's New",
@@ -7702,152 +7855,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:43:19Z"
-  },
-  {
-    "id": "195438",
-    "source": "air-l",
-    "subject": "[Air-L] Inquiry: PhD Opportunities Starting in the Next Year (Data Science / Internet Research)",
-    "date": "2026-01-30T17:39:52Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195438.html",
-    "category": "other",
-    "tags": [
-      "phd"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: phd.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:18Z"
-  },
-  {
-    "id": "195437",
-    "source": "air-l",
-    "subject": "[Air-L] Internet Histories special issue \"Interrogating Trust & Safety\" CFP | Abstracts due May 1",
-    "date": "2026-01-30T16:25:56Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195437.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp",
-      "deadline",
-      "special_issue"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, special_issue. Deadline: 2026-05-01.",
-    "deadline": "2026-05-01",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:16Z"
-  },
-  {
-    "id": "195436",
-    "source": "air-l",
-    "subject": "[Air-L] PhD & Postdoctoral Jobs University of Zurich",
-    "date": "2026-01-30T15:50:06Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195436.html",
-    "category": "job",
-    "tags": [
-      "job",
-      "phd"
-    ],
-    "snippet": "Metadata-only summary: JOBS. Tags: job, phd.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:15Z"
-  },
-  {
-    "id": "195435",
-    "source": "air-l",
-    "subject": "[Air-L] The Annual ACM Conference on Intelligent User Interfaces (IUI 2026): Call for Participation",
-    "date": "2026-01-30T13:48:06Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195435.html",
-    "category": "event",
-    "tags": [
-      "conference",
-      "deadline",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: conference, deadline, event. Deadline: 2026-02-13.",
-    "deadline": "2026-02-13",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:14Z"
-  },
-  {
-    "id": "195434",
-    "source": "air-l",
-    "subject": "[Air-L] Big Data Discourses | International Journal of Communication Special Section",
-    "date": "2026-01-30T07:14:17Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195434.html",
-    "category": "other",
-    "tags": [
-      "journal"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: journal.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:12Z"
-  },
-  {
-    "id": "195433",
-    "source": "air-l",
-    "subject": "[Air-L] Springer Special Issue: Trust in AI vs Human Experts: Cognitive, Social, and Emotional Perspectives",
-    "date": "2026-01-29T12:10:10Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195433.html",
-    "category": "publication",
-    "tags": [
-      "ai",
-      "publication",
-      "special_issue"
-    ],
-    "snippet": "Metadata-only summary: Publication. Tags: ai, publication, special_issue.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:11Z"
-  },
-  {
-    "id": "195432",
-    "source": "air-l",
-    "subject": "[Air-L] SWING – School on Internet Governance 20-24 April 2026 @ Bruges (Belgium)",
-    "date": "2026-01-29T09:48:22Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195432.html",
-    "category": "event",
-    "tags": [
-      "event",
-      "internet_governance"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event, internet_governance.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:10Z"
-  },
-  {
-    "id": "195431",
-    "source": "air-l",
-    "subject": "[Air-L] The Social Codes of Tech Workers, Book Talk with Robert Dorschel",
-    "date": "2026-01-29T00:12:08Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195431.html",
-    "category": "other",
-    "tags": [
-      "book",
-      "deadline"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: book, deadline. Deadline: 2026-02-05.",
-    "deadline": "2026-02-05",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:08Z"
-  },
-  {
-    "id": "195430",
-    "source": "air-l",
-    "subject": "[Air-L] NordiCHI 2026 - 2nd Call for Submissions",
-    "date": "2026-01-28T16:04:40Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195430.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp",
-      "conference",
-      "phd",
-      "workshop"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, phd, workshop.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:07Z"
   }
 ]

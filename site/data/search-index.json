@@ -1,5 +1,131 @@
 [
   {
+    "id": "195947",
+    "subject": "[Air-L] Invitation to attend (online): Talk by Chris Salter (ZHdK): “Sensing Immersion: Video passthrough, bodily technologies and sense coupling in co-extensive reality” (19 May,…",
+    "snippet": "Metadata-only summary: Events. Tags: event.",
+    "category": "event",
+    "tags": [
+      "event"
+    ],
+    "date": "2026-05-07T07:12:35Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195947.html"
+  },
+  {
+    "id": "195946",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Workshop Proposals",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, journal, method, workshop.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "journal",
+      "method",
+      "workshop"
+    ],
+    "date": "2026-05-07T06:59:41Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195946.html"
+  },
+  {
+    "id": "195945",
+    "subject": "[Air-L] ARPANET resurrection update and possible significances?",
+    "snippet": "Metadata-only summary: OTHER.",
+    "category": "other",
+    "tags": [],
+    "date": "2026-05-06T18:27:56Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195945.html"
+  },
+  {
+    "id": "195944",
+    "subject": "[Air-L] Invitation to attend (online): Talk by Chris Salter (ZHdK): “Sensing Immersion: Video passthrough, bodily technologies and sense coupling in co-extensive reality” (19 May,…",
+    "snippet": "Metadata-only summary: Events. Tags: event, phd.",
+    "category": "event",
+    "tags": [
+      "event",
+      "phd"
+    ],
+    "date": "2026-05-06T16:15:51Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195944.html"
+  },
+  {
+    "id": "195943",
+    "subject": "[Air-L] CFP | \"The Betting Epidemic: Gambling, Financialization, and Digital Platforms\" | Revista Alceu, Brazil",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, journal, platforms. Deadline: 2026-06-30.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "journal",
+      "platforms"
+    ],
+    "date": "2026-05-06T14:34:52Z",
+    "deadline": "2026-06-30",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195943.html"
+  },
+  {
+    "id": "195942",
+    "subject": "[Air-L] Job announcement: Three Lecturers in Digital Media and Culture at the University of Manchester",
+    "snippet": "Metadata-only summary: JOBS. Tags: job, special_issue, teaching.",
+    "category": "job",
+    "tags": [
+      "job",
+      "special_issue",
+      "teaching"
+    ],
+    "date": "2026-05-06T14:28:07Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195942.html"
+  },
+  {
+    "id": "195941",
+    "subject": "[Air-L] Digital Methods Summer School at The University of Manchester",
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, method, special_issue.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "method",
+      "special_issue"
+    ],
+    "date": "2026-05-06T09:59:56Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195941.html"
+  },
+  {
+    "id": "195940",
+    "subject": "[Air-L] The Annual ACM Conference on Intelligent User Interfaces (IUI 2026): Call for Participation",
+    "snippet": "Metadata-only summary: Events. Tags: ai, conference, deadline, event, method. Deadline: 2026-06-30.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "conference",
+      "deadline",
+      "event",
+      "method"
+    ],
+    "date": "2026-05-06T07:29:18Z",
+    "deadline": "2026-06-30",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195940.html"
+  },
+  {
+    "id": "195939",
+    "subject": "[Air-L] New Book on Digital Nationalism, Propaganda, and Affective Governance in China",
+    "snippet": "Metadata-only summary: Publication. Tags: book, platforms, publication.",
+    "category": "publication",
+    "tags": [
+      "book",
+      "platforms",
+      "publication"
+    ],
+    "date": "2026-05-06T06:51:08Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195939.html"
+  },
+  {
     "id": "195938",
     "subject": "[Air-L] ​ISOC LIVE - What's On & What's New",
     "snippet": "Metadata-only summary: Events. Tags: ai, book, event, internet_governance, platforms, workshop.",
