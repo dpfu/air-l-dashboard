@@ -1,5 +1,56 @@
 [
   {
+    "id": "195950",
+    "source": "air-l",
+    "subject": "[Air-L] CfP - Internet Society Foundation Research Grant",
+    "date": "2026-05-07T14:03:13Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195950.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "open_access"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, open_access.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-08T06:09:46Z"
+  },
+  {
+    "id": "195949",
+    "source": "air-l",
+    "subject": "[Air-L] Conference Digital Cultures of the Caucasus: Queer-Feminist Perspectives",
+    "date": "2026-05-07T13:53:36Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195949.html",
+    "category": "event",
+    "tags": [
+      "book",
+      "conference",
+      "digital_culture",
+      "event"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: book, conference, digital_culture, event.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-08T06:09:45Z"
+  },
+  {
+    "id": "195948",
+    "source": "air-l",
+    "subject": "[Air-L] Hiring a post doc (36 months+) in governance of emergent tech - HPI/Oxford",
+    "date": "2026-05-07T11:38:47Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195948.html",
+    "category": "job",
+    "tags": [
+      "ai",
+      "deadline",
+      "job"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-08T06:09:44Z"
+  },
+  {
     "id": "195947",
     "source": "air-l",
     "subject": "[Air-L] Invitation to attend (online): Talk by Chris Salter (ZHdK): “Sensing Immersion: Video passthrough, bodily technologies and sense coupling in co-extensive reality” (19 May,…",
@@ -7801,59 +7852,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:43:24Z"
-  },
-  {
-    "id": "195441",
-    "source": "air-l",
-    "subject": "[Air-L] IEEE SMARTCOMP 2026: Final Call for Research Track Papers and Industry Track Papers (Deadline Extended: 16th February 2026)",
-    "date": "2026-01-31T20:21:40Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195441.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "conference",
-      "deadline",
-      "platforms"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, deadline, platforms. Deadline: 2026-02-16.",
-    "deadline": "2026-02-16",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:22Z"
-  },
-  {
-    "id": "195440",
-    "source": "air-l",
-    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): First Call for Replications and Negative Results",
-    "date": "2026-01-31T13:40:44Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195440.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp",
-      "dataset",
-      "method"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp, dataset, method.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:20Z"
-  },
-  {
-    "id": "195439",
-    "source": "air-l",
-    "subject": "[Air-L] Applied Rhetoric Symposium deadline extended - Submission site now LIVE!",
-    "date": "2026-01-30T19:15:51Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-January/195439.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp",
-      "deadline",
-      "method",
-      "teaching"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, method, teaching.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:19Z"
   }
 ]
