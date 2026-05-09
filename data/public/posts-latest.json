@@ -1,5 +1,24 @@
 [
   {
+    "id": "195951",
+    "source": "air-l",
+    "subject": "[Air-L] AI Futures seminar - Sebastián Lehuedé - May 12",
+    "date": "2026-05-08T10:00:44Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195951.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "faculty",
+      "method",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, faculty, method, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-09T06:27:28Z"
+  },
+  {
     "id": "195950",
     "source": "air-l",
     "subject": "[Air-L] CfP - Internet Society Foundation Research Grant",
@@ -7839,18 +7858,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:43:25Z"
-  },
-  {
-    "id": "195442",
-    "source": "air-l",
-    "subject": "[Air-L] Invitation: Hertie School Digital Governance Research Colloquium, Spring 2026",
-    "date": "2026-02-02T08:00:33Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195442.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:24Z"
   }
 ]
