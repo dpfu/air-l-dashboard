@@ -1,5 +1,25 @@
 [
   {
+    "id": "195952",
+    "source": "air-l",
+    "subject": "[Air-L] Livestream: Convivial Code: Vibe Coding, Vectoral Media & AI-Augmented Toolmaking | 14 May",
+    "date": "2026-05-10T10:14:16Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195952.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "faculty",
+      "method",
+      "platforms",
+      "teaching",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, faculty, method, platforms, teaching, workshop.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-11T07:53:54Z"
+  },
+  {
     "id": "195951",
     "source": "air-l",
     "subject": "[Air-L] AI Futures seminar - Sebastián Lehuedé - May 12",
@@ -7839,24 +7859,5 @@
     "deadline": "2026-01-23",
     "event_date": null,
     "indexed_at": "2026-04-27T22:43:26Z"
-  },
-  {
-    "id": "195443",
-    "source": "air-l",
-    "subject": "[Air-L] Call for Papers: Special Issue on “Co-Producing Environmental Publics” — Communication and the Public",
-    "date": "2026-02-02T08:47:52Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195443.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "method",
-      "platforms",
-      "special_issue"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, method, platforms, special_issue.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:25Z"
   }
 ]
