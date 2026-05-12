@@ -1,5 +1,56 @@
 [
   {
+    "id": "195955",
+    "source": "air-l",
+    "subject": "[Air-L] Collection CFP: Edited Collection Call for Papers Resonant Worlds: Sound, Matter, and Environmental Design in Games Edited by Michael Austin and Kate Galloway",
+    "date": "2026-05-11T18:00:59Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195955.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-12T06:49:13Z"
+  },
+  {
+    "id": "195954",
+    "source": "air-l",
+    "subject": "[Air-L] Creator & Influencer Studies CFPs",
+    "date": "2026-05-11T16:49:23Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195954.html",
+    "category": "other",
+    "tags": [
+      "cfp",
+      "faculty",
+      "journal",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: cfp, faculty, journal, special_issue.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-12T06:49:12Z"
+  },
+  {
+    "id": "195953",
+    "source": "air-l",
+    "subject": "[Air-L] CFP: Risky Milieus - Emerging Biopolitical Economies of Circulation",
+    "date": "2026-05-11T12:12:31Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195953.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "journal",
+      "platforms",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, journal, platforms, special_issue.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-12T06:49:10Z"
+  },
+  {
     "id": "195952",
     "source": "air-l",
     "subject": "[Air-L] Livestream: Convivial Code: Vibe Coding, Vectoral Media & AI-Augmented Toolmaking | 14 May",
@@ -7811,53 +7862,5 @@
     "deadline": "2026-06-10",
     "event_date": null,
     "indexed_at": "2026-04-27T22:43:30Z"
-  },
-  {
-    "id": "195446",
-    "source": "air-l",
-    "subject": "[Air-L] Critical AI Policy Virtual Fellowship 2026",
-    "date": "2026-02-02T11:53:58Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195446.html",
-    "category": "job",
-    "tags": [
-      "ai",
-      "fellowship",
-      "job"
-    ],
-    "snippet": "Metadata-only summary: JOBS. Tags: ai, fellowship, job.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:29Z"
-  },
-  {
-    "id": "195445",
-    "source": "air-l",
-    "subject": "[Air-L] 13 February Book Launch \"Twitter Activism and the Current Uprising in Iran\"",
-    "date": "2026-02-02T11:52:41Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195445.html",
-    "category": "event",
-    "tags": [
-      "book",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: book, event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:28Z"
-  },
-  {
-    "id": "195444",
-    "source": "air-l",
-    "subject": "[Air-L] RECORDING - CITI: Into the Next Digital Generation: Lessons from Yesterday, Predictions for Tomorrow",
-    "date": "2026-02-02T09:31:59Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195444.html",
-    "category": "other",
-    "tags": [
-      "deadline"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: deadline. Deadline: 2026-01-23.",
-    "deadline": "2026-01-23",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:26Z"
   }
 ]
