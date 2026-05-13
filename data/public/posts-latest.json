@@ -1,5 +1,147 @@
 [
   {
+    "id": "195963",
+    "source": "air-l",
+    "subject": "[Air-L] [AoIR HQ] Two weeks left: Nominate for the Nancy Baym Book Award and Dissertation Award",
+    "date": "2026-05-12T21:50:45Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195963.html",
+    "category": "other",
+    "tags": [
+      "book"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-13T07:27:08Z"
+  },
+  {
+    "id": "195962",
+    "source": "air-l",
+    "subject": "[Air-L] [AoIR HQ] Two weeks left: Nominate for the Nancy Baym Book Award and Dissertation Award",
+    "date": "2026-05-12T19:34:41Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195962.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "method"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, method.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-13T07:27:07Z"
+  },
+  {
+    "id": "195961",
+    "source": "air-l",
+    "subject": "[Air-L] UK GDPR Compliant DiscoverText",
+    "date": "2026-05-12T18:39:58Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195961.html",
+    "category": "other",
+    "tags": [
+      "journal",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: journal, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-13T07:27:06Z"
+  },
+  {
+    "id": "195960",
+    "source": "air-l",
+    "subject": "[Air-L] ​ISOC LIVE - What's On & What's New",
+    "date": "2026-05-12T16:51:22Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195960.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "book",
+      "conference",
+      "event",
+      "internet_governance",
+      "platforms",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, book, conference, event, internet_governance, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-13T07:27:04Z"
+  },
+  {
+    "id": "195959",
+    "source": "air-l",
+    "subject": "[Air-L] Starts in 90 mins: Online book launch of ‘Critical Political Economy and Southern Approaches to AI: A Dialogue’",
+    "date": "2026-05-12T11:27:47Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195959.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "book",
+      "event"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, book, event.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-13T07:27:03Z"
+  },
+  {
+    "id": "195958",
+    "source": "air-l",
+    "subject": "[Air-L] Real-Time Intelligent Systems 2026",
+    "date": "2026-05-12T10:15:06Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195958.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "method",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, cfp, conference, method, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-13T07:27:02Z"
+  },
+  {
+    "id": "195957",
+    "source": "air-l",
+    "subject": "[Air-L] FW: [MCJ] New Issue Now Available: 'twitter', edited by Axel Bruns and Alfred Hermida",
+    "date": "2026-05-12T09:51:47Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195957.html",
+    "category": "other",
+    "tags": [
+      "journal",
+      "platforms",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: journal, platforms, social_media.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-13T07:27:01Z"
+  },
+  {
+    "id": "195956",
+    "source": "air-l",
+    "subject": "[Air-L] Last Week to Submit – Special Issue in Global Media and China",
+    "date": "2026-05-12T09:04:38Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195956.html",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "cfp",
+      "deadline",
+      "method",
+      "platforms",
+      "publication",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: ai, cfp, deadline, method, platforms, publication. Deadline: 2026-10-30.",
+    "deadline": "2026-10-30",
+    "event_date": null,
+    "indexed_at": "2026-05-13T07:27:00Z"
+  },
+  {
     "id": "195955",
     "source": "air-l",
     "subject": "[Air-L] Collection CFP: Edited Collection Call for Papers Resonant Worlds: Sound, Matter, and Environmental Design in Games Edited by Michael Austin and Kate Galloway",
@@ -7721,146 +7863,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:43:41Z"
-  },
-  {
-    "id": "195454",
-    "source": "air-l",
-    "subject": "[Air-L] International Society for Humor Studies 2026 Conference (at UFF, Brazil)",
-    "date": "2026-02-04T02:53:03Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195454.html",
-    "category": "event",
-    "tags": [
-      "conference",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: conference, event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:40Z"
-  },
-  {
-    "id": "195453",
-    "source": "air-l",
-    "subject": "[Air-L] Call for Chapters: Athletes in AI Mediatization",
-    "date": "2026-02-03T19:55:30Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195453.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "book",
-      "cfp",
-      "deadline",
-      "faculty",
-      "social_media"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, book, cfp, deadline, faculty, social_media. Deadline: 2026-02-22.",
-    "deadline": "2026-02-22",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:39Z"
-  },
-  {
-    "id": "195452",
-    "source": "air-l",
-    "subject": "[Air-L] LAST CALL for AI researchers to move to the UK all expense paid | The University of Manchester",
-    "date": "2026-02-03T11:28:43Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195452.html",
-    "category": "other",
-    "tags": [
-      "ai"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: ai.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:37Z"
-  },
-  {
-    "id": "195451",
-    "source": "air-l",
-    "subject": "[Air-L] Cfp: Digital Methods Summer School '26 - Univ. Amsterdam",
-    "date": "2026-02-03T10:08:04Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195451.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "deadline",
-      "method",
-      "phd",
-      "social_media",
-      "workshop"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, deadline, method, phd, social_media. Deadline: 2026-02-17.",
-    "deadline": "2026-02-17",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:36Z"
-  },
-  {
-    "id": "195450",
-    "source": "air-l",
-    "subject": "[Air-L] CFP - Digital Communication and Social Practices under Algorithms: Challenges and Opportunities. BiD, Issue 57",
-    "date": "2026-02-03T08:33:50Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195450.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "platforms",
-      "special_issue"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, platforms, special_issue.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:34Z"
-  },
-  {
-    "id": "195449",
-    "source": "air-l",
-    "subject": "[Air-L] Critical AI Policy Virtual Fellowship 2026",
-    "date": "2026-02-02T18:01:51Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195449.html",
-    "category": "job",
-    "tags": [
-      "ai",
-      "fellowship",
-      "job"
-    ],
-    "snippet": "Metadata-only summary: JOBS. Tags: ai, fellowship, job.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:33Z"
-  },
-  {
-    "id": "195448",
-    "source": "air-l",
-    "subject": "[Air-L] [AoIR HQ] CFP Association of Internet Researchers (AoIR) Flashpoint Symposium)",
-    "date": "2026-02-02T17:59:57Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195448.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp",
-      "deadline",
-      "method"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, method.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:32Z"
-  },
-  {
-    "id": "195447",
-    "source": "air-l",
-    "subject": "[Air-L] Call for Participation: Games and Sustainability (CGSA Pre-conference)",
-    "date": "2026-02-02T13:10:30Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195447.html",
-    "category": "event",
-    "tags": [
-      "conference",
-      "deadline",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: conference, deadline, event. Deadline: 2026-06-10.",
-    "deadline": "2026-06-10",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:30Z"
   }
 ]

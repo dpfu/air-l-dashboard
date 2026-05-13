@@ -1,5 +1,123 @@
 [
   {
+    "id": "195963",
+    "subject": "[Air-L] [AoIR HQ] Two weeks left: Nominate for the Nancy Baym Book Award and Dissertation Award",
+    "snippet": "Metadata-only summary: OTHER. Tags: book.",
+    "category": "other",
+    "tags": [
+      "book"
+    ],
+    "date": "2026-05-12T21:50:45Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195963.html"
+  },
+  {
+    "id": "195962",
+    "subject": "[Air-L] [AoIR HQ] Two weeks left: Nominate for the Nancy Baym Book Award and Dissertation Award",
+    "snippet": "Metadata-only summary: OTHER. Tags: book, method.",
+    "category": "other",
+    "tags": [
+      "book",
+      "method"
+    ],
+    "date": "2026-05-12T19:34:41Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195962.html"
+  },
+  {
+    "id": "195961",
+    "subject": "[Air-L] UK GDPR Compliant DiscoverText",
+    "snippet": "Metadata-only summary: OTHER. Tags: journal, platforms.",
+    "category": "other",
+    "tags": [
+      "journal",
+      "platforms"
+    ],
+    "date": "2026-05-12T18:39:58Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195961.html"
+  },
+  {
+    "id": "195960",
+    "subject": "[Air-L] ​ISOC LIVE - What's On & What's New",
+    "snippet": "Metadata-only summary: Events. Tags: ai, book, conference, event, internet_governance, platforms.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "book",
+      "conference",
+      "event",
+      "internet_governance",
+      "platforms",
+      "workshop"
+    ],
+    "date": "2026-05-12T16:51:22Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195960.html"
+  },
+  {
+    "id": "195959",
+    "subject": "[Air-L] Starts in 90 mins: Online book launch of ‘Critical Political Economy and Southern Approaches to AI: A Dialogue’",
+    "snippet": "Metadata-only summary: Events. Tags: ai, book, event.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "book",
+      "event"
+    ],
+    "date": "2026-05-12T11:27:47Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195959.html"
+  },
+  {
+    "id": "195958",
+    "subject": "[Air-L] Real-Time Intelligent Systems 2026",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, cfp, conference, method, platforms.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "method",
+      "platforms"
+    ],
+    "date": "2026-05-12T10:15:06Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195958.html"
+  },
+  {
+    "id": "195957",
+    "subject": "[Air-L] FW: [MCJ] New Issue Now Available: 'twitter', edited by Axel Bruns and Alfred Hermida",
+    "snippet": "Metadata-only summary: OTHER. Tags: journal, platforms, social_media.",
+    "category": "other",
+    "tags": [
+      "journal",
+      "platforms",
+      "social_media"
+    ],
+    "date": "2026-05-12T09:51:47Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195957.html"
+  },
+  {
+    "id": "195956",
+    "subject": "[Air-L] Last Week to Submit – Special Issue in Global Media and China",
+    "snippet": "Metadata-only summary: Publication. Tags: ai, cfp, deadline, method, platforms, publication. Deadline: 2026-10-30.",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "cfp",
+      "deadline",
+      "method",
+      "platforms",
+      "publication",
+      "special_issue"
+    ],
+    "date": "2026-05-12T09:04:38Z",
+    "deadline": "2026-10-30",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195956.html"
+  },
+  {
     "id": "195955",
     "subject": "[Air-L] Collection CFP: Edited Collection Call for Papers Resonant Worlds: Sound, Matter, and Environmental Design in Games Edited by Michael Austin and Kate Galloway",
     "snippet": "Metadata-only summary: CfP. Tags: cfp.",
