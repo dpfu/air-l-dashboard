@@ -1,5 +1,109 @@
 [
   {
+    "id": "195969",
+    "source": "air-l",
+    "subject": "[Air-L] New Book: Social Media as Fragile State",
+    "date": "2026-05-14T01:48:04Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195969.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "publication",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, publication, social_media.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-14T07:22:07Z"
+  },
+  {
+    "id": "195968",
+    "source": "air-l",
+    "subject": "[Air-L] New Book: Social Media as Fragile State",
+    "date": "2026-05-13T22:14:59Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195968.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "platforms",
+      "publication",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, platforms, publication, social_media.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-14T07:22:06Z"
+  },
+  {
+    "id": "195967",
+    "source": "air-l",
+    "subject": "[Air-L] CFP - Conspiracy Theories in the Wake of Disaster (deadline this Friday)",
+    "date": "2026-05-13T16:06:59Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195967.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "faculty"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, faculty.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-14T07:22:05Z"
+  },
+  {
+    "id": "195966",
+    "source": "air-l",
+    "subject": "[Air-L] Call for contributions: Special Track on “Digital Statecraft: From Principles to Practice” - Deadline: 1 June",
+    "date": "2026-05-13T14:15:28Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195966.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "conference",
+      "deadline",
+      "journal"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, deadline, journal. Deadline: 2026-06-01.",
+    "deadline": "2026-06-01",
+    "event_date": null,
+    "indexed_at": "2026-05-14T07:22:03Z"
+  },
+  {
+    "id": "195965",
+    "source": "air-l",
+    "subject": "[Air-L] Harmful Policing: Reminder to submit your abstract",
+    "date": "2026-05-13T12:58:59Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195965.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline. Deadline: 2026-01-06.",
+    "deadline": "2026-01-06",
+    "event_date": null,
+    "indexed_at": "2026-05-14T07:22:02Z"
+  },
+  {
+    "id": "195964",
+    "source": "air-l",
+    "subject": "[Air-L] Call for Abstracts: AI Hype, Hope & Humanity Festival",
+    "date": "2026-05-13T07:52:56Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195964.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "deadline",
+      "method"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, deadline, method. Deadline: 2026-06-05.",
+    "deadline": "2026-06-05",
+    "event_date": null,
+    "indexed_at": "2026-05-14T07:22:01Z"
+  },
+  {
     "id": "195963",
     "source": "air-l",
     "subject": "[Air-L] [AoIR HQ] Two weeks left: Nominate for the Nancy Baym Book Award and Dissertation Award",
@@ -7773,95 +7877,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:43:49Z"
-  },
-  {
-    "id": "195460",
-    "source": "air-l",
-    "subject": "[Air-L] invite: Governance by Data Infrastructure at the University of Amsterdam (27 March)",
-    "date": "2026-02-05T14:21:44Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195460.html",
-    "category": "event",
-    "tags": [
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:48Z"
-  },
-  {
-    "id": "195459",
-    "source": "air-l",
-    "subject": "[Air-L] Internet Society Early Career Fellowship",
-    "date": "2026-02-05T09:38:44Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195459.html",
-    "category": "job",
-    "tags": [
-      "fellowship",
-      "job"
-    ],
-    "snippet": "Metadata-only summary: JOBS. Tags: fellowship, job.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:47Z"
-  },
-  {
-    "id": "195458",
-    "source": "air-l",
-    "subject": "[Air-L] News sites are locking out the Internet Archive to stop AI crawling. Is the ‘open web’ closing?",
-    "date": "2026-02-05T08:38:18Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195458.html",
-    "category": "other",
-    "tags": [
-      "ai"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: ai.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:45Z"
-  },
-  {
-    "id": "195457",
-    "source": "air-l",
-    "subject": "[Air-L] ICCA award call",
-    "date": "2026-02-05T00:41:10Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195457.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:44Z"
-  },
-  {
-    "id": "195456",
-    "source": "air-l",
-    "subject": "[Air-L] [AoIR HQ] Reminder: Member Dues Increase Next Weekend, 15 February",
-    "date": "2026-02-04T20:32:48Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195456.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:43Z"
-  },
-  {
-    "id": "195455",
-    "source": "air-l",
-    "subject": "[Air-L] Call for Papers on Decoloniality - International Journal of Cultural Studies",
-    "date": "2026-02-04T10:41:26Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195455.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp",
-      "journal",
-      "method",
-      "special_issue"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp, journal, method, special_issue.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:41Z"
   }
 ]

@@ -1,5 +1,91 @@
 [
   {
+    "id": "195969",
+    "subject": "[Air-L] New Book: Social Media as Fragile State",
+    "snippet": "Metadata-only summary: Publication. Tags: book, publication, social_media.",
+    "category": "publication",
+    "tags": [
+      "book",
+      "publication",
+      "social_media"
+    ],
+    "date": "2026-05-14T01:48:04Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195969.html"
+  },
+  {
+    "id": "195968",
+    "subject": "[Air-L] New Book: Social Media as Fragile State",
+    "snippet": "Metadata-only summary: Publication. Tags: book, platforms, publication, social_media.",
+    "category": "publication",
+    "tags": [
+      "book",
+      "platforms",
+      "publication",
+      "social_media"
+    ],
+    "date": "2026-05-13T22:14:59Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195968.html"
+  },
+  {
+    "id": "195967",
+    "subject": "[Air-L] CFP - Conspiracy Theories in the Wake of Disaster (deadline this Friday)",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, faculty.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "faculty"
+    ],
+    "date": "2026-05-13T16:06:59Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195967.html"
+  },
+  {
+    "id": "195966",
+    "subject": "[Air-L] Call for contributions: Special Track on “Digital Statecraft: From Principles to Practice” - Deadline: 1 June",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, deadline, journal. Deadline: 2026-06-01.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "conference",
+      "deadline",
+      "journal"
+    ],
+    "date": "2026-05-13T14:15:28Z",
+    "deadline": "2026-06-01",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195966.html"
+  },
+  {
+    "id": "195965",
+    "subject": "[Air-L] Harmful Policing: Reminder to submit your abstract",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline. Deadline: 2026-01-06.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline"
+    ],
+    "date": "2026-05-13T12:58:59Z",
+    "deadline": "2026-01-06",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195965.html"
+  },
+  {
+    "id": "195964",
+    "subject": "[Air-L] Call for Abstracts: AI Hype, Hope & Humanity Festival",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, deadline, method. Deadline: 2026-06-05.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "deadline",
+      "method"
+    ],
+    "date": "2026-05-13T07:52:56Z",
+    "deadline": "2026-06-05",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195964.html"
+  },
+  {
     "id": "195963",
     "subject": "[Air-L] [AoIR HQ] Two weeks left: Nominate for the Nancy Baym Book Award and Dissertation Award",
     "snippet": "Metadata-only summary: OTHER. Tags: book.",
