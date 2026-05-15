@@ -1,5 +1,74 @@
 [
   {
+    "id": "195973",
+    "source": "air-l",
+    "subject": "[Air-L] Reminder: Workshop on the politics of GenAI governance",
+    "date": "2026-05-14T14:14:40Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195973.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "deadline",
+      "event",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, deadline, event, workshop. Deadline: 2026-05-21.",
+    "deadline": "2026-05-21",
+    "event_date": null,
+    "indexed_at": "2026-05-15T07:33:09Z"
+  },
+  {
+    "id": "195972",
+    "source": "air-l",
+    "subject": "[Air-L] IPA2026BR: Panel on 'Critical Policy Studies in the Age of Digital Imperialism, Sovereignty Crises and Tech Races'",
+    "date": "2026-05-14T11:46:19Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195972.html",
+    "category": "event",
+    "tags": [
+      "conference",
+      "event",
+      "journal",
+      "method"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: conference, event, journal, method.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-15T07:33:08Z"
+  },
+  {
+    "id": "195971",
+    "source": "air-l",
+    "subject": "[Air-L] External Examiner opportunity in Digital Media",
+    "date": "2026-05-14T09:43:56Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195971.html",
+    "category": "other",
+    "tags": [],
+    "snippet": "Metadata-only summary: OTHER.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-15T07:33:06Z"
+  },
+  {
+    "id": "195970",
+    "source": "air-l",
+    "subject": "[Air-L] Call for applications - 6 PhD scholarship in Sociology - NASP, University of Milan - University of Turin",
+    "date": "2026-05-14T09:37:14Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195970.html",
+    "category": "job",
+    "tags": [
+      "deadline",
+      "faculty",
+      "job",
+      "method",
+      "phd",
+      "teaching"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: deadline, faculty, job, method, phd, teaching. Deadline: 2026-06-09.",
+    "deadline": "2026-06-09",
+    "event_date": null,
+    "indexed_at": "2026-05-15T07:33:05Z"
+  },
+  {
     "id": "195969",
     "source": "air-l",
     "subject": "[Air-L] New Book: Social Media as Fragile State",
@@ -7816,66 +7885,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:43:55Z"
-  },
-  {
-    "id": "195464",
-    "source": "air-l",
-    "subject": "[Air-L] Gender & Tech Talk Series – February 24, 10:00am EST – Digital Transformation",
-    "date": "2026-02-05T17:52:34Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195464.html",
-    "category": "event",
-    "tags": [
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:53Z"
-  },
-  {
-    "id": "195463",
-    "source": "air-l",
-    "subject": "[Air-L] Twitter-X Access Survey",
-    "date": "2026-02-05T16:52:08Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195463.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:52Z"
-  },
-  {
-    "id": "195462",
-    "source": "air-l",
-    "subject": "[Air-L] Call for Contributions: SEASON 2026 (Hamburg, 15-17 September 2026)",
-    "date": "2026-02-05T16:44:35Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195462.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "conference",
-      "method"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, method.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:51Z"
-  },
-  {
-    "id": "195461",
-    "source": "air-l",
-    "subject": "[Air-L] Programme and registration: Undone Computer Science, Luxembourg + hybride, 23-25 March 2026",
-    "date": "2026-02-05T16:03:24Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195461.html",
-    "category": "event",
-    "tags": [
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:49Z"
   }
 ]

@@ -1,5 +1,62 @@
 [
   {
+    "id": "195973",
+    "subject": "[Air-L] Reminder: Workshop on the politics of GenAI governance",
+    "snippet": "Metadata-only summary: Events. Tags: ai, deadline, event, workshop. Deadline: 2026-05-21.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "deadline",
+      "event",
+      "workshop"
+    ],
+    "date": "2026-05-14T14:14:40Z",
+    "deadline": "2026-05-21",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195973.html"
+  },
+  {
+    "id": "195972",
+    "subject": "[Air-L] IPA2026BR: Panel on 'Critical Policy Studies in the Age of Digital Imperialism, Sovereignty Crises and Tech Races'",
+    "snippet": "Metadata-only summary: Events. Tags: conference, event, journal, method.",
+    "category": "event",
+    "tags": [
+      "conference",
+      "event",
+      "journal",
+      "method"
+    ],
+    "date": "2026-05-14T11:46:19Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195972.html"
+  },
+  {
+    "id": "195971",
+    "subject": "[Air-L] External Examiner opportunity in Digital Media",
+    "snippet": "Metadata-only summary: OTHER.",
+    "category": "other",
+    "tags": [],
+    "date": "2026-05-14T09:43:56Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195971.html"
+  },
+  {
+    "id": "195970",
+    "subject": "[Air-L] Call for applications - 6 PhD scholarship in Sociology - NASP, University of Milan - University of Turin",
+    "snippet": "Metadata-only summary: JOBS. Tags: deadline, faculty, job, method, phd, teaching. Deadline: 2026-06-09.",
+    "category": "job",
+    "tags": [
+      "deadline",
+      "faculty",
+      "job",
+      "method",
+      "phd",
+      "teaching"
+    ],
+    "date": "2026-05-14T09:37:14Z",
+    "deadline": "2026-06-09",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195970.html"
+  },
+  {
     "id": "195969",
     "subject": "[Air-L] New Book: Social Media as Fragile State",
     "snippet": "Metadata-only summary: Publication. Tags: book, publication, social_media.",
