@@ -1,5 +1,34 @@
 [
   {
+    "id": "195975",
+    "subject": "[Air-L] New Springer Volume: Histories of Computing in Asia",
+    "snippet": "Metadata-only summary: OTHER. Tags: book, method, workshop.",
+    "category": "other",
+    "tags": [
+      "book",
+      "method",
+      "workshop"
+    ],
+    "date": "2026-05-16T12:51:25Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195975.html"
+  },
+  {
+    "id": "195974",
+    "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Project Showcases",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, method, phd.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "conference",
+      "method",
+      "phd"
+    ],
+    "date": "2026-05-16T10:02:16Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195974.html"
+  },
+  {
     "id": "195973",
     "subject": "[Air-L] Reminder: Workshop on the politics of GenAI governance",
     "snippet": "Metadata-only summary: Events. Tags: ai, deadline, event, workshop. Deadline: 2026-05-21.",
