@@ -1,5 +1,23 @@
 [
   {
+    "id": "195976",
+    "source": "air-l",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Fast Abstracts and Project Highlights",
+    "date": "2026-05-18T07:55:54Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195976.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "method",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, method, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-18T08:15:14Z"
+  },
+  {
     "id": "195975",
     "source": "air-l",
     "subject": "[Air-L] New Springer Volume: Histories of Computing in Asia",
@@ -7872,21 +7890,5 @@
     "deadline": "2025-11-11",
     "event_date": null,
     "indexed_at": "2026-04-27T22:43:59Z"
-  },
-  {
-    "id": "195467",
-    "source": "air-l",
-    "subject": "[Air-L] Digital Solidarity Economies, Special Issue, Internet Policy Review",
-    "date": "2026-02-06T12:11:57Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195467.html",
-    "category": "publication",
-    "tags": [
-      "publication",
-      "special_issue"
-    ],
-    "snippet": "Metadata-only summary: Publication. Tags: publication, special_issue.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:57Z"
   }
 ]
