@@ -1,5 +1,87 @@
 [
   {
+    "id": "195981",
+    "source": "air-l",
+    "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Mile for Journal First Papers Submission",
+    "date": "2026-05-19T07:31:34Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195981.html",
+    "category": "event",
+    "tags": [
+      "conference",
+      "event",
+      "journal"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: conference, event, journal.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-19T07:56:52Z"
+  },
+  {
+    "id": "195980",
+    "source": "air-l",
+    "subject": "[Air-L] Call for Applicants--Global Majority Research Committee (GMRC)",
+    "date": "2026-05-19T06:13:46Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195980.html",
+    "category": "other",
+    "tags": [],
+    "snippet": "Metadata-only summary: OTHER.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-19T07:56:51Z"
+  },
+  {
+    "id": "195979",
+    "source": "air-l",
+    "subject": "[Air-L] CFS | After Virtual Reality: Extending Immersive Narrative Symposium | Extended Deadline: 31st May",
+    "date": "2026-05-18T15:13:02Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195979.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "deadline",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, deadline, platforms. Deadline: 2026-05-31.",
+    "deadline": "2026-05-31",
+    "event_date": null,
+    "indexed_at": "2026-05-19T07:56:50Z"
+  },
+  {
+    "id": "195978",
+    "source": "air-l",
+    "subject": "[Air-L] Call for Applicants--Global Majority Research Committee (GMRC)",
+    "date": "2026-05-18T15:02:40Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195978.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "deadline",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, deadline, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-19T07:56:48Z"
+  },
+  {
+    "id": "195977",
+    "source": "air-l",
+    "subject": "[Air-L] Webinar: Colonialism in the digital age - The fight for a livable future",
+    "date": "2026-05-18T13:09:30Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195977.html",
+    "category": "event",
+    "tags": [
+      "event",
+      "journal",
+      "open_access"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: event, journal, open_access.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-19T07:56:45Z"
+  },
+  {
     "id": "195976",
     "source": "air-l",
     "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Fast Abstracts and Project Highlights",
@@ -7815,80 +7897,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:44:05Z"
-  },
-  {
-    "id": "195472",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday shutting down after 30 years",
-    "date": "2026-02-06T23:29:21Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195472.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:04Z"
-  },
-  {
-    "id": "195471",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday shutting down after 30 years",
-    "date": "2026-02-06T21:36:37Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195471.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:03Z"
-  },
-  {
-    "id": "195470",
-    "source": "air-l",
-    "subject": "[Air-L] CFP - “SLOP” and “NOSTALGIA” – DLC Presents “Current Keywords in Digital Literary Culture”",
-    "date": "2026-02-06T17:57:30Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195470.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "conference",
-      "platforms"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, platforms.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:01Z"
-  },
-  {
-    "id": "195469",
-    "source": "air-l",
-    "subject": "[Air-L] Job opening (in French): Assistant Professor in International Communication",
-    "date": "2026-02-06T14:18:45Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195469.html",
-    "category": "job",
-    "tags": [
-      "faculty",
-      "job"
-    ],
-    "snippet": "Metadata-only summary: JOBS. Tags: faculty, job.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:00Z"
-  },
-  {
-    "id": "195468",
-    "source": "air-l",
-    "subject": "[Air-L] RECORDING - The Secret Life of Data: Navigating Hype and Uncertainty in the Age of Algorithmic Surveillanceh",
-    "date": "2026-02-06T13:50:46Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195468.html",
-    "category": "other",
-    "tags": [
-      "deadline"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: deadline. Deadline: 2025-11-11.",
-    "deadline": "2025-11-11",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:43:59Z"
   }
 ]

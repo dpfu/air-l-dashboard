@@ -1,5 +1,72 @@
 [
   {
+    "id": "195981",
+    "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Mile for Journal First Papers Submission",
+    "snippet": "Metadata-only summary: Events. Tags: conference, event, journal.",
+    "category": "event",
+    "tags": [
+      "conference",
+      "event",
+      "journal"
+    ],
+    "date": "2026-05-19T07:31:34Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195981.html"
+  },
+  {
+    "id": "195980",
+    "subject": "[Air-L] Call for Applicants--Global Majority Research Committee (GMRC)",
+    "snippet": "Metadata-only summary: OTHER.",
+    "category": "other",
+    "tags": [],
+    "date": "2026-05-19T06:13:46Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195980.html"
+  },
+  {
+    "id": "195979",
+    "subject": "[Air-L] CFS | After Virtual Reality: Extending Immersive Narrative Symposium | Extended Deadline: 31st May",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, deadline, platforms. Deadline: 2026-05-31.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "deadline",
+      "platforms"
+    ],
+    "date": "2026-05-18T15:13:02Z",
+    "deadline": "2026-05-31",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195979.html"
+  },
+  {
+    "id": "195978",
+    "subject": "[Air-L] Call for Applicants--Global Majority Research Committee (GMRC)",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, deadline, platforms.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "deadline",
+      "platforms"
+    ],
+    "date": "2026-05-18T15:02:40Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195978.html"
+  },
+  {
+    "id": "195977",
+    "subject": "[Air-L] Webinar: Colonialism in the digital age - The fight for a livable future",
+    "snippet": "Metadata-only summary: Events. Tags: event, journal, open_access.",
+    "category": "event",
+    "tags": [
+      "event",
+      "journal",
+      "open_access"
+    ],
+    "date": "2026-05-18T13:09:30Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195977.html"
+  },
+  {
     "id": "195976",
     "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Fast Abstracts and Project Highlights",
     "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, method, platforms.",
