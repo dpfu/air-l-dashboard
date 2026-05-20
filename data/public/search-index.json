@@ -1,5 +1,173 @@
 [
   {
+    "id": "195993",
+    "subject": "[Air-L] New paper: The Fallacy of Sustainable Generative AI: Limitations in EU Environmental Regulation of Data Centres and Paths Forward",
+    "snippet": "Metadata-only summary: Publication. Tags: ai, publication.",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "publication"
+    ],
+    "date": "2026-05-20T07:45:44Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195993.html"
+  },
+  {
+    "id": "195992",
+    "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Industry Track Papers",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, platforms.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "platforms"
+    ],
+    "date": "2026-05-20T07:02:03Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195992.html"
+  },
+  {
+    "id": "195991",
+    "subject": "[Air-L] Early Bird Tickets Now on Sale: All Things in Moderation 2026",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, conference, platforms.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "conference",
+      "platforms"
+    ],
+    "date": "2026-05-20T04:03:48Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195991.html"
+  },
+  {
+    "id": "195990",
+    "subject": "[Air-L] [New book] Trust, Safety, and The Internet We Share - Open Access",
+    "snippet": "Metadata-only summary: Publication. Tags: book, open_access, publication.",
+    "category": "publication",
+    "tags": [
+      "book",
+      "open_access",
+      "publication"
+    ],
+    "date": "2026-05-19T20:32:47Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195990.html"
+  },
+  {
+    "id": "195989",
+    "subject": "[Air-L] DeepLearn 2026: early registration May 22",
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, phd.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "phd"
+    ],
+    "date": "2026-05-19T20:28:09Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195989.html"
+  },
+  {
+    "id": "195988",
+    "subject": "[Air-L] CFP: Preconference - Lockdown and its (Digital) Afterlives, October 13 2026, Mexico City",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, platforms.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "conference",
+      "platforms"
+    ],
+    "date": "2026-05-19T16:53:22Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195988.html"
+  },
+  {
+    "id": "195987",
+    "subject": "[Air-L] AIES student track seeking reviewers!",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, conference, phd.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "conference",
+      "phd"
+    ],
+    "date": "2026-05-19T14:26:55Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195987.html"
+  },
+  {
+    "id": "195986",
+    "subject": "[Air-L] Steve Jones Lecture features Vincent Obia in 2026 ICA",
+    "snippet": "Metadata-only summary: Events. Tags: ai, conference, event, platforms.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "conference",
+      "event",
+      "platforms"
+    ],
+    "date": "2026-05-19T14:21:29Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195986.html"
+  },
+  {
+    "id": "195985",
+    "subject": "[Air-L] Digital Materialities Seminar with Devika Narayan (University of Bristol): \"Between the Cloud and a Hard Place: A thesis on technological transformation\" - 27 May (4-6 pm,…",
+    "snippet": "Metadata-only summary: Events. Tags: ai, event.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event"
+    ],
+    "date": "2026-05-19T11:39:21Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195985.html"
+  },
+  {
+    "id": "195984",
+    "subject": "[Air-L] 3 PhD positions in project on algorithmic warfare",
+    "snippet": "Metadata-only summary: JOBS. Tags: deadline, faculty, job, phd. Deadline: 2026-05-29.",
+    "category": "job",
+    "tags": [
+      "deadline",
+      "faculty",
+      "job",
+      "phd"
+    ],
+    "date": "2026-05-19T11:30:56Z",
+    "deadline": "2026-05-29",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195984.html"
+  },
+  {
+    "id": "195983",
+    "subject": "[Air-L] Deadline 1 June — Submit to Data for Policy 2026 (DfP’26) :Governance of/with AI: Implications for Data, Infrastructure, and Tech Sovereignty",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, conference, deadline. Deadline: 2026-06-01.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "conference",
+      "deadline"
+    ],
+    "date": "2026-05-19T10:32:47Z",
+    "deadline": "2026-06-01",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195983.html"
+  },
+  {
+    "id": "195982",
+    "subject": "[Air-L] 26 May Book Talk: “Digital Authoritarianism in the Making: Repression and Resistance on the Russian Internet”",
+    "snippet": "Metadata-only summary: Events. Tags: book, event.",
+    "category": "event",
+    "tags": [
+      "book",
+      "event"
+    ],
+    "date": "2026-05-19T08:03:31Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195982.html"
+  },
+  {
     "id": "195981",
     "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Mile for Journal First Papers Submission",
     "snippet": "Metadata-only summary: Events. Tags: conference, event, journal.",
