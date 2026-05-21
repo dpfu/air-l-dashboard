@@ -1,24 +1,24 @@
 {
   "categories": {
-    "publication": 42,
-    "call_for_papers": 198,
-    "other": 250,
-    "event": 131,
-    "job": 48
+    "call_for_papers": 199,
+    "job": 49,
+    "publication": 43,
+    "event": 132,
+    "other": 250
   },
   "tags": {
-    "ai": 179,
-    "publication": 42,
-    "cfp": 202,
-    "conference": 131,
+    "cfp": 203,
+    "conference": 132,
+    "ai": 181,
+    "deadline": 163,
+    "job": 49,
+    "publication": 43,
+    "event": 132,
     "platforms": 89,
     "book": 84,
     "open_access": 15,
-    "event": 131,
     "phd": 55,
-    "deadline": 162,
     "faculty": 28,
-    "job": 48,
     "journal": 38,
     "method": 93,
     "workshop": 38,
@@ -33,6 +33,6 @@
     "book_review": 6
   },
   "years": {
-    "2026": 669
+    "2026": 673
   }
 }

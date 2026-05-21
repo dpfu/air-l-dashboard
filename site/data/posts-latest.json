@@ -1,5 +1,69 @@
 [
   {
+    "id": "195997",
+    "source": "air-l",
+    "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Demos and Tools",
+    "date": "2026-05-21T07:55:57Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195997.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "conference"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-21T08:04:35Z"
+  },
+  {
+    "id": "195996",
+    "source": "air-l",
+    "subject": "[Air-L] Hiring a post doc (36 months+) in governance of emergent tech - HPI/Oxford",
+    "date": "2026-05-21T07:08:00Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195996.html",
+    "category": "job",
+    "tags": [
+      "ai",
+      "deadline",
+      "job"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-21T08:04:33Z"
+  },
+  {
+    "id": "195995",
+    "source": "air-l",
+    "subject": "[Air-L] New paper: The Fallacy of Sustainable Generative AI: Limitations in EU Environmental Regulation of Data Centres and Paths Forward",
+    "date": "2026-05-20T14:41:49Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195995.html",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: ai, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-21T08:04:31Z"
+  },
+  {
+    "id": "195994",
+    "source": "air-l",
+    "subject": "[Air-L] ISOC LIVE - What’s On & What’s New",
+    "date": "2026-05-20T09:49:17Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195994.html",
+    "category": "event",
+    "tags": [
+      "event"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: event.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-21T08:04:29Z"
+  },
+  {
     "id": "195993",
     "source": "air-l",
     "subject": "[Air-L] New paper: The Fallacy of Sustainable Generative AI: Limitations in EU Environmental Regulation of Data Centres and Paths Forward",
@@ -7889,59 +7953,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:44:27Z"
-  },
-  {
-    "id": "195488",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday shutting down after 30 years",
-    "date": "2026-02-07T22:51:30Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195488.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:25Z"
-  },
-  {
-    "id": "195487",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday shutting down after 30 years",
-    "date": "2026-02-07T19:06:49Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195487.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:24Z"
-  },
-  {
-    "id": "195486",
-    "source": "air-l",
-    "subject": "[Air-L] News sites are locking out the Internet Archive to stop AI crawling. Is the ‘open web’ closing?",
-    "date": "2026-02-07T18:51:36Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195486.html",
-    "category": "other",
-    "tags": [
-      "ai"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: ai.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:23Z"
-  },
-  {
-    "id": "195485",
-    "source": "air-l",
-    "subject": "[Air-L] RECORDING: Applying the DTSP Safe Framework to Hosting, Registries, and Registrars: From Compliance to Operational Maturity",
-    "date": "2026-02-07T16:42:45Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195485.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:21Z"
   }
 ]
