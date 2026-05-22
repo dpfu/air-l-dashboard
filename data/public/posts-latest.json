@@ -1,5 +1,57 @@
 [
   {
+    "id": "196000",
+    "source": "air-l",
+    "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Doctoral Symposium Papers",
+    "date": "2026-05-22T07:14:59Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196000.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "conference",
+      "method",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, method, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-22T07:53:50Z"
+  },
+  {
+    "id": "195999",
+    "source": "air-l",
+    "subject": "[Air-L] New Publication: Social Media and Hong Kong Christian Communities: Diversity and Equality",
+    "date": "2026-05-22T01:00:00Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195999.html",
+    "category": "publication",
+    "tags": [
+      "journal",
+      "open_access",
+      "publication",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: journal, open_access, publication, social_media.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-22T07:53:49Z"
+  },
+  {
+    "id": "195998",
+    "source": "air-l",
+    "subject": "[Air-L] [AoIR HQ] 1 Week Left: Nominate for the Nancy Baym Book Award and Dissertation Award",
+    "date": "2026-05-21T19:12:52Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195998.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "method"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, method.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-22T07:53:48Z"
+  },
+  {
     "id": "195997",
     "source": "air-l",
     "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Demos and Tools",
@@ -7912,46 +7964,5 @@
     "deadline": "2026-02-22",
     "event_date": null,
     "indexed_at": "2026-04-27T22:44:31Z"
-  },
-  {
-    "id": "195491",
-    "source": "air-l",
-    "subject": "[Air-L] Fwd: First Monday shutting down after 30 years",
-    "date": "2026-02-08T02:37:57Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195491.html",
-    "category": "other",
-    "tags": [
-      "deadline"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: deadline. Deadline: 2026-02-07.",
-    "deadline": "2026-02-07",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:29Z"
-  },
-  {
-    "id": "195490",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday shutting down after 30 years",
-    "date": "2026-02-08T01:09:03Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195490.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:28Z"
-  },
-  {
-    "id": "195489",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday shutting down after 30 years",
-    "date": "2026-02-07T23:41:23Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195489.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:27Z"
   }
 ]

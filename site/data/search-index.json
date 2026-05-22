@@ -1,5 +1,48 @@
 [
   {
+    "id": "196000",
+    "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Doctoral Symposium Papers",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, method, phd.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "conference",
+      "method",
+      "phd"
+    ],
+    "date": "2026-05-22T07:14:59Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196000.html"
+  },
+  {
+    "id": "195999",
+    "subject": "[Air-L] New Publication: Social Media and Hong Kong Christian Communities: Diversity and Equality",
+    "snippet": "Metadata-only summary: Publication. Tags: journal, open_access, publication, social_media.",
+    "category": "publication",
+    "tags": [
+      "journal",
+      "open_access",
+      "publication",
+      "social_media"
+    ],
+    "date": "2026-05-22T01:00:00Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195999.html"
+  },
+  {
+    "id": "195998",
+    "subject": "[Air-L] [AoIR HQ] 1 Week Left: Nominate for the Nancy Baym Book Award and Dissertation Award",
+    "snippet": "Metadata-only summary: OTHER. Tags: book, method.",
+    "category": "other",
+    "tags": [
+      "book",
+      "method"
+    ],
+    "date": "2026-05-21T19:12:52Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/195998.html"
+  },
+  {
     "id": "195997",
     "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Demos and Tools",
     "snippet": "Metadata-only summary: CfP. Tags: cfp, conference.",
