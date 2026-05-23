@@ -1,5 +1,93 @@
 [
   {
+    "id": "196005",
+    "source": "air-l",
+    "subject": "[Air-L] Recall: RE: Air-L Digest, Vol 262, Issue 30",
+    "date": "2026-05-22T22:30:23Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196005.html",
+    "category": "other",
+    "tags": [],
+    "snippet": "Metadata-only summary: OTHER.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-23T06:45:50Z"
+  },
+  {
+    "id": "196004",
+    "source": "air-l",
+    "subject": "[Air-L] Air-L Digest, Vol 262, Issue 30",
+    "date": "2026-05-22T22:29:23Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196004.html",
+    "category": "other",
+    "tags": [
+      "deadline"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: deadline. Deadline: 2026-06-19.",
+    "deadline": "2026-06-19",
+    "event_date": null,
+    "indexed_at": "2026-05-23T06:45:49Z"
+  },
+  {
+    "id": "196003",
+    "source": "air-l",
+    "subject": "[Air-L] Bored of US Tech-bro-topia 👹 ? OA SI: Towards Popular Techno-Futures. 🌎 A Global Culture Perspective 🌎",
+    "date": "2026-05-22T14:16:45Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196003.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "digital_culture",
+      "journal",
+      "method",
+      "open_access",
+      "platforms",
+      "social_media",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, digital_culture, journal, method, open_access, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-23T06:45:48Z"
+  },
+  {
+    "id": "196002",
+    "source": "air-l",
+    "subject": "[Air-L] Call for contributions: Democracy + Silence Symposium, Oslo Sept.2026 - Submission deadline: June 19.",
+    "date": "2026-05-22T11:33:01Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196002.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "digital_culture",
+      "platforms",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, digital_culture, platforms, special_issue. Deadline: 2026-06-19.",
+    "deadline": "2026-06-19",
+    "event_date": null,
+    "indexed_at": "2026-05-23T06:45:47Z"
+  },
+  {
+    "id": "196001",
+    "source": "air-l",
+    "subject": "[Air-L] Special issues on platform economies in Asia and China",
+    "date": "2026-05-22T11:01:08Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196001.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "conference",
+      "platforms",
+      "social_media",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, conference, platforms, social_media, special_issue.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-23T06:45:44Z"
+  },
+  {
     "id": "196000",
     "source": "air-l",
     "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Doctoral Symposium Papers",
@@ -7886,83 +7974,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:44:37Z"
-  },
-  {
-    "id": "195496",
-    "source": "air-l",
-    "subject": "[Air-L] News sites are locking out the Internet Archive to stop AI crawling. Is the ‘open web’ closing?",
-    "date": "2026-02-08T15:25:56Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195496.html",
-    "category": "other",
-    "tags": [
-      "ai"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: ai.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:36Z"
-  },
-  {
-    "id": "195495",
-    "source": "air-l",
-    "subject": "[Air-L] Fwd: First Monday shutting down after 30 years",
-    "date": "2026-02-08T15:01:01Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195495.html",
-    "category": "other",
-    "tags": [
-      "deadline"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: deadline. Deadline: 2026-02-07.",
-    "deadline": "2026-02-07",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:35Z"
-  },
-  {
-    "id": "195494",
-    "source": "air-l",
-    "subject": "[Air-L] RIP Prof Dave Farber (Keio CCRC and the longrunning 'Interesting People' listserv)",
-    "date": "2026-02-08T14:05:24Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195494.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:33Z"
-  },
-  {
-    "id": "195493",
-    "source": "air-l",
-    "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Second Call for Research Papers (2nd Round)",
-    "date": "2026-02-08T10:48:18Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195493.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "conference",
-      "method"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, method.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:32Z"
-  },
-  {
-    "id": "195492",
-    "source": "air-l",
-    "subject": "[Air-L] New Routledge Book Series: Cultural Analytics, AI and the Digital Futures",
-    "date": "2026-02-08T05:53:11Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195492.html",
-    "category": "other",
-    "tags": [
-      "ai",
-      "book",
-      "deadline"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: ai, book, deadline. Deadline: 2026-02-22.",
-    "deadline": "2026-02-22",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:31Z"
   }
 ]

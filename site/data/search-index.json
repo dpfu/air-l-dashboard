@@ -1,5 +1,78 @@
 [
   {
+    "id": "196005",
+    "subject": "[Air-L] Recall: RE: Air-L Digest, Vol 262, Issue 30",
+    "snippet": "Metadata-only summary: OTHER.",
+    "category": "other",
+    "tags": [],
+    "date": "2026-05-22T22:30:23Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196005.html"
+  },
+  {
+    "id": "196004",
+    "subject": "[Air-L] Air-L Digest, Vol 262, Issue 30",
+    "snippet": "Metadata-only summary: OTHER. Tags: deadline. Deadline: 2026-06-19.",
+    "category": "other",
+    "tags": [
+      "deadline"
+    ],
+    "date": "2026-05-22T22:29:23Z",
+    "deadline": "2026-06-19",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196004.html"
+  },
+  {
+    "id": "196003",
+    "subject": "[Air-L] Bored of US Tech-bro-topia 👹 ? OA SI: Towards Popular Techno-Futures. 🌎 A Global Culture Perspective 🌎",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, digital_culture, journal, method, open_access, platforms.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "digital_culture",
+      "journal",
+      "method",
+      "open_access",
+      "platforms",
+      "social_media",
+      "special_issue"
+    ],
+    "date": "2026-05-22T14:16:45Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196003.html"
+  },
+  {
+    "id": "196002",
+    "subject": "[Air-L] Call for contributions: Democracy + Silence Symposium, Oslo Sept.2026 - Submission deadline: June 19.",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, digital_culture, platforms, special_issue. Deadline: 2026-06-19.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "digital_culture",
+      "platforms",
+      "special_issue"
+    ],
+    "date": "2026-05-22T11:33:01Z",
+    "deadline": "2026-06-19",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196002.html"
+  },
+  {
+    "id": "196001",
+    "subject": "[Air-L] Special issues on platform economies in Asia and China",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, conference, platforms, social_media, special_issue.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "conference",
+      "platforms",
+      "social_media",
+      "special_issue"
+    ],
+    "date": "2026-05-22T11:01:08Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196001.html"
+  },
+  {
     "id": "196000",
     "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Doctoral Symposium Papers",
     "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, method, phd.",
