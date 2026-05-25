@@ -1,23 +1,23 @@
 {
   "categories": {
-    "other": 255,
+    "other": 256,
     "call_for_papers": 201,
     "publication": 44,
     "job": 49,
     "event": 132
   },
   "tags": {
+    "ai": 184,
+    "cfp": 206,
+    "conference": 135,
+    "method": 97,
+    "platforms": 93,
     "deadline": 165,
-    "ai": 183,
     "digital_culture": 10,
     "journal": 40,
-    "method": 96,
     "open_access": 17,
-    "platforms": 92,
     "social_media": 41,
     "special_issue": 41,
-    "cfp": 205,
-    "conference": 134,
     "phd": 56,
     "publication": 44,
     "book": 85,
@@ -33,6 +33,6 @@
     "book_review": 6
   },
   "years": {
-    "2026": 681
+    "2026": 682
   }
 }

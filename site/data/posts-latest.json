@@ -1,5 +1,24 @@
 [
   {
+    "id": "196006",
+    "source": "air-l",
+    "subject": "[Air-L] Real-Time Intelligent Systems 2026",
+    "date": "2026-05-25T06:06:17Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196006.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "method",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, cfp, conference, method, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-25T08:40:07Z"
+  },
+  {
     "id": "196005",
     "source": "air-l",
     "subject": "[Air-L] Recall: RE: Air-L Digest, Vol 262, Issue 30",
@@ -7957,22 +7976,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:44:39Z"
-  },
-  {
-    "id": "195497",
-    "source": "air-l",
-    "subject": "[Air-L] Call for Proposals - AusSTS 2026 \"Antipodean Interruptions\", 9-11 November 2026",
-    "date": "2026-02-08T22:10:48Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195497.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp",
-      "conference",
-      "workshop"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, workshop.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:37Z"
   }
 ]
