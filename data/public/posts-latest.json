@@ -1,5 +1,58 @@
 [
   {
+    "id": "196009",
+    "source": "air-l",
+    "subject": "[Air-L] 26 May Book Talk: “Digital Authoritarianism in the Making: Repression and Resistance on the Russian Internet”",
+    "date": "2026-05-26T07:57:08Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196009.html",
+    "category": "event",
+    "tags": [
+      "book",
+      "event",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: book, event, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-26T08:00:48Z"
+  },
+  {
+    "id": "196008",
+    "source": "air-l",
+    "subject": "[Air-L] Book Announcement – Digital Nationalism and Affective Governance",
+    "date": "2026-05-26T07:18:21Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196008.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "journal",
+      "phd",
+      "platforms",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, journal, phd, platforms, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-26T08:00:46Z"
+  },
+  {
+    "id": "196007",
+    "source": "air-l",
+    "subject": "[Air-L] Call for Papers: AI at Work (12 and 13 November, Amsterdam)",
+    "date": "2026-05-25T12:59:49Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196007.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-26T08:00:45Z"
+  },
+  {
     "id": "196006",
     "source": "air-l",
     "subject": "[Air-L] Real-Time Intelligent Systems 2026",
@@ -7933,48 +7986,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:44:43Z"
-  },
-  {
-    "id": "195500",
-    "source": "air-l",
-    "subject": "[Air-L] Symposium: Branding AI, Munich: March 2, 2026",
-    "date": "2026-02-09T08:37:47Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195500.html",
-    "category": "event",
-    "tags": [
-      "ai",
-      "deadline",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: ai, deadline, event. Deadline: 2026-02-03.",
-    "deadline": "2026-02-03",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:42Z"
-  },
-  {
-    "id": "195499",
-    "source": "air-l",
-    "subject": "[Air-L] Fwd: First Monday shutting down after 30 years",
-    "date": "2026-02-09T05:33:35Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195499.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:40Z"
-  },
-  {
-    "id": "195498",
-    "source": "air-l",
-    "subject": "[Air-L] Fwd: First Monday shutting down after 30 years",
-    "date": "2026-02-08T23:52:55Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195498.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:39Z"
   }
 ]
