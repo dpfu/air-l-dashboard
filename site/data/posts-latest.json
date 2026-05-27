@@ -1,5 +1,91 @@
 [
   {
+    "id": "196014",
+    "source": "air-l",
+    "subject": "[Air-L] Update on Freedom of Expression Lawsuit: CITR v. Rubio",
+    "date": "2026-05-27T00:47:17Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196014.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "conference",
+      "faculty",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, conference, faculty, social_media.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-27T08:12:35Z"
+  },
+  {
+    "id": "196013",
+    "source": "air-l",
+    "subject": "[Air-L] mediastudies.press book manuscript submission window: 1 June through 31 July, 2026",
+    "date": "2026-05-26T19:54:34Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196013.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "open_access"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, open_access.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-27T08:12:34Z"
+  },
+  {
+    "id": "196012",
+    "source": "air-l",
+    "subject": "[Air-L] Influencer Creep talk tomorrow at the University of Sussex with artist Jodie Underwood",
+    "date": "2026-05-26T18:55:52Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196012.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "faculty"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, faculty.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-27T08:12:33Z"
+  },
+  {
+    "id": "196011",
+    "source": "air-l",
+    "subject": "[Air-L] New Reviews: Routledge Handbook of the Influence Industry",
+    "date": "2026-05-26T16:08:17Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196011.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "book_review",
+      "faculty",
+      "journal",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, book_review, faculty, journal, social_media.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-27T08:12:32Z"
+  },
+  {
+    "id": "196010",
+    "source": "air-l",
+    "subject": "[Air-L] DeepLearn 2026: early registration June 19",
+    "date": "2026-05-26T14:36:28Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196010.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-27T08:12:30Z"
+  },
+  {
     "id": "196009",
     "source": "air-l",
     "subject": "[Air-L] 26 May Book Talk: “Digital Authoritarianism in the Making: Repression and Resistance on the Russian Internet”",
@@ -7921,70 +8007,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:44:50Z"
-  },
-  {
-    "id": "195505",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday - Online session to discuss saving it?",
-    "date": "2026-02-09T14:05:25Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195505.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:48Z"
-  },
-  {
-    "id": "195504",
-    "source": "air-l",
-    "subject": "[Air-L] External Examiner sought for MA in Digital Media and Global Cultures at Queen Mary, University of London",
-    "date": "2026-02-09T10:21:53Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195504.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:47Z"
-  },
-  {
-    "id": "195503",
-    "source": "air-l",
-    "subject": "[Air-L] Fwd: First Monday shutting down after 30 years",
-    "date": "2026-02-09T09:12:09Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195503.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:46Z"
-  },
-  {
-    "id": "195502",
-    "source": "air-l",
-    "subject": "[Air-L] Fwd: First Monday shutting down after 30 years",
-    "date": "2026-02-09T09:06:44Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195502.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:44Z"
-  },
-  {
-    "id": "195501",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday shutting down after 30 years",
-    "date": "2026-02-09T08:51:08Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195501.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:43Z"
   }
 ]

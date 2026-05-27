@@ -1,5 +1,76 @@
 [
   {
+    "id": "196014",
+    "subject": "[Air-L] Update on Freedom of Expression Lawsuit: CITR v. Rubio",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, conference, faculty, social_media.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "conference",
+      "faculty",
+      "social_media"
+    ],
+    "date": "2026-05-27T00:47:17Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196014.html"
+  },
+  {
+    "id": "196013",
+    "subject": "[Air-L] mediastudies.press book manuscript submission window: 1 June through 31 July, 2026",
+    "snippet": "Metadata-only summary: OTHER. Tags: book, open_access.",
+    "category": "other",
+    "tags": [
+      "book",
+      "open_access"
+    ],
+    "date": "2026-05-26T19:54:34Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196013.html"
+  },
+  {
+    "id": "196012",
+    "subject": "[Air-L] Influencer Creep talk tomorrow at the University of Sussex with artist Jodie Underwood",
+    "snippet": "Metadata-only summary: OTHER. Tags: book, faculty.",
+    "category": "other",
+    "tags": [
+      "book",
+      "faculty"
+    ],
+    "date": "2026-05-26T18:55:52Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196012.html"
+  },
+  {
+    "id": "196011",
+    "subject": "[Air-L] New Reviews: Routledge Handbook of the Influence Industry",
+    "snippet": "Metadata-only summary: OTHER. Tags: book, book_review, faculty, journal, social_media.",
+    "category": "other",
+    "tags": [
+      "book",
+      "book_review",
+      "faculty",
+      "journal",
+      "social_media"
+    ],
+    "date": "2026-05-26T16:08:17Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196011.html"
+  },
+  {
+    "id": "196010",
+    "subject": "[Air-L] DeepLearn 2026: early registration June 19",
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, phd.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "phd"
+    ],
+    "date": "2026-05-26T14:36:28Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196010.html"
+  },
+  {
     "id": "196009",
     "subject": "[Air-L] 26 May Book Talk: “Digital Authoritarianism in the Making: Repression and Resistance on the Russian Internet”",
     "snippet": "Metadata-only summary: Events. Tags: book, event, phd.",
