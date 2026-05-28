@@ -1,5 +1,57 @@
 [
   {
+    "id": "196017",
+    "source": "air-l",
+    "subject": "[Air-L] Online Book talk with Dr. Sibo Chen - Friday at noon pacific time",
+    "date": "2026-05-27T22:57:48Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196017.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "phd",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, phd, social_media.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-28T08:11:53Z"
+  },
+  {
+    "id": "196016",
+    "source": "air-l",
+    "subject": "[Air-L] New book: IFÁ AS COMPUTATION - Interpretation, Ethics and the Future of Al Governance",
+    "date": "2026-05-27T15:48:55Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196016.html",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "book",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: ai, book, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-28T08:11:52Z"
+  },
+  {
+    "id": "196015",
+    "source": "air-l",
+    "subject": "[Air-L] 10th Workshop on Online Abuse and Harms (WOAH) @EMNLP: 3rd CFP",
+    "date": "2026-05-27T13:39:40Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196015.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "method",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, method, workshop. Deadline: 2026-08-03.",
+    "deadline": "2026-08-03",
+    "event_date": null,
+    "indexed_at": "2026-05-28T08:11:51Z"
+  },
+  {
     "id": "196014",
     "source": "air-l",
     "subject": "[Air-L] Update on Freedom of Expression Lawsuit: CITR v. Rubio",
@@ -7965,47 +8017,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:44:54Z"
-  },
-  {
-    "id": "195508",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday - Online session to discuss saving it?",
-    "date": "2026-02-09T16:10:40Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195508.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:52Z"
-  },
-  {
-    "id": "195507",
-    "source": "air-l",
-    "subject": "[Air-L] Internet Histories Seeking Book Reviewers",
-    "date": "2026-02-09T16:00:00Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195507.html",
-    "category": "other",
-    "tags": [
-      "book",
-      "book_review"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: book, book_review.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:51Z"
-  },
-  {
-    "id": "195506",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday - Online session to discuss saving it?",
-    "date": "2026-02-09T15:07:17Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195506.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:50Z"
   }
 ]

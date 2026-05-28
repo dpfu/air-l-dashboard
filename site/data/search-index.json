@@ -1,5 +1,48 @@
 [
   {
+    "id": "196017",
+    "subject": "[Air-L] Online Book talk with Dr. Sibo Chen - Friday at noon pacific time",
+    "snippet": "Metadata-only summary: OTHER. Tags: book, phd, social_media.",
+    "category": "other",
+    "tags": [
+      "book",
+      "phd",
+      "social_media"
+    ],
+    "date": "2026-05-27T22:57:48Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196017.html"
+  },
+  {
+    "id": "196016",
+    "subject": "[Air-L] New book: IFÁ AS COMPUTATION - Interpretation, Ethics and the Future of Al Governance",
+    "snippet": "Metadata-only summary: Publication. Tags: ai, book, publication.",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "book",
+      "publication"
+    ],
+    "date": "2026-05-27T15:48:55Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196016.html"
+  },
+  {
+    "id": "196015",
+    "subject": "[Air-L] 10th Workshop on Online Abuse and Harms (WOAH) @EMNLP: 3rd CFP",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, method, workshop. Deadline: 2026-08-03.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "method",
+      "workshop"
+    ],
+    "date": "2026-05-27T13:39:40Z",
+    "deadline": "2026-08-03",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196015.html"
+  },
+  {
     "id": "196014",
     "subject": "[Air-L] Update on Freedom of Expression Lawsuit: CITR v. Rubio",
     "snippet": "Metadata-only summary: OTHER. Tags: ai, conference, faculty, social_media.",
