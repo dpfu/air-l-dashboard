@@ -1,19 +1,19 @@
 {
   "categories": {
+    "other": 262,
     "call_for_papers": 205,
-    "other": 261,
     "publication": 46,
     "event": 134,
     "job": 49
   },
   "tags": {
+    "book": 93,
     "cfp": 210,
     "deadline": 167,
     "method": 99,
     "platforms": 95,
     "social_media": 45,
     "special_issue": 42,
-    "book": 92,
     "phd": 60,
     "ai": 188,
     "publication": 46,
@@ -33,6 +33,6 @@
     "dataset": 3
   },
   "years": {
-    "2026": 695
+    "2026": 696
   }
 }

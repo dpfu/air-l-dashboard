@@ -1,5 +1,20 @@
 [
   {
+    "id": "196020",
+    "source": "air-l",
+    "subject": "[Air-L] Today: Petro Rhetoric in Canada: Narrating Extractivism",
+    "date": "2026-05-29T14:00:50Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-May/196020.html",
+    "category": "other",
+    "tags": [
+      "book"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-05-30T07:19:22Z"
+  },
+  {
     "id": "196019",
     "source": "air-l",
     "subject": "[Air-L] CfP: C21MP/MOCReN Collaborative Research Challenge - Algorithmic Intervention on Music Platforms",
@@ -8010,21 +8025,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:44:58Z"
-  },
-  {
-    "id": "195511",
-    "source": "air-l",
-    "subject": "[Air-L] Internet Histories Seeking Book Reviewers",
-    "date": "2026-02-09T18:37:46Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195511.html",
-    "category": "other",
-    "tags": [
-      "book",
-      "book_review"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: book, book_review.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:56Z"
   }
 ]
