@@ -1,5 +1,24 @@
 [
   {
+    "id": "196022",
+    "source": "air-l",
+    "subject": "[Air-L] Job Opportunity: 36+ month postdoc in AI & technology law, ethics, and governance @ Hasso Plattner Institute, Germany (Oxford collab.)",
+    "date": "2026-06-01T08:08:28Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196022.html",
+    "category": "job",
+    "tags": [
+      "ai",
+      "deadline",
+      "job",
+      "phd",
+      "postdoc"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job, phd, postdoc. Deadline: 2026-06-18.",
+    "deadline": "2026-06-18",
+    "event_date": null,
+    "indexed_at": "2026-06-01T09:35:44Z"
+  },
+  {
     "id": "196020",
     "source": "air-l",
     "subject": "[Air-L] Today: Petro Rhetoric in Canada: Narrating Extractivism",
@@ -8012,18 +8031,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:44:59Z"
-  },
-  {
-    "id": "195512",
-    "source": "air-l",
-    "subject": "[Air-L] ACEPS|UJ|11 February| 16:00-17:30 SAST| Prof Étienne Brown",
-    "date": "2026-02-09T18:42:59Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195512.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:58Z"
   }
 ]
