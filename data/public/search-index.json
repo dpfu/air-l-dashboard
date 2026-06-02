@@ -1,5 +1,33 @@
 [
   {
+    "id": "196024",
+    "subject": "[Air-L] article on Phaedrus now available",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, teaching.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "teaching"
+    ],
+    "date": "2026-06-02T05:15:09Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196024.html"
+  },
+  {
+    "id": "196023",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Papers (Industry Track)",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, method.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "method"
+    ],
+    "date": "2026-06-01T12:31:22Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196023.html"
+  },
+  {
     "id": "196022",
     "subject": "[Air-L] Job Opportunity: 36+ month postdoc in AI & technology law, ethics, and governance @ Hasso Plattner Institute, Germany (Oxford collab.)",
     "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job, phd, postdoc. Deadline: 2026-06-18.",

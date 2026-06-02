@@ -1,5 +1,39 @@
 [
   {
+    "id": "196024",
+    "source": "air-l",
+    "subject": "[Air-L] article on Phaedrus now available",
+    "date": "2026-06-02T05:15:09Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196024.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "teaching"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, teaching.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-02T08:46:04Z"
+  },
+  {
+    "id": "196023",
+    "source": "air-l",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Papers (Industry Track)",
+    "date": "2026-06-01T12:31:22Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196023.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "method"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, method.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-02T08:46:03Z"
+  },
+  {
     "id": "196022",
     "source": "air-l",
     "subject": "[Air-L] Job Opportunity: 36+ month postdoc in AI & technology law, ethics, and governance @ Hasso Plattner Institute, Germany (Oxford collab.)",
@@ -8002,34 +8036,5 @@
     "deadline": "2026-04-01",
     "event_date": null,
     "indexed_at": "2026-04-27T22:45:02Z"
-  },
-  {
-    "id": "195514",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday - Online session to discuss saving it? [EXTERNAL]",
-    "date": "2026-02-09T19:44:06Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195514.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:00Z"
-  },
-  {
-    "id": "195513",
-    "source": "air-l",
-    "subject": "[Air-L] FW: Internet Histories Seeking Book Reviewers",
-    "date": "2026-02-09T18:51:44Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195513.html",
-    "category": "other",
-    "tags": [
-      "book",
-      "book_review"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: book, book_review.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:44:59Z"
   }
 ]
