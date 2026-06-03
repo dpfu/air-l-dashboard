@@ -1,5 +1,38 @@
 [
   {
+    "id": "196026",
+    "source": "air-l",
+    "subject": "[Air-L] [invitation to virtual event!] Critical Approaches to AI Policy: Digital Politics Summer School 2026",
+    "date": "2026-06-03T07:29:02Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196026.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, event.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-03T09:03:55Z"
+  },
+  {
+    "id": "196025",
+    "source": "air-l",
+    "subject": "[Air-L] Deadline Extended and Important Updates! LaborTech Awards Submissions, & Prize Money Update!",
+    "date": "2026-06-02T15:05:01Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196025.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "deadline",
+      "method"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, deadline, method.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-03T09:03:54Z"
+  },
+  {
     "id": "196024",
     "source": "air-l",
     "subject": "[Air-L] article on Phaedrus now available",
@@ -8004,37 +8037,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:45:04Z"
-  },
-  {
-    "id": "195516",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday - Online session to discuss saving it?",
-    "date": "2026-02-09T23:43:26Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195516.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:03Z"
-  },
-  {
-    "id": "195515",
-    "source": "air-l",
-    "subject": "[Air-L] Cfp New paths and future trajectories in digital (dis)connection studies",
-    "date": "2026-02-09T20:41:28Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195515.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp",
-      "conference",
-      "deadline",
-      "method",
-      "social_media"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, deadline, method, social_media. Deadline: 2026-04-01.",
-    "deadline": "2026-04-01",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:02Z"
   }
 ]
