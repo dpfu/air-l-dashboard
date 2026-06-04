@@ -1,5 +1,24 @@
 [
   {
+    "id": "196027",
+    "source": "air-l",
+    "subject": "[Air-L] [New Book] Postgrowth Digital Futures",
+    "date": "2026-06-04T04:55:46Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196027.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "digital_culture",
+      "phd",
+      "platforms",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, digital_culture, phd, platforms, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-04T08:34:23Z"
+  },
+  {
     "id": "196026",
     "source": "air-l",
     "subject": "[Air-L] [invitation to virtual event!] Critical Approaches to AI Policy: Digital Politics Summer School 2026",
@@ -8022,20 +8041,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:45:06Z"
-  },
-  {
-    "id": "195517",
-    "source": "air-l",
-    "subject": "[Air-L] AoIR 2026 panel on Global fediverse experiences",
-    "date": "2026-02-10T00:38:46Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195517.html",
-    "category": "event",
-    "tags": [
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:04Z"
   }
 ]
