@@ -1,5 +1,39 @@
 [
   {
+    "id": "196029",
+    "source": "air-l",
+    "subject": "[Air-L] Last call: Hiring a post doc (36 months+) in governance of emergent tech - HPI/Oxford",
+    "date": "2026-06-05T05:58:20Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196029.html",
+    "category": "job",
+    "tags": [
+      "ai",
+      "deadline",
+      "job"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-05T08:16:07Z"
+  },
+  {
+    "id": "196028",
+    "source": "air-l",
+    "subject": "[Air-L] New book: Capitalism and the Media",
+    "date": "2026-06-04T12:40:07Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196028.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "platforms",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, platforms, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-05T08:16:04Z"
+  },
+  {
     "id": "196027",
     "source": "air-l",
     "subject": "[Air-L] [New Book] Postgrowth Digital Futures",
@@ -8012,34 +8046,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:45:08Z"
-  },
-  {
-    "id": "195519",
-    "source": "air-l",
-    "subject": "[Air-L] Registration Open for The Digital Conference 2026 at KCL, 23-26 June 2026",
-    "date": "2026-02-10T11:12:07Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195519.html",
-    "category": "event",
-    "tags": [
-      "conference",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: conference, event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:07Z"
-  },
-  {
-    "id": "195518",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday - Online session to discuss saving it? [EXTERNAL]",
-    "date": "2026-02-10T08:51:50Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195518.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:06Z"
   }
 ]
