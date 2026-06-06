@@ -1,5 +1,50 @@
 [
   {
+    "id": "196032",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): First Combo Call for Workshop Papers",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, method, workshop.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "method",
+      "workshop"
+    ],
+    "date": "2026-06-06T07:12:55Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196032.html"
+  },
+  {
+    "id": "196031",
+    "subject": "[Air-L] Webinar Tues, June 9! Assignment for critical thinking, source evaluation, AI literacy",
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, faculty, teaching.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "faculty",
+      "teaching"
+    ],
+    "date": "2026-06-05T16:24:49Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196031.html"
+  },
+  {
+    "id": "196030",
+    "subject": "[Air-L] Postdoc positions on ERC-funded STATETECH project",
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job, phd, postdoc. Deadline: 2026-10-01.",
+    "category": "job",
+    "tags": [
+      "ai",
+      "deadline",
+      "job",
+      "phd",
+      "postdoc"
+    ],
+    "date": "2026-06-05T14:01:15Z",
+    "deadline": "2026-10-01",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196030.html"
+  },
+  {
     "id": "196029",
     "subject": "[Air-L] Last call: Hiring a post doc (36 months+) in governance of emergent tech - HPI/Oxford",
     "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job.",

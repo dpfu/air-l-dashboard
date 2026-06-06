@@ -1,30 +1,30 @@
 {
   "categories": {
-    "job": 51,
+    "call_for_papers": 207,
+    "event": 136,
+    "job": 52,
     "publication": 48,
-    "event": 135,
-    "other": 264,
-    "call_for_papers": 206
+    "other": 264
   },
   "tags": {
-    "ai": 193,
-    "deadline": 170,
-    "job": 51,
+    "cfp": 212,
+    "method": 102,
+    "workshop": 40,
+    "ai": 195,
+    "event": 136,
+    "faculty": 32,
+    "teaching": 13,
+    "deadline": 171,
+    "job": 52,
+    "phd": 63,
+    "postdoc": 11,
     "book": 96,
     "platforms": 97,
     "publication": 48,
     "digital_culture": 11,
-    "phd": 62,
-    "event": 135,
-    "method": 101,
-    "teaching": 12,
-    "cfp": 211,
     "conference": 138,
-    "postdoc": 10,
     "social_media": 45,
     "special_issue": 42,
-    "workshop": 39,
-    "faculty": 31,
     "open_access": 18,
     "book_review": 7,
     "journal": 42,
@@ -33,6 +33,6 @@
     "dataset": 3
   },
   "years": {
-    "2026": 704
+    "2026": 707
   }
 }

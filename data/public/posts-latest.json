@@ -1,5 +1,59 @@
 [
   {
+    "id": "196032",
+    "source": "air-l",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): First Combo Call for Workshop Papers",
+    "date": "2026-06-06T07:12:55Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196032.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "method",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, method, workshop.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-06T07:24:40Z"
+  },
+  {
+    "id": "196031",
+    "source": "air-l",
+    "subject": "[Air-L] Webinar Tues, June 9! Assignment for critical thinking, source evaluation, AI literacy",
+    "date": "2026-06-05T16:24:49Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196031.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "faculty",
+      "teaching"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, faculty, teaching.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-06T07:24:39Z"
+  },
+  {
+    "id": "196030",
+    "source": "air-l",
+    "subject": "[Air-L] Postdoc positions on ERC-funded STATETECH project",
+    "date": "2026-06-05T14:01:15Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196030.html",
+    "category": "job",
+    "tags": [
+      "ai",
+      "deadline",
+      "job",
+      "phd",
+      "postdoc"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job, phd, postdoc. Deadline: 2026-10-01.",
+    "deadline": "2026-10-01",
+    "event_date": null,
+    "indexed_at": "2026-06-06T07:24:38Z"
+  },
+  {
     "id": "196029",
     "source": "air-l",
     "subject": "[Air-L] Last call: Hiring a post doc (36 months+) in governance of emergent tech - HPI/Oxford",
@@ -7998,53 +8052,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:45:13Z"
-  },
-  {
-    "id": "195522",
-    "source": "air-l",
-    "subject": "[Air-L] Workshop on Workshopping at Utrecht University",
-    "date": "2026-02-10T17:00:57Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195522.html",
-    "category": "event",
-    "tags": [
-      "event",
-      "workshop"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event, workshop.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:12Z"
-  },
-  {
-    "id": "195521",
-    "source": "air-l",
-    "subject": "[Air-L] 13 February Book Launch \"Twitter Activism and the Current Uprising in Iran\"",
-    "date": "2026-02-10T15:55:10Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195521.html",
-    "category": "event",
-    "tags": [
-      "book",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: book, event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:11Z"
-  },
-  {
-    "id": "195520",
-    "source": "air-l",
-    "subject": "[Air-L] FW: Internet Histories Seeking Book Reviewers",
-    "date": "2026-02-10T11:32:11Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195520.html",
-    "category": "other",
-    "tags": [
-      "book",
-      "book_review"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: book, book_review.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:08Z"
   }
 ]
