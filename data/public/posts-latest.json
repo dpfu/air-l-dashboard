@@ -1,5 +1,78 @@
 [
   {
+    "id": "196036",
+    "source": "air-l",
+    "subject": "[Air-L] Postdoc positions on ERC-funded STATETECH project",
+    "date": "2026-06-08T19:06:55Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196036.html",
+    "category": "job",
+    "tags": [
+      "ai",
+      "deadline",
+      "job",
+      "phd",
+      "postdoc"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job, phd, postdoc. Deadline: 2026-10-01.",
+    "deadline": "2026-10-01",
+    "event_date": null,
+    "indexed_at": "2026-06-09T08:01:49Z"
+  },
+  {
+    "id": "196035",
+    "source": "air-l",
+    "subject": "[Air-L] Online talk “Ideologized GenAI, Palestinian Activism, and the Synthetic Realism of War”",
+    "date": "2026-06-08T17:12:24Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196035.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "method",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, method, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-09T08:01:46Z"
+  },
+  {
+    "id": "196034",
+    "source": "air-l",
+    "subject": "[Air-L] Knowing Urban Environments in a Digitally Mediated Age - Special Issue in EPF",
+    "date": "2026-06-08T13:34:04Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196034.html",
+    "category": "publication",
+    "tags": [
+      "method",
+      "publication",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: method, publication, special_issue.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-09T08:01:45Z"
+  },
+  {
+    "id": "196033",
+    "source": "air-l",
+    "subject": "[Air-L] New book - Platforms: A Critical Introduction",
+    "date": "2026-06-08T09:30:00Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196033.html",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "book",
+      "platforms",
+      "publication",
+      "social_media",
+      "teaching"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: ai, book, platforms, publication, social_media, teaching.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-09T08:01:43Z"
+  },
+  {
     "id": "196032",
     "source": "air-l",
     "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): First Combo Call for Workshop Papers",
@@ -7996,61 +8069,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:45:19Z"
-  },
-  {
-    "id": "195526",
-    "source": "air-l",
-    "subject": "[Air-L] Archives with Brazilian media?",
-    "date": "2026-02-11T12:44:00Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195526.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:17Z"
-  },
-  {
-    "id": "195525",
-    "source": "air-l",
-    "subject": "[Air-L] NEW DEADLINE: 27 February | SWING – School on Internet Governance 20-24 April 2026 @ Bruges",
-    "date": "2026-02-11T11:52:57Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195525.html",
-    "category": "event",
-    "tags": [
-      "deadline",
-      "event",
-      "internet_governance"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: deadline, event, internet_governance.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:16Z"
-  },
-  {
-    "id": "195524",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday - Online session to discuss saving it? [EXTERNAL]",
-    "date": "2026-02-10T20:47:10Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195524.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:15Z"
-  },
-  {
-    "id": "195523",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday - Online session to discuss saving it? [EXTERNAL]",
-    "date": "2026-02-10T18:52:18Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195523.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:13Z"
   }
 ]
