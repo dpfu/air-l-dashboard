@@ -1,5 +1,23 @@
 [
   {
+    "id": "196037",
+    "source": "air-l",
+    "subject": "[Air-L] New book: Digital Equity Ecosystems",
+    "date": "2026-06-09T15:03:01Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196037.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "faculty",
+      "journal",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, faculty, journal, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-10T08:17:19Z"
+  },
+  {
     "id": "196036",
     "source": "air-l",
     "subject": "[Air-L] Postdoc positions on ERC-funded STATETECH project",
@@ -8053,21 +8071,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:45:20Z"
-  },
-  {
-    "id": "195527",
-    "source": "air-l",
-    "subject": "[Air-L] Next Wednesday, Feb. 18 at 12:30pm ET! Webinar on AI & the future of creative practice",
-    "date": "2026-02-11T13:00:00Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195527.html",
-    "category": "event",
-    "tags": [
-      "ai",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: ai, event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:19Z"
   }
 ]
