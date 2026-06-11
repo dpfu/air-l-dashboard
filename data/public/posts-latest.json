@@ -1,5 +1,53 @@
 [
   {
+    "id": "196040",
+    "source": "air-l",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): First Call for Journal First, Conference Second Proposals",
+    "date": "2026-06-11T08:27:03Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196040.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "conference",
+      "journal",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, journal, workshop.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-11T08:54:38Z"
+  },
+  {
+    "id": "196039",
+    "source": "air-l",
+    "subject": "[Air-L] AI Futures Keynote and Pop-up Exhibition on 16th June 2026 at the University of Edinburgh [by PlanetaryAI]",
+    "date": "2026-06-10T12:13:43Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196039.html",
+    "category": "other",
+    "tags": [
+      "ai"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-11T08:54:37Z"
+  },
+  {
+    "id": "196038",
+    "source": "air-l",
+    "subject": "[Air-L] AI and the Digital Commons: Perspectives from artists, online collections & archives - July 15",
+    "date": "2026-06-10T10:27:56Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196038.html",
+    "category": "other",
+    "tags": [
+      "ai"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-11T08:54:35Z"
+  },
+  {
     "id": "196037",
     "source": "air-l",
     "subject": "[Air-L] New book: Digital Equity Ecosystems",
@@ -8029,47 +8077,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:45:24Z"
-  },
-  {
-    "id": "195530",
-    "source": "air-l",
-    "subject": "[Air-L] New journal for Creator and Influencer Studies",
-    "date": "2026-02-11T22:12:35Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195530.html",
-    "category": "publication",
-    "tags": [
-      "journal",
-      "publication"
-    ],
-    "snippet": "Metadata-only summary: Publication. Tags: journal, publication.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:23Z"
-  },
-  {
-    "id": "195529",
-    "source": "air-l",
-    "subject": "[Air-L] Online Talk \"The Quantum Ecology: Ideas for Innovative Policymaking and the Governance of Quantum Information Technologies\"",
-    "date": "2026-02-11T20:08:24Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195529.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:21Z"
-  },
-  {
-    "id": "195528",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday - Online session to discuss saving it?",
-    "date": "2026-02-11T16:57:06Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195528.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:20Z"
   }
 ]
