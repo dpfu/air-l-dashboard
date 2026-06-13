@@ -1,5 +1,58 @@
 [
   {
+    "id": "196048",
+    "source": "air-l",
+    "subject": "[Air-L] Special Issue on the Ethics of NLP and Computational linguistics",
+    "date": "2026-06-12T15:20:50Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196048.html",
+    "category": "publication",
+    "tags": [
+      "publication",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: publication, special_issue.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-13T07:56:43Z"
+  },
+  {
+    "id": "196047",
+    "source": "air-l",
+    "subject": "[Air-L] Introducing Dyadic: A Research Platform for Online Chat Studies",
+    "date": "2026-06-12T14:05:40Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196047.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "faculty",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, faculty, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-13T07:56:42Z"
+  },
+  {
+    "id": "196046",
+    "source": "air-l",
+    "subject": "[Air-L] hyperpop's hyperlinks special issue at the popular music journal (last days!)",
+    "date": "2026-06-12T11:23:02Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196046.html",
+    "category": "publication",
+    "tags": [
+      "cfp",
+      "journal",
+      "method",
+      "platforms",
+      "publication",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: cfp, journal, method, platforms, publication, special_issue.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-13T07:56:41Z"
+  },
+  {
     "id": "196045",
     "source": "air-l",
     "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): First Call for Doctoral Consortium Papers",
@@ -8033,47 +8086,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:45:35Z"
-  },
-  {
-    "id": "195538",
-    "source": "air-l",
-    "subject": "[Air-L] AIces 2026: early registration February 21st",
-    "date": "2026-02-13T08:50:36Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195538.html",
-    "category": "event",
-    "tags": [
-      "deadline",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: deadline, event. Deadline: 2026-02-21.",
-    "deadline": "2026-02-21",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:33Z"
-  },
-  {
-    "id": "195537",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday - Archiving Articles",
-    "date": "2026-02-13T03:13:28Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195537.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:32Z"
-  },
-  {
-    "id": "195536",
-    "source": "air-l",
-    "subject": "[Air-L] First Monday - Archiving Articles",
-    "date": "2026-02-12T19:23:47Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195536.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:31Z"
   }
 ]
