@@ -1,5 +1,40 @@
 [
   {
+    "id": "196050",
+    "source": "air-l",
+    "subject": "[Air-L] CFP – Routledge Handbook of Platform Cultures",
+    "date": "2026-06-13T10:24:23Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196050.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-14T08:22:53Z"
+  },
+  {
+    "id": "196049",
+    "source": "air-l",
+    "subject": "[Air-L] NEW BOOK - Planet Digital: A Global Media Cultures Reader",
+    "date": "2026-06-13T08:54:16Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196049.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "digital_culture",
+      "platforms",
+      "publication",
+      "teaching"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, digital_culture, platforms, publication, teaching.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-14T08:22:51Z"
+  },
+  {
     "id": "196048",
     "source": "air-l",
     "subject": "[Air-L] Special Issue on the Ethics of NLP and Computational linguistics",
@@ -8053,38 +8088,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:45:37Z"
-  },
-  {
-    "id": "195540",
-    "source": "air-l",
-    "subject": "[Air-L] Call for Digital Sovereignty Visiting Fellow at United Nations University - CRIS",
-    "date": "2026-02-13T14:59:41Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195540.html",
-    "category": "job",
-    "tags": [
-      "job"
-    ],
-    "snippet": "Metadata-only summary: JOBS. Tags: job.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:36Z"
-  },
-  {
-    "id": "195539",
-    "source": "air-l",
-    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Second Call for Papers (Research Track)",
-    "date": "2026-02-13T09:17:36Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195539.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "conference",
-      "method"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, method.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:35Z"
   }
 ]
