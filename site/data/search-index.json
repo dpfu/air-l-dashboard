@@ -1,5 +1,146 @@
 [
   {
+    "id": "196061",
+    "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Workshop Papers",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, workshop.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "workshop"
+    ],
+    "date": "2026-06-16T07:34:41Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196061.html"
+  },
+  {
+    "id": "196060",
+    "subject": "[Air-L] Call for Proposals: ASIS&T SIG-AI Workshop \"Building AI and Navigating AI Regulatory and Policy Landscapes\"",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, deadline, workshop. Deadline: 2026-06-29.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "deadline",
+      "workshop"
+    ],
+    "date": "2026-06-15T20:52:12Z",
+    "deadline": "2026-06-29",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196060.html"
+  },
+  {
+    "id": "196059",
+    "subject": "[Air-L] Transformations: Call for Submissions 2026",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, journal.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "journal"
+    ],
+    "date": "2026-06-15T16:37:27Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196059.html"
+  },
+  {
+    "id": "196058",
+    "subject": "[Air-L] Special Issue “Maps in/as Media” (GI_Forum Journal)",
+    "snippet": "Metadata-only summary: Publication. Tags: cfp, deadline, journal, method, publication, special_issue. Deadline: 2026-06-17.",
+    "category": "publication",
+    "tags": [
+      "cfp",
+      "deadline",
+      "journal",
+      "method",
+      "publication",
+      "special_issue"
+    ],
+    "date": "2026-06-15T15:13:09Z",
+    "deadline": "2026-06-17",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196058.html"
+  },
+  {
+    "id": "196057",
+    "subject": "[Air-L] [CfP] Computation + Journalism Symposium 2026, Deadline: June 29 2026",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, deadline, journal, workshop. Deadline: 2026-06-29.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "deadline",
+      "journal",
+      "workshop"
+    ],
+    "date": "2026-06-15T15:06:50Z",
+    "deadline": "2026-06-29",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196057.html"
+  },
+  {
+    "id": "196056",
+    "subject": "[Air-L] Postdoc at UvA (Horizon Europe ANTIGONE): speech grey zones, platforms & democratic contestation",
+    "snippet": "Metadata-only summary: JOBS. Tags: deadline, digital_culture, job, method, phd, platforms. Deadline: 2026-06-26.",
+    "category": "job",
+    "tags": [
+      "deadline",
+      "digital_culture",
+      "job",
+      "method",
+      "phd",
+      "platforms",
+      "postdoc"
+    ],
+    "date": "2026-06-15T15:00:43Z",
+    "deadline": "2026-06-26",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196056.html"
+  },
+  {
+    "id": "196055",
+    "subject": "[Air-L] Post-doc positions - FINAL WEEK",
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, job, phd.",
+    "category": "job",
+    "tags": [
+      "ai",
+      "job",
+      "phd"
+    ],
+    "date": "2026-06-15T13:59:43Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196055.html"
+  },
+  {
+    "id": "196054",
+    "subject": "[Air-L] CfP: DCS 12(2/2026) – The Targeting State: AI, Surveillance & Predictive Power",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, digital_culture.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "digital_culture"
+    ],
+    "date": "2026-06-15T12:38:41Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196054.html"
+  },
+  {
+    "id": "196053",
+    "subject": "[Air-L] Call for Abstracts, Internatiional Scientific Conference EMERGE 2026: Contested Futures",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, deadline, method, platforms. Deadline: 2026-06-20.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "deadline",
+      "method",
+      "platforms"
+    ],
+    "date": "2026-06-15T11:11:41Z",
+    "deadline": "2026-06-20",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196053.html"
+  },
+  {
     "id": "196052",
     "subject": "[Air-L] June events at the Centre for Digital Culture (KCL)",
     "snippet": "Metadata-only summary: OTHER. Tags: ai, digital_culture, method, workshop.",

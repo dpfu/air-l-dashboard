@@ -1,5 +1,173 @@
 [
   {
+    "id": "196061",
+    "source": "air-l",
+    "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Workshop Papers",
+    "date": "2026-06-16T07:34:41Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196061.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, workshop.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-16T09:35:41Z"
+  },
+  {
+    "id": "196060",
+    "source": "air-l",
+    "subject": "[Air-L] Call for Proposals: ASIS&T SIG-AI Workshop \"Building AI and Navigating AI Regulatory and Policy Landscapes\"",
+    "date": "2026-06-15T20:52:12Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196060.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "deadline",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, deadline, workshop. Deadline: 2026-06-29.",
+    "deadline": "2026-06-29",
+    "event_date": null,
+    "indexed_at": "2026-06-16T09:35:40Z"
+  },
+  {
+    "id": "196059",
+    "source": "air-l",
+    "subject": "[Air-L] Transformations: Call for Submissions 2026",
+    "date": "2026-06-15T16:37:27Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196059.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "journal"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, journal.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-16T09:35:39Z"
+  },
+  {
+    "id": "196058",
+    "source": "air-l",
+    "subject": "[Air-L] Special Issue “Maps in/as Media” (GI_Forum Journal)",
+    "date": "2026-06-15T15:13:09Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196058.html",
+    "category": "publication",
+    "tags": [
+      "cfp",
+      "deadline",
+      "journal",
+      "method",
+      "publication",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: cfp, deadline, journal, method, publication, special_issue. Deadline: 2026-06-17.",
+    "deadline": "2026-06-17",
+    "event_date": null,
+    "indexed_at": "2026-06-16T09:35:37Z"
+  },
+  {
+    "id": "196057",
+    "source": "air-l",
+    "subject": "[Air-L] [CfP] Computation + Journalism Symposium 2026, Deadline: June 29 2026",
+    "date": "2026-06-15T15:06:50Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196057.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "deadline",
+      "journal",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, deadline, journal, workshop. Deadline: 2026-06-29.",
+    "deadline": "2026-06-29",
+    "event_date": null,
+    "indexed_at": "2026-06-16T09:35:36Z"
+  },
+  {
+    "id": "196056",
+    "source": "air-l",
+    "subject": "[Air-L] Postdoc at UvA (Horizon Europe ANTIGONE): speech grey zones, platforms & democratic contestation",
+    "date": "2026-06-15T15:00:43Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196056.html",
+    "category": "job",
+    "tags": [
+      "deadline",
+      "digital_culture",
+      "job",
+      "method",
+      "phd",
+      "platforms",
+      "postdoc"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: deadline, digital_culture, job, method, phd, platforms. Deadline: 2026-06-26.",
+    "deadline": "2026-06-26",
+    "event_date": null,
+    "indexed_at": "2026-06-16T09:35:35Z"
+  },
+  {
+    "id": "196055",
+    "source": "air-l",
+    "subject": "[Air-L] Post-doc positions - FINAL WEEK",
+    "date": "2026-06-15T13:59:43Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196055.html",
+    "category": "job",
+    "tags": [
+      "ai",
+      "job",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, job, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-16T09:35:34Z"
+  },
+  {
+    "id": "196054",
+    "source": "air-l",
+    "subject": "[Air-L] CfP: DCS 12(2/2026) – The Targeting State: AI, Surveillance & Predictive Power",
+    "date": "2026-06-15T12:38:41Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196054.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "digital_culture"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, digital_culture.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-16T09:35:33Z"
+  },
+  {
+    "id": "196053",
+    "source": "air-l",
+    "subject": "[Air-L] Call for Abstracts, Internatiional Scientific Conference EMERGE 2026: Contested Futures",
+    "date": "2026-06-15T11:11:41Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196053.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "deadline",
+      "method",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, deadline, method, platforms. Deadline: 2026-06-20.",
+    "deadline": "2026-06-20",
+    "event_date": null,
+    "indexed_at": "2026-06-16T09:35:31Z"
+  },
+  {
     "id": "196052",
     "source": "air-l",
     "subject": "[Air-L] June events at the Centre for Digital Culture (KCL)",
@@ -7934,160 +8102,5 @@
     "deadline": "2026-03-30",
     "event_date": null,
     "indexed_at": "2026-04-27T22:45:52Z"
-  },
-  {
-    "id": "195551",
-    "source": "air-l",
-    "subject": "[Air-L] Call for Book Chapters : Media, Journalism, and Collective Memory in Africa: Centring Epistemologies, Power and Culture",
-    "date": "2026-02-16T17:39:26Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195551.html",
-    "category": "call_for_papers",
-    "tags": [
-      "book",
-      "cfp",
-      "platforms",
-      "social_media"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: book, cfp, platforms, social_media.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:51Z"
-  },
-  {
-    "id": "195550",
-    "source": "air-l",
-    "subject": "[Air-L] Invitation to participate in the Futures of Digital Democracy Survey (FDDS)",
-    "date": "2026-02-16T16:24:24Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195550.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:50Z"
-  },
-  {
-    "id": "195549",
-    "source": "air-l",
-    "subject": "[Air-L] AI Justice Public Lecture - Professor Sanjay Sharma on Inclusive AI - 25 Feb at 17:00",
-    "date": "2026-02-16T15:00:00Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195549.html",
-    "category": "event",
-    "tags": [
-      "ai",
-      "deadline",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: ai, deadline, event. Deadline: 2026-02-25.",
-    "deadline": "2026-02-25",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:48Z"
-  },
-  {
-    "id": "195548",
-    "source": "air-l",
-    "subject": "[Air-L] CfP: Journal Issue on Contemporary craft work and digital craft economies",
-    "date": "2026-02-16T14:37:26Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195548.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "journal",
-      "platforms",
-      "special_issue"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, journal, platforms, special_issue.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:47Z"
-  },
-  {
-    "id": "195547",
-    "source": "air-l",
-    "subject": "[Air-L] CfP Session on Emerging Methods and Approaches for Researching Internet Infrastructures, RGS-IBG 2026",
-    "date": "2026-02-16T13:24:13Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195547.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp",
-      "conference",
-      "method",
-      "platforms"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, method, platforms.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:46Z"
-  },
-  {
-    "id": "195546",
-    "source": "air-l",
-    "subject": "[Air-L] AoIR Mexico City: Technological imaginaries and futures panel participants needed",
-    "date": "2026-02-16T12:30:08Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195546.html",
-    "category": "event",
-    "tags": [
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:44Z"
-  },
-  {
-    "id": "195545",
-    "source": "air-l",
-    "subject": "[Air-L] AOIR 2026 Panel Proposal on Digital Criminology - Call for Extended Abstracts",
-    "date": "2026-02-16T11:12:13Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195545.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "conference",
-      "deadline",
-      "digital_culture",
-      "faculty",
-      "method",
-      "phd",
-      "platforms",
-      "social_media"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, deadline, digital_culture, faculty. Deadline: 2026-02-24.",
-    "deadline": "2026-02-24",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:43Z"
-  },
-  {
-    "id": "195544",
-    "source": "air-l",
-    "subject": "[Air-L] ANU School of Sociology seminar series: \"The Sovereign Individual reloaded: surfacing Thiel’s alt-canon\", Prof Roger Burrows (Bristol University)",
-    "date": "2026-02-16T02:20:39Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195544.html",
-    "category": "event",
-    "tags": [
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:42Z"
-  },
-  {
-    "id": "195543",
-    "source": "air-l",
-    "subject": "[Air-L] Research process seminar. Ethnography of Algorithms. 17th Feb at 2pm on Zoom.",
-    "date": "2026-02-15T21:59:51Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195543.html",
-    "category": "event",
-    "tags": [
-      "deadline",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: deadline, event. Deadline: 2026-02-17.",
-    "deadline": "2026-02-17",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:40Z"
   }
 ]
