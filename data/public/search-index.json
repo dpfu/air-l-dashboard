@@ -1,5 +1,77 @@
 [
   {
+    "id": "196066",
+    "subject": "[Air-L] New book – Media Change: Contemporary Cases, Consequences, and Conceptualizations (Wiley)",
+    "snippet": "Metadata-only summary: Publication. Tags: ai, book, publication.",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "book",
+      "publication"
+    ],
+    "date": "2026-06-17T09:01:00Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196066.html"
+  },
+  {
+    "id": "196065",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Mile for Fast Abstracts and Project Highlights Submissions",
+    "snippet": "Metadata-only summary: Events. Tags: deadline, event, method, platforms. Deadline: 2026-06-25.",
+    "category": "event",
+    "tags": [
+      "deadline",
+      "event",
+      "method",
+      "platforms"
+    ],
+    "date": "2026-06-17T06:51:02Z",
+    "deadline": "2026-06-25",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196065.html"
+  },
+  {
+    "id": "196064",
+    "subject": "[Air-L] Collaboration interest",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, book.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "book"
+    ],
+    "date": "2026-06-17T03:59:31Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196064.html"
+  },
+  {
+    "id": "196063",
+    "subject": "[Air-L] South-North Dialogues on AI - 18 June 2pm (UK time)",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai.",
+    "category": "other",
+    "tags": [
+      "ai"
+    ],
+    "date": "2026-06-16T18:53:18Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196063.html"
+  },
+  {
+    "id": "196062",
+    "subject": "[Air-L] CfP on \"Algorithms, AI, and Computational Communication\"",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, faculty, journal, method, platforms.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "faculty",
+      "journal",
+      "method",
+      "platforms",
+      "special_issue"
+    ],
+    "date": "2026-06-16T15:36:46Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196062.html"
+  },
+  {
     "id": "196061",
     "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Workshop Papers",
     "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, workshop.",
