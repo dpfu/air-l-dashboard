@@ -1,5 +1,71 @@
 [
   {
+    "id": "196070",
+    "source": "air-l",
+    "subject": "[Air-L] [AoIR HQ] AoIR2026 Reminders",
+    "date": "2026-06-17T20:00:00Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196070.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-18T08:55:58Z"
+  },
+  {
+    "id": "196069",
+    "source": "air-l",
+    "subject": "[Air-L] [DigiLabour Book Talk] Boom to Bust: How Streaming Broke Hollywood Workers",
+    "date": "2026-06-17T19:10:19Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196069.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "faculty",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, faculty, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-18T08:55:57Z"
+  },
+  {
+    "id": "196068",
+    "source": "air-l",
+    "subject": "[Air-L] [AoIR HQ] Two upcoming talks in the AoIR lecture series",
+    "date": "2026-06-17T18:02:53Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196068.html",
+    "category": "event",
+    "tags": [
+      "conference",
+      "event"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: conference, event.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-18T08:55:56Z"
+  },
+  {
+    "id": "196067",
+    "source": "air-l",
+    "subject": "[Air-L] Where do chatbots live? Analog meme-making workshop in Amsterdam on July 6th",
+    "date": "2026-06-17T12:54:19Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196067.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, workshop.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-18T08:55:55Z"
+  },
+  {
     "id": "196066",
     "source": "air-l",
     "subject": "[Air-L] New book – Media Change: Contemporary Cases, Consequences, and Conceptualizations (Wiley)",
@@ -8054,61 +8120,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:46:04Z"
-  },
-  {
-    "id": "195571",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] External Examiner sought for MA in Digital Media and Global Cultures at Queen Mary, University of London",
-    "date": "2026-02-17T16:29:35Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195571.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:02Z"
-  },
-  {
-    "id": "195561",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] ANU School of Sociology seminar series: \"The Sovereign Individual reloaded: surfacing Thiel’s alt-canon\", Prof Roger Burrows (Bristol University)",
-    "date": "2026-02-17T16:29:35Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195561.html",
-    "category": "event",
-    "tags": [
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:03Z"
-  },
-  {
-    "id": "195559",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] Invitation to participate in the Futures of Digital Democracy Survey (FDDS)",
-    "date": "2026-02-17T16:29:15Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195559.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:00Z"
-  },
-  {
-    "id": "195557",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] Call for Digital Sovereignty Visiting Fellow at United Nations University - CRIS",
-    "date": "2026-02-17T16:28:28Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195557.html",
-    "category": "job",
-    "tags": [
-      "job"
-    ],
-    "snippet": "Metadata-only summary: JOBS. Tags: job.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:45:59Z"
   }
 ]
