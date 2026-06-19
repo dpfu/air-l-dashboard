@@ -1,12 +1,12 @@
 {
-  "indexed_at": "2026-06-18T08:55:59Z",
-  "total_posts": 745,
+  "indexed_at": "2026-06-19T09:15:01Z",
+  "total_posts": 746,
   "with_deadline": 160,
   "categories": {
+    "call_for_papers": 219,
     "other": 275,
     "event": 141,
     "publication": 56,
-    "call_for_papers": 218,
     "job": 55
   }
 }

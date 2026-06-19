@@ -1,24 +1,24 @@
 {
   "categories": {
+    "call_for_papers": 219,
     "other": 275,
     "event": 141,
     "publication": 56,
-    "call_for_papers": 218,
     "job": 55
   },
   "tags": {
+    "ai": 216,
+    "cfp": 226,
+    "conference": 147,
+    "platforms": 110,
     "book": 104,
     "phd": 71,
     "faculty": 39,
-    "platforms": 109,
-    "conference": 146,
     "event": 141,
-    "ai": 215,
     "workshop": 48,
     "publication": 56,
     "deadline": 178,
     "method": 112,
-    "cfp": 225,
     "journal": 50,
     "special_issue": 47,
     "digital_culture": 15,
@@ -33,6 +33,6 @@
     "dataset": 3
   },
   "years": {
-    "2026": 745
+    "2026": 746
   }
 }
