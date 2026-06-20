@@ -1,5 +1,57 @@
 [
   {
+    "id": "196074",
+    "source": "air-l",
+    "subject": "[Air-L] 06 July “A Materialist Critique of Technofascism\" by Norma Möllers",
+    "date": "2026-06-20T07:18:38Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196074.html",
+    "category": "event",
+    "tags": [
+      "book",
+      "event",
+      "faculty",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: book, event, faculty, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-20T07:57:48Z"
+  },
+  {
+    "id": "196073",
+    "source": "air-l",
+    "subject": "[Air-L] New article: The Generative AI Conversation Hub of the University: Positioning Reflection and Skill-Building in the Daily Work of Library Practitioners",
+    "date": "2026-06-19T13:47:41Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196073.html",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "open_access",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: ai, open_access, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-20T07:57:47Z"
+  },
+  {
+    "id": "196072",
+    "source": "air-l",
+    "subject": "[Air-L] ATIM 2026 - practitioner-academic research event, 25–26 June (virtual)",
+    "date": "2026-06-19T11:55:10Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196072.html",
+    "category": "other",
+    "tags": [
+      "conference",
+      "faculty",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: conference, faculty, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-20T07:57:46Z"
+  },
+  {
     "id": "196071",
     "source": "air-l",
     "subject": "[Air-L] CFP - Multisensory XR: From ‘Tech for Good’ to Ethical Immersive Experience; conference at King's College London",
@@ -8084,44 +8136,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:46:09Z"
-  },
-  {
-    "id": "195588",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] Fwd: First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:00Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195588.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:10Z"
-  },
-  {
-    "id": "195567",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] Fwd: First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:00Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195567.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:11Z"
-  },
-  {
-    "id": "195572",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] Fwd: First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:29:59Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195572.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:06Z"
   }
 ]
