@@ -1,5 +1,42 @@
 [
   {
+    "id": "196076",
+    "source": "air-l",
+    "subject": "[Air-L] Call for Chapters - Research Handbook on Communication in China (Edward Elgar Publishing)",
+    "date": "2026-06-22T07:37:43Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196076.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "deadline",
+      "digital_culture",
+      "platforms",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, deadline, digital_culture, platforms, social_media. Deadline: 2026-09-01.",
+    "deadline": "2026-09-01",
+    "event_date": null,
+    "indexed_at": "2026-06-22T10:15:13Z"
+  },
+  {
+    "id": "196075",
+    "source": "air-l",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Replications and Negative Results",
+    "date": "2026-06-21T10:00:23Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196075.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "dataset",
+      "method"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, dataset, method.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-22T10:15:12Z"
+  },
+  {
     "id": "196074",
     "source": "air-l",
     "subject": "[Air-L] 06 July “A Materialist Critique of Technofascism\" by Norma Möllers",
@@ -8107,34 +8144,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:46:14Z"
-  },
-  {
-    "id": "195568",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:00Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195568.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:07Z"
-  },
-  {
-    "id": "195582",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] New Routledge Book Series: Cultural Analytics, AI and the Digital Futures",
-    "date": "2026-02-17T16:30:00Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195582.html",
-    "category": "other",
-    "tags": [
-      "ai",
-      "book"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: ai, book.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:09Z"
   }
 ]
