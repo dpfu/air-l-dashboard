@@ -1,5 +1,93 @@
 [
   {
+    "id": "196081",
+    "source": "air-l",
+    "subject": "[Air-L] Search Engine Research: Invitation to RAT Webinar on Wednesday, July 15, 2026",
+    "date": "2026-06-23T07:04:43Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196081.html",
+    "category": "event",
+    "tags": [
+      "book",
+      "event",
+      "faculty"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: book, event, faculty.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-23T07:57:49Z"
+  },
+  {
+    "id": "196080",
+    "source": "air-l",
+    "subject": "[Air-L] Postdoctoral position in platform studies at the University of Copenhagen (UCPH)",
+    "date": "2026-06-23T06:52:47Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196080.html",
+    "category": "job",
+    "tags": [
+      "ai",
+      "job",
+      "method",
+      "phd",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, job, method, phd, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-23T07:57:48Z"
+  },
+  {
+    "id": "196079",
+    "source": "air-l",
+    "subject": "[Air-L] [Job] Post-Doc, AI-enabled Scams as a Systemic Security Challenge",
+    "date": "2026-06-22T14:31:28Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196079.html",
+    "category": "job",
+    "tags": [
+      "ai",
+      "job",
+      "phd",
+      "postdoc"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, job, phd, postdoc.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-23T07:57:47Z"
+  },
+  {
+    "id": "196078",
+    "source": "air-l",
+    "subject": "[Air-L] New Routledge book: The Inequality Regime of AI",
+    "date": "2026-06-22T14:29:51Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196078.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "book"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, book.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-23T07:57:46Z"
+  },
+  {
+    "id": "196077",
+    "source": "air-l",
+    "subject": "[Air-L] Annual conference of the CNRS Centre for Internet and Society: Programme and registration now available",
+    "date": "2026-06-22T13:40:42Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196077.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "conference",
+      "event",
+      "internet_governance"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, conference, event, internet_governance.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-23T07:57:45Z"
+  },
+  {
     "id": "196076",
     "source": "air-l",
     "subject": "[Air-L] Call for Chapters - Research Handbook on Communication in China (Edward Elgar Publishing)",
@@ -8079,70 +8167,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:46:16Z"
-  },
-  {
-    "id": "195563",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:02Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195563.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:17Z"
-  },
-  {
-    "id": "195570",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:02Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195570.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:18Z"
-  },
-  {
-    "id": "195589",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:02Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195589.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:20Z"
-  },
-  {
-    "id": "195577",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:01Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195577.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:13Z"
-  },
-  {
-    "id": "195562",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:01Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195562.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:14Z"
   }
 ]
