@@ -1,5 +1,90 @@
 [
   {
+    "id": "196089",
+    "subject": "[Air-L] New Book out from MIT Press",
+    "snippet": "Metadata-only summary: Publication. Tags: book, open_access, publication, teaching.",
+    "category": "publication",
+    "tags": [
+      "book",
+      "open_access",
+      "publication",
+      "teaching"
+    ],
+    "date": "2026-06-24T14:15:43Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196089.html"
+  },
+  {
+    "id": "196088",
+    "subject": "[Air-L] CFM-- Play, Games, and Sociality",
+    "snippet": "Metadata-only summary: OTHER. Tags: book, deadline.",
+    "category": "other",
+    "tags": [
+      "book",
+      "deadline"
+    ],
+    "date": "2026-06-24T14:15:17Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196088.html"
+  },
+  {
+    "id": "196087",
+    "subject": "[Air-L] CFM--Symbolic Interaction and Migrants",
+    "snippet": "Metadata-only summary: OTHER.",
+    "category": "other",
+    "tags": [],
+    "date": "2026-06-24T14:13:54Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196087.html"
+  },
+  {
+    "id": "196086",
+    "subject": "[Air-L] 10th Workshop on Online Abuse and Harms (WOAH) @EMNLP: Submission Deadline Extension",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, method, workshop. Deadline: 2026-08-03.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "method",
+      "workshop"
+    ],
+    "date": "2026-06-24T11:48:22Z",
+    "deadline": "2026-08-03",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196086.html"
+  },
+  {
+    "id": "196085",
+    "subject": "[Air-L] KGCSW-SETN 2026: Knowledge Graph Construction Workshop: Call for Papers",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, platforms, special_issue, workshop.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "platforms",
+      "special_issue",
+      "workshop"
+    ],
+    "date": "2026-06-24T10:30:34Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196085.html"
+  },
+  {
+    "id": "196084",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Mile for Industry Track Submissions",
+    "snippet": "Metadata-only summary: Events. Tags: ai, conference, event, method.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "conference",
+      "event",
+      "method"
+    ],
+    "date": "2026-06-24T09:08:36Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196084.html"
+  },
+  {
     "id": "196083",
     "subject": "[Air-L] CFP: Self-Expression, Self-Actualization, and Media Experimentation (SESAME): A Dialogue and Ruminations",
     "snippet": "Metadata-only summary: CfP. Tags: cfp, platforms, social_media.",

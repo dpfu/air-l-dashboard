@@ -1,5 +1,108 @@
 [
   {
+    "id": "196089",
+    "source": "air-l",
+    "subject": "[Air-L] New Book out from MIT Press",
+    "date": "2026-06-24T14:15:43Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196089.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "open_access",
+      "publication",
+      "teaching"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, open_access, publication, teaching.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-25T07:54:25Z"
+  },
+  {
+    "id": "196088",
+    "source": "air-l",
+    "subject": "[Air-L] CFM-- Play, Games, and Sociality",
+    "date": "2026-06-24T14:15:17Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196088.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "deadline"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, deadline.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-25T07:54:23Z"
+  },
+  {
+    "id": "196087",
+    "source": "air-l",
+    "subject": "[Air-L] CFM--Symbolic Interaction and Migrants",
+    "date": "2026-06-24T14:13:54Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196087.html",
+    "category": "other",
+    "tags": [],
+    "snippet": "Metadata-only summary: OTHER.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-25T07:54:22Z"
+  },
+  {
+    "id": "196086",
+    "source": "air-l",
+    "subject": "[Air-L] 10th Workshop on Online Abuse and Harms (WOAH) @EMNLP: Submission Deadline Extension",
+    "date": "2026-06-24T11:48:22Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196086.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "method",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, method, workshop. Deadline: 2026-08-03.",
+    "deadline": "2026-08-03",
+    "event_date": null,
+    "indexed_at": "2026-06-25T07:54:21Z"
+  },
+  {
+    "id": "196085",
+    "source": "air-l",
+    "subject": "[Air-L] KGCSW-SETN 2026: Knowledge Graph Construction Workshop: Call for Papers",
+    "date": "2026-06-24T10:30:34Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196085.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "platforms",
+      "special_issue",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, platforms, special_issue, workshop.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-25T07:54:17Z"
+  },
+  {
+    "id": "196084",
+    "source": "air-l",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Mile for Industry Track Submissions",
+    "date": "2026-06-24T09:08:36Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196084.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "conference",
+      "event",
+      "method"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, conference, event, method.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-06-25T07:54:16Z"
+  },
+  {
     "id": "196083",
     "source": "air-l",
     "subject": "[Air-L] CFP: Self-Expression, Self-Actualization, and Media Experimentation (SESAME): A Dialogue and Ruminations",
@@ -8097,83 +8200,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:46:26Z"
-  },
-  {
-    "id": "195590",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:04Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195590.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:28Z"
-  },
-  {
-    "id": "195600",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:04Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195600.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:29Z"
-  },
-  {
-    "id": "195560",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:04Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195560.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:30Z"
-  },
-  {
-    "id": "195575",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:03Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195575.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:21Z"
-  },
-  {
-    "id": "195583",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:03Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195583.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:22Z"
-  },
-  {
-    "id": "195576",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:30:03Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195576.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:24Z"
   }
 ]
