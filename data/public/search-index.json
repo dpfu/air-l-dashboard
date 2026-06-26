@@ -1,5 +1,71 @@
 [
   {
+    "id": "196094",
+    "subject": "[Air-L] A book editing project",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, book.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "book"
+    ],
+    "date": "2026-06-26T05:21:07Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196094.html"
+  },
+  {
+    "id": "196093",
+    "subject": "[Air-L] New book announcement - Carceral Surround",
+    "snippet": "Metadata-only summary: Publication. Tags: book, publication, social_media.",
+    "category": "publication",
+    "tags": [
+      "book",
+      "publication",
+      "social_media"
+    ],
+    "date": "2026-06-25T18:59:25Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196093.html"
+  },
+  {
+    "id": "196092",
+    "subject": "[Air-L] Postdoc “𝗪𝗶𝘁𝗵 𝗴𝗿𝗲𝗮𝘁𝗲𝗿 𝗽𝗼𝘄𝗲𝗿 𝗺𝘂𝘀𝘁 𝗰𝗼𝗺𝗲 𝗴𝗿𝗲𝗮𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆'' at the School of Law of Utrecht University.",
+    "snippet": "Metadata-only summary: JOBS. Tags: job, phd, postdoc.",
+    "category": "job",
+    "tags": [
+      "job",
+      "phd",
+      "postdoc"
+    ],
+    "date": "2026-06-25T14:47:27Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196092.html"
+  },
+  {
+    "id": "196091",
+    "subject": "[Air-L] Illustrations-Production Networks of AI and its associated costs",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai.",
+    "category": "other",
+    "tags": [
+      "ai"
+    ],
+    "date": "2026-06-25T14:16:07Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196091.html"
+  },
+  {
+    "id": "196090",
+    "subject": "[Air-L] AI-Futures-Keynote-Prof. Paola Ricaurte and Prof. Nick Couldry-Planetary AI-Edinburgh",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, faculty.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "faculty"
+    ],
+    "date": "2026-06-25T12:16:30Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-June/196090.html"
+  },
+  {
     "id": "196089",
     "subject": "[Air-L] New Book out from MIT Press",
     "snippet": "Metadata-only summary: Publication. Tags: book, open_access, publication, teaching.",
