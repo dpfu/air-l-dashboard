@@ -1,5 +1,96 @@
 [
   {
+    "id": "196108",
+    "subject": "[Air-L] [AoIR HQ] Deadline extended: Call for Expressions of Interest for AoIR2028",
+    "snippet": "Metadata-only summary: OTHER. Tags: conference, deadline. Deadline: 2026-08-01.",
+    "category": "other",
+    "tags": [
+      "conference",
+      "deadline"
+    ],
+    "date": "2026-07-01T23:54:05Z",
+    "deadline": "2026-08-01",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196108.html"
+  },
+  {
+    "id": "196107",
+    "subject": "[Air-L] ​ISOC LIVE - What's On & What's New",
+    "snippet": "Metadata-only summary: Events. Tags: ai, conference, event.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "conference",
+      "event"
+    ],
+    "date": "2026-07-01T17:18:22Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196107.html"
+  },
+  {
+    "id": "196106",
+    "subject": "[Air-L] Creator & Influencer Studies Special Collections Deadline Extension",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, faculty, journal, method.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "faculty",
+      "journal",
+      "method"
+    ],
+    "date": "2026-07-01T14:38:40Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196106.html"
+  },
+  {
+    "id": "196105",
+    "subject": "[Air-L] Call for Articles",
+    "snippet": "Metadata-only summary: OTHER. Tags: journal, open_access, platforms, social_media.",
+    "category": "other",
+    "tags": [
+      "journal",
+      "open_access",
+      "platforms",
+      "social_media"
+    ],
+    "date": "2026-07-01T14:25:08Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196105.html"
+  },
+  {
+    "id": "196104",
+    "subject": "[Air-L] UK workshop on social media data - Call for Expressions of Interest",
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, method, platforms, social_media, workshop.",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "method",
+      "platforms",
+      "social_media",
+      "workshop"
+    ],
+    "date": "2026-07-01T13:39:26Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196104.html"
+  },
+  {
+    "id": "196103",
+    "subject": "[Air-L] MA curriculum in Digital Media, Data and Society, University of Milan - Applications open",
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, faculty, method, platforms, social_media.",
+    "category": "other",
+    "tags": [
+      "ai",
+      "faculty",
+      "method",
+      "platforms",
+      "social_media"
+    ],
+    "date": "2026-07-01T10:21:34Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196103.html"
+  },
+  {
     "id": "196099",
     "subject": "[Air-L] New book: The Routledge Companion to Social Media Influencers",
     "snippet": "Metadata-only summary: Publication. Tags: book, publication, social_media.",

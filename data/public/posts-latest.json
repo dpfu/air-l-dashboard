@@ -1,5 +1,114 @@
 [
   {
+    "id": "196108",
+    "source": "air-l",
+    "subject": "[Air-L] [AoIR HQ] Deadline extended: Call for Expressions of Interest for AoIR2028",
+    "date": "2026-07-01T23:54:05Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196108.html",
+    "category": "other",
+    "tags": [
+      "conference",
+      "deadline"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: conference, deadline. Deadline: 2026-08-01.",
+    "deadline": "2026-08-01",
+    "event_date": null,
+    "indexed_at": "2026-07-02T07:44:09Z"
+  },
+  {
+    "id": "196107",
+    "source": "air-l",
+    "subject": "[Air-L] ​ISOC LIVE - What's On & What's New",
+    "date": "2026-07-01T17:18:22Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196107.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "conference",
+      "event"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, conference, event.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-02T07:44:08Z"
+  },
+  {
+    "id": "196106",
+    "source": "air-l",
+    "subject": "[Air-L] Creator & Influencer Studies Special Collections Deadline Extension",
+    "date": "2026-07-01T14:38:40Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196106.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "faculty",
+      "journal",
+      "method"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, faculty, journal, method.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-02T07:44:07Z"
+  },
+  {
+    "id": "196105",
+    "source": "air-l",
+    "subject": "[Air-L] Call for Articles",
+    "date": "2026-07-01T14:25:08Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196105.html",
+    "category": "other",
+    "tags": [
+      "journal",
+      "open_access",
+      "platforms",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: journal, open_access, platforms, social_media.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-02T07:44:04Z"
+  },
+  {
+    "id": "196104",
+    "source": "air-l",
+    "subject": "[Air-L] UK workshop on social media data - Call for Expressions of Interest",
+    "date": "2026-07-01T13:39:26Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196104.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event",
+      "method",
+      "platforms",
+      "social_media",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, event, method, platforms, social_media, workshop.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-02T07:44:03Z"
+  },
+  {
+    "id": "196103",
+    "source": "air-l",
+    "subject": "[Air-L] MA curriculum in Digital Media, Data and Society, University of Milan - Applications open",
+    "date": "2026-07-01T10:21:34Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196103.html",
+    "category": "other",
+    "tags": [
+      "ai",
+      "faculty",
+      "method",
+      "platforms",
+      "social_media"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: ai, faculty, method, platforms, social_media.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-02T07:44:02Z"
+  },
+  {
     "id": "196099",
     "source": "air-l",
     "subject": "[Air-L] New book: The Routledge Companion to Social Media Influencers",
@@ -8154,83 +8263,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:46:54Z"
-  },
-  {
-    "id": "195598",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:32:46Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195598.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:47Z"
-  },
-  {
-    "id": "195601",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:32:46Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195601.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:48Z"
-  },
-  {
-    "id": "195581",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:32:46Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195581.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:49Z"
-  },
-  {
-    "id": "195585",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:32:46Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195585.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:51Z"
-  },
-  {
-    "id": "195574",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:32:45Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195574.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:44Z"
-  },
-  {
-    "id": "195594",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:32:45Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195594.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:45Z"
   }
 ]
