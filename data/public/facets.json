@@ -1,13 +1,14 @@
 {
   "categories": {
+    "event": 148,
     "call_for_papers": 227,
     "other": 286,
-    "event": 147,
     "publication": 61,
     "job": 60
   },
   "tags": {
-    "ai": 233,
+    "ai": 234,
+    "event": 148,
     "cfp": 234,
     "internet_governance": 10,
     "journal": 53,
@@ -16,7 +17,6 @@
     "special_issue": 49,
     "conference": 154,
     "deadline": 185,
-    "event": 147,
     "faculty": 47,
     "open_access": 21,
     "social_media": 55,
@@ -33,6 +33,6 @@
     "fellowship": 8
   },
   "years": {
-    "2026": 781
+    "2026": 782
   }
 }
