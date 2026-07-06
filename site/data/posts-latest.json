@@ -1,5 +1,23 @@
 [
   {
+    "id": "196111",
+    "source": "air-l",
+    "subject": "[Air-L] Reminder: CfP open - \"Untangling the Quantum Ecology\" - journal Digital Society",
+    "date": "2026-07-06T08:37:58Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196111.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "deadline",
+      "journal"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, deadline, journal.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-06T08:40:23Z"
+  },
+  {
     "id": "196110",
     "source": "air-l",
     "subject": "[Air-L] Full Agendas - Global Dialogue on AI Governance / WSIS Forum 2026",
@@ -8261,18 +8279,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:46:55Z"
-  },
-  {
-    "id": "195587",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:32:48Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195587.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:57Z"
   }
 ]
