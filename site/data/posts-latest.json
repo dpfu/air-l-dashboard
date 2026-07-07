@@ -1,5 +1,111 @@
 [
   {
+    "id": "196117",
+    "source": "air-l",
+    "subject": "[Air-L] mediastudies.press book manuscript submission window closes on 31 July, 2026",
+    "date": "2026-07-07T03:52:39Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196117.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "open_access"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, open_access.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-07T07:51:52Z"
+  },
+  {
+    "id": "196116",
+    "source": "air-l",
+    "subject": "[Air-L] Leviathan’s Ear: Machine Listening and Platformisation [Livestream]",
+    "date": "2026-07-06T22:34:17Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196116.html",
+    "category": "other",
+    "tags": [
+      "faculty",
+      "method",
+      "platforms",
+      "teaching",
+      "workshop"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: faculty, method, platforms, teaching, workshop.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-07T07:51:51Z"
+  },
+  {
+    "id": "196115",
+    "source": "air-l",
+    "subject": "[Air-L] CFP: ASIST 2026 symposium -- Information Fictions: Information in Stories (and Stories about Information)",
+    "date": "2026-07-06T22:19:45Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196115.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-07T07:51:50Z"
+  },
+  {
+    "id": "196114",
+    "source": "air-l",
+    "subject": "[Air-L] OMGC Special Issue CFP: Contemporary Media and Journalism in the MENA Region: AI Disruption, Digital Transformation, and Geopolitical Shifts",
+    "date": "2026-07-06T15:17:40Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196114.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "deadline",
+      "journal",
+      "method",
+      "social_media",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, deadline, journal, method, social_media. Deadline: 2026-09-01.",
+    "deadline": "2026-09-01",
+    "event_date": null,
+    "indexed_at": "2026-07-07T07:51:49Z"
+  },
+  {
+    "id": "196113",
+    "source": "air-l",
+    "subject": "[Air-L] Jeffrey Snodgrass discusses his new book, The Avatar Faculty",
+    "date": "2026-07-06T14:00:00Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196113.html",
+    "category": "publication",
+    "tags": [
+      "book",
+      "faculty",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: book, faculty, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-07T07:51:48Z"
+  },
+  {
+    "id": "196112",
+    "source": "air-l",
+    "subject": "[Air-L] call for panels on Knowledge Commons, Technology and AI: IASC XXI Biennial Conference, 21-25 June, 2027",
+    "date": "2026-07-06T11:50:21Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196112.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "conference",
+      "deadline",
+      "event"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, conference, deadline, event. Deadline: 2026-07-26.",
+    "deadline": "2026-07-26",
+    "event_date": null,
+    "indexed_at": "2026-07-07T07:51:46Z"
+  },
+  {
     "id": "196111",
     "source": "air-l",
     "subject": "[Air-L] Reminder: CfP open - \"Untangling the Quantum Ecology\" - journal Digital Society",
@@ -8191,93 +8297,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:47:05Z"
-  },
-  {
-    "id": "195605",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] [AoIR HQ] CFP Association of Internet Researchers (AoIR) Flashpoint Symposium)",
-    "date": "2026-02-17T16:33:54Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195605.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:02Z"
-  },
-  {
-    "id": "195609",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] Critical AI Policy Virtual Fellowship 2026",
-    "date": "2026-02-17T16:33:54Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195609.html",
-    "category": "job",
-    "tags": [
-      "ai",
-      "fellowship",
-      "job"
-    ],
-    "snippet": "Metadata-only summary: JOBS. Tags: ai, fellowship, job.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:03Z"
-  },
-  {
-    "id": "195607",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] CFP - Digital Communication and Social Practices under Algorithms: Challenges and Opportunities. BiD, Issue 57",
-    "date": "2026-02-17T16:33:18Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195607.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:01Z"
-  },
-  {
-    "id": "195596",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] CFP - “SLOP” and “NOSTALGIA” – DLC Presents “Current Keywords in Digital Literary Culture”",
-    "date": "2026-02-17T16:32:49Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195596.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:58Z"
-  },
-  {
-    "id": "195599",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:32:49Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195599.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:59Z"
-  },
-  {
-    "id": "195597",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] First Monday shutting down after 30 years",
-    "date": "2026-02-17T16:32:48Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195597.html",
-    "category": "other",
-    "tags": [],
-    "snippet": "Metadata-only summary: OTHER.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:46:55Z"
   }
 ]
