@@ -1,15 +1,15 @@
 {
-  "indexed_at": "2026-07-07T07:51:44Z",
+  "indexed_at": "2026-07-08T06:38:20Z",
   "months": [
     {
       "month": "2026-July",
       "status": 200,
-      "new": 6,
-      "processed": 6,
-      "total_found": 15,
+      "new": 1,
+      "processed": 1,
+      "total_found": 16,
       "thread_status": 200,
-      "thread_entries": 15
+      "thread_entries": 16
     }
   ],
-  "new_posts": 6
+  "new_posts": 1
 }

@@ -1,5 +1,24 @@
 [
   {
+    "id": "196118",
+    "source": "air-l",
+    "subject": "[Air-L] New Book: Platform Extractivism",
+    "date": "2026-07-08T00:12:02Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196118.html",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "book",
+      "faculty",
+      "platforms",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: ai, book, faculty, platforms, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-08T06:38:22Z"
+  },
+  {
     "id": "196117",
     "source": "air-l",
     "subject": "[Air-L] mediastudies.press book manuscript submission window closes on 31 July, 2026",
@@ -8280,22 +8299,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:47:06Z"
-  },
-  {
-    "id": "195606",
-    "source": "air-l",
-    "subject": "[Air-L] [EXT] Critical AI Policy Virtual Fellowship 2026",
-    "date": "2026-02-17T16:33:55Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195606.html",
-    "category": "job",
-    "tags": [
-      "ai",
-      "fellowship",
-      "job"
-    ],
-    "snippet": "Metadata-only summary: JOBS. Tags: ai, fellowship, job.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:05Z"
   }
 ]
