@@ -1,5 +1,65 @@
 [
   {
+    "id": "196122",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Combo Call for Workshop Papers",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, method, workshop.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "method",
+      "workshop"
+    ],
+    "date": "2026-07-10T07:41:24Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196122.html"
+  },
+  {
+    "id": "196121",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Journal First, Conference Second Proposals",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, journal, workshop.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "conference",
+      "journal",
+      "workshop"
+    ],
+    "date": "2026-07-09T07:38:03Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196121.html"
+  },
+  {
+    "id": "196120",
+    "subject": "[Air-L] DEADLINE REMINDER: **Algorithmic Intervention on Music Platforms** Research Challenge Proposals due 24 July",
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, deadline, platforms. Deadline: 2026-07-24.",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "deadline",
+      "platforms"
+    ],
+    "date": "2026-07-08T13:47:15Z",
+    "deadline": "2026-07-24",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196120.html"
+  },
+  {
+    "id": "196119",
+    "subject": "[Air-L] Call for Papers: Algorithmic Sociality: Platforms, Connection, and the Reconfiguration of Digital Relations",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, journal, platforms, social_media, special_issue.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "journal",
+      "platforms",
+      "social_media",
+      "special_issue"
+    ],
+    "date": "2026-07-08T08:39:49Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196119.html"
+  },
+  {
     "id": "196118",
     "subject": "[Air-L] New Book: Platform Extractivism",
     "snippet": "Metadata-only summary: Publication. Tags: ai, book, faculty, platforms, publication.",
