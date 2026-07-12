@@ -1,5 +1,22 @@
 [
   {
+    "id": "196125",
+    "source": "air-l",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Doctoral Consortium Papers",
+    "date": "2026-07-11T08:38:16Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196125.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "conference",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-12T06:47:21Z"
+  },
+  {
     "id": "196124",
     "source": "air-l",
     "subject": "[Air-L] CFP: CSCW 2026 Workshop on Ethics Governance for AI Research",
@@ -8304,21 +8321,5 @@
     "deadline": "2026-02-27",
     "event_date": null,
     "indexed_at": "2026-04-27T22:47:16Z"
-  },
-  {
-    "id": "195612",
-    "source": "air-l",
-    "subject": "[Air-L] Join our \"Workshop on workshopping\" if you're in the Netherlands next week!",
-    "date": "2026-02-19T09:48:33Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195612.html",
-    "category": "event",
-    "tags": [
-      "event",
-      "workshop"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event, workshop.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:14Z"
   }
 ]
