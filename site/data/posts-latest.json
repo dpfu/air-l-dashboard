@@ -1,5 +1,44 @@
 [
   {
+    "id": "196127",
+    "source": "air-l",
+    "subject": "[Air-L] Extended deadline August 1st, 2026, for EAI ArtsIT 2026",
+    "date": "2026-07-13T18:28:14Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196127.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "deadline",
+      "method",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, deadline, method, platforms. Deadline: 2026-08-01.",
+    "deadline": "2026-08-01",
+    "event_date": null,
+    "indexed_at": "2026-07-14T06:24:16Z"
+  },
+  {
+    "id": "196126",
+    "source": "air-l",
+    "subject": "[Air-L] Communication and Change Special Issue Published: The AI Revolution in Communication Research: Methods, Measurements, and Challenges",
+    "date": "2026-07-13T13:34:35Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196126.html",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "journal",
+      "method",
+      "publication",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: ai, journal, method, publication, special_issue.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-14T06:24:13Z"
+  },
+  {
     "id": "196125",
     "source": "air-l",
     "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Doctoral Consortium Papers",
@@ -8287,39 +8326,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:47:18Z"
-  },
-  {
-    "id": "195614",
-    "source": "air-l",
-    "subject": "[Air-L] 27 February \"How the Far Right and Social Media Mobilize Working-Class Emotions\" by Rosana Pinheiro-Machado",
-    "date": "2026-02-19T12:30:20Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195614.html",
-    "category": "event",
-    "tags": [
-      "event",
-      "social_media"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event, social_media.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:17Z"
-  },
-  {
-    "id": "195613",
-    "source": "air-l",
-    "subject": "[Air-L] 39th IEEE International Symposium on Computer-Based Medical Systems (CBMS): Last Call for Contributions",
-    "date": "2026-02-19T11:56:23Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195613.html",
-    "category": "call_for_papers",
-    "tags": [
-      "ai",
-      "cfp",
-      "conference",
-      "deadline"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, deadline. Deadline: 2026-02-27.",
-    "deadline": "2026-02-27",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:16Z"
   }
 ]

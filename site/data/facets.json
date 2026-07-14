@@ -1,27 +1,27 @@
 {
   "categories": {
-    "call_for_papers": 236,
+    "call_for_papers": 237,
+    "publication": 64,
     "event": 150,
-    "publication": 63,
     "other": 288,
     "job": 60
   },
   "tags": {
-    "cfp": 243,
-    "conference": 158,
+    "ai": 243,
+    "cfp": 244,
+    "conference": 159,
+    "deadline": 191,
+    "method": 128,
+    "platforms": 126,
+    "journal": 58,
+    "publication": 64,
+    "special_issue": 53,
     "phd": 78,
-    "ai": 241,
-    "deadline": 190,
-    "method": 126,
-    "special_issue": 52,
     "workshop": 56,
     "event": 150,
-    "journal": 57,
-    "platforms": 125,
     "social_media": 57,
     "book": 116,
     "faculty": 50,
-    "publication": 63,
     "open_access": 22,
     "teaching": 18,
     "internet_governance": 10,
@@ -33,6 +33,6 @@
     "fellowship": 8
   },
   "years": {
-    "2026": 797
+    "2026": 799
   }
 }

@@ -1,5 +1,38 @@
 [
   {
+    "id": "196127",
+    "subject": "[Air-L] Extended deadline August 1st, 2026, for EAI ArtsIT 2026",
+    "snippet": "Metadata-only summary: CfP. Tags: ai, cfp, conference, deadline, method, platforms. Deadline: 2026-08-01.",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "cfp",
+      "conference",
+      "deadline",
+      "method",
+      "platforms"
+    ],
+    "date": "2026-07-13T18:28:14Z",
+    "deadline": "2026-08-01",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196127.html"
+  },
+  {
+    "id": "196126",
+    "subject": "[Air-L] Communication and Change Special Issue Published: The AI Revolution in Communication Research: Methods, Measurements, and Challenges",
+    "snippet": "Metadata-only summary: Publication. Tags: ai, journal, method, publication, special_issue.",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "journal",
+      "method",
+      "publication",
+      "special_issue"
+    ],
+    "date": "2026-07-13T13:34:35Z",
+    "deadline": null,
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196126.html"
+  },
+  {
     "id": "196125",
     "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Call for Doctoral Consortium Papers",
     "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, phd.",
