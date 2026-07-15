@@ -1,5 +1,37 @@
 [
   {
+    "id": "196129",
+    "source": "air-l",
+    "subject": "[Air-L] A victory in our fight to defend researchers' speech from Rubio's Censorship Policy",
+    "date": "2026-07-15T00:16:17Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196129.html",
+    "category": "other",
+    "tags": [
+      "faculty"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: faculty.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-15T06:27:37Z"
+  },
+  {
+    "id": "196128",
+    "source": "air-l",
+    "subject": "[Air-L] [Tomorrow, Book Talk] Boom to Bust: How Streaming Broke Hollywood Workers",
+    "date": "2026-07-14T16:28:45Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196128.html",
+    "category": "other",
+    "tags": [
+      "book",
+      "faculty",
+      "platforms"
+    ],
+    "snippet": "Metadata-only summary: OTHER. Tags: book, faculty, platforms.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-15T06:27:36Z"
+  },
+  {
     "id": "196127",
     "source": "air-l",
     "subject": "[Air-L] Extended deadline August 1st, 2026, for EAI ArtsIT 2026",
@@ -8295,36 +8327,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:47:21Z"
-  },
-  {
-    "id": "195616",
-    "source": "air-l",
-    "subject": "[Air-L] Information & Culture seeking book reviewers",
-    "date": "2026-02-19T20:44:04Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195616.html",
-    "category": "other",
-    "tags": [
-      "book",
-      "book_review"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: book, book_review.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:20Z"
-  },
-  {
-    "id": "195615",
-    "source": "air-l",
-    "subject": "[Air-L] 2 year appt. in AI and Information Literacies",
-    "date": "2026-02-19T15:36:48Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195615.html",
-    "category": "other",
-    "tags": [
-      "ai"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: ai.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:18Z"
   }
 ]
