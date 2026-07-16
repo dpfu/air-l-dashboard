@@ -1,5 +1,23 @@
 [
   {
+    "id": "196130",
+    "source": "air-l",
+    "subject": "[Air-L] Postdoctoral Research Associate on STATETECH",
+    "date": "2026-07-15T15:11:52Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196130.html",
+    "category": "job",
+    "tags": [
+      "ai",
+      "deadline",
+      "job",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-16T06:30:51Z"
+  },
+  {
     "id": "196129",
     "source": "air-l",
     "subject": "[Air-L] A victory in our fight to defend researchers' speech from Rubio's Censorship Policy",
@@ -8311,21 +8329,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:47:22Z"
-  },
-  {
-    "id": "195617",
-    "source": "air-l",
-    "subject": "[Air-L] Internet Histories Seeking Book Reviewers",
-    "date": "2026-02-19T23:22:42Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195617.html",
-    "category": "other",
-    "tags": [
-      "book",
-      "book_review"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: book, book_review.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:21Z"
   }
 ]
