@@ -1,13 +1,14 @@
 {
   "categories": {
+    "event": 151,
     "job": 61,
     "other": 290,
     "call_for_papers": 237,
-    "publication": 64,
-    "event": 150
+    "publication": 64
   },
   "tags": {
-    "ai": 244,
+    "ai": 245,
+    "event": 151,
     "deadline": 192,
     "job": 61,
     "phd": 79,
@@ -21,7 +22,6 @@
     "publication": 64,
     "special_issue": 53,
     "workshop": 56,
-    "event": 150,
     "social_media": 57,
     "open_access": 22,
     "teaching": 18,
@@ -33,6 +33,6 @@
     "fellowship": 8
   },
   "years": {
-    "2026": 802
+    "2026": 803
   }
 }

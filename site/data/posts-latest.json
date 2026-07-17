@@ -1,5 +1,21 @@
 [
   {
+    "id": "196131",
+    "source": "air-l",
+    "subject": "[Air-L] ISOC LIVE - What's On & What's New - Jul 16, 2026",
+    "date": "2026-07-16T14:27:27Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196131.html",
+    "category": "event",
+    "tags": [
+      "ai",
+      "event"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: ai, event.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-17T06:27:10Z"
+  },
+  {
     "id": "196130",
     "source": "air-l",
     "subject": "[Air-L] Postdoctoral Research Associate on STATETECH",
@@ -8312,22 +8328,5 @@
     "deadline": "2026-02-28",
     "event_date": null,
     "indexed_at": "2026-04-27T22:47:24Z"
-  },
-  {
-    "id": "195618",
-    "source": "air-l",
-    "subject": "[Air-L] International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026): Last Call for Workshop Proposals",
-    "date": "2026-02-20T08:07:08Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195618.html",
-    "category": "call_for_papers",
-    "tags": [
-      "cfp",
-      "conference",
-      "workshop"
-    ],
-    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference, workshop.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:22Z"
   }
 ]
