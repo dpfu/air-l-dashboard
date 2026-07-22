@@ -1,25 +1,25 @@
 {
   "categories": {
+    "publication": 65,
     "call_for_papers": 238,
     "event": 151,
     "job": 61,
-    "other": 290,
-    "publication": 64
+    "other": 290
   },
   "tags": {
+    "ai": 246,
+    "book": 118,
+    "publication": 65,
     "cfp": 245,
     "conference": 160,
     "deadline": 193,
     "platforms": 128,
-    "ai": 245,
     "event": 151,
     "job": 61,
     "phd": 79,
     "faculty": 52,
-    "book": 117,
     "method": 128,
     "journal": 58,
-    "publication": 64,
     "special_issue": 53,
     "workshop": 56,
     "social_media": 57,
@@ -33,6 +33,6 @@
     "fellowship": 8
   },
   "years": {
-    "2026": 804
+    "2026": 805
   }
 }

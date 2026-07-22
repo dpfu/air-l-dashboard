@@ -1,5 +1,22 @@
 [
   {
+    "id": "196133",
+    "source": "air-l",
+    "subject": "[Air-L] New Book | Media Change: Contemporary Cases, Consequences, and Conceptualizations | Discount code",
+    "date": "2026-07-21T12:22:00Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196133.html",
+    "category": "publication",
+    "tags": [
+      "ai",
+      "book",
+      "publication"
+    ],
+    "snippet": "Metadata-only summary: Publication. Tags: ai, book, publication.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-22T06:41:58Z"
+  },
+  {
     "id": "196132",
     "source": "air-l",
     "subject": "[Air-L] DEADLINE EXTENDED - CFP: Lockdown and its (Digital) Afterlives Preconference, Mexico City",
@@ -8309,21 +8326,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:47:26Z"
-  },
-  {
-    "id": "195620",
-    "source": "air-l",
-    "subject": "[Air-L] SWING School on Internet Governance | Application DL: 27 February 2026",
-    "date": "2026-02-20T10:22:49Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195620.html",
-    "category": "event",
-    "tags": [
-      "event",
-      "internet_governance"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event, internet_governance.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:25Z"
   }
 ]
