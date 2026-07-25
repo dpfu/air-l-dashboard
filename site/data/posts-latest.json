@@ -1,5 +1,88 @@
 [
   {
+    "id": "196144",
+    "source": "air-l",
+    "subject": "[Air-L] Reminder: Postdoctoral Research Associate on STATETECH",
+    "date": "2026-07-24T13:01:46Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196144.html",
+    "category": "job",
+    "tags": [
+      "ai",
+      "deadline",
+      "job",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: JOBS. Tags: ai, deadline, job, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-25T06:29:00Z"
+  },
+  {
+    "id": "196143",
+    "source": "air-l",
+    "subject": "[Air-L] Call for papers: Iran amid crises",
+    "date": "2026-07-24T12:51:50Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196143.html",
+    "category": "call_for_papers",
+    "tags": [
+      "ai",
+      "book",
+      "cfp",
+      "social_media",
+      "special_issue"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: ai, book, cfp, social_media, special_issue.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-25T06:28:59Z"
+  },
+  {
+    "id": "196142",
+    "source": "air-l",
+    "subject": "[Air-L] (no subject)",
+    "date": "2026-07-24T10:11:41Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196142.html",
+    "category": "other",
+    "tags": [],
+    "snippet": "Metadata-only summary: OTHER.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-25T06:28:58Z"
+  },
+  {
+    "id": "196141",
+    "source": "air-l",
+    "subject": "[Air-L] CfA 2026 Conference of the Italian Association of Political Communication (AssoComPol)",
+    "date": "2026-07-24T09:43:47Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196141.html",
+    "category": "call_for_papers",
+    "tags": [
+      "cfp",
+      "conference"
+    ],
+    "snippet": "Metadata-only summary: CfP. Tags: cfp, conference.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-25T06:28:57Z"
+  },
+  {
+    "id": "196140",
+    "source": "air-l",
+    "subject": "[Air-L] 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026): Last Mile for Paper Submission for Doctoral Consortium Papers",
+    "date": "2026-07-24T08:15:18Z",
+    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-July/196140.html",
+    "category": "event",
+    "tags": [
+      "conference",
+      "event",
+      "phd"
+    ],
+    "snippet": "Metadata-only summary: Events. Tags: conference, event, phd.",
+    "deadline": null,
+    "event_date": null,
+    "indexed_at": "2026-07-25T06:28:56Z"
+  },
+  {
     "id": "196139",
     "source": "air-l",
     "subject": "[Air-L] REMINDER: Self-Expression, Self-Actualization, and Media Experimentation (SESAME): A Dialogue and Ruminations",
@@ -8251,85 +8334,5 @@
     "deadline": null,
     "event_date": null,
     "indexed_at": "2026-04-27T22:47:41Z"
-  },
-  {
-    "id": "195631",
-    "source": "air-l",
-    "subject": "[Air-L] PhD studentship (2026-), 'Artificial Inequality: AI and its Impact on the UK Creative Industries', University of Manchester",
-    "date": "2026-02-23T13:34:47Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195631.html",
-    "category": "job",
-    "tags": [
-      "ai",
-      "job",
-      "phd"
-    ],
-    "snippet": "Metadata-only summary: JOBS. Tags: ai, job, phd.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:40Z"
-  },
-  {
-    "id": "195630",
-    "source": "air-l",
-    "subject": "[Air-L] Webinar: Strengthening Gender, Equity and Rights in the East Mediterranean National Digital Health Strategies",
-    "date": "2026-02-23T13:15:59Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195630.html",
-    "category": "event",
-    "tags": [
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:39Z"
-  },
-  {
-    "id": "195629",
-    "source": "air-l",
-    "subject": "[Air-L] Event Invitation | How to Demystify AI | 17 March 2026",
-    "date": "2026-02-23T12:32:44Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195629.html",
-    "category": "event",
-    "tags": [
-      "ai",
-      "event"
-    ],
-    "snippet": "Metadata-only summary: Events. Tags: ai, event.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:37Z"
-  },
-  {
-    "id": "195628",
-    "source": "air-l",
-    "subject": "[Air-L] Silicon Empires. Book Talk with Nick Srnicek, March 4",
-    "date": "2026-02-23T11:00:00Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195628.html",
-    "category": "other",
-    "tags": [
-      "book",
-      "deadline"
-    ],
-    "snippet": "Metadata-only summary: OTHER. Tags: book, deadline. Deadline: 2026-03-04.",
-    "deadline": "2026-03-04",
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:36Z"
-  },
-  {
-    "id": "195627",
-    "source": "air-l",
-    "subject": "[Air-L] New Book and Book Launch event - The Web of knowledge (Polity)",
-    "date": "2026-02-23T10:57:50Z",
-    "archive_url": "http://listserv.aoir.org/pipermail/air-l-aoir.org/2026-February/195627.html",
-    "category": "publication",
-    "tags": [
-      "book",
-      "publication"
-    ],
-    "snippet": "Metadata-only summary: Publication. Tags: book, publication.",
-    "deadline": null,
-    "event_date": null,
-    "indexed_at": "2026-04-27T22:47:35Z"
   }
 ]
